@@ -90,3 +90,33 @@ Here's another example, which would provide different predictions in some cases:
 
 So, we could say that this dataset does not really provide enough information to disambiguate between these two options. 
 We would probably be best off if we collected more observations for our data before making a prediction.
+
+A third possibility looks like this:
+![img6.png](img6.png)
+![img7.png](img7.png)
+
+One could argue that the above example is a case of "overfitting" our model to our data, 
+which implies that the data does not necessarily justify the number of decisions made (four instead of two).
+Ultimately, that is a judgement call for an informed data scientist to make.
+
+
+###### Example 3:
+
+Imagine the case where we have this dataset. 
+It's similar to the previous example, but with two additional observations at (1.5, 2.5) and (1.25, -1.5):
+![img10.png](img10.png)
+
+In this example, there is just one location where we can draw a first line of separation 
+to produce the maximal amount of information gain:
+![img11.png](img11.png)
+
+After drawing this line, you can see that we have one pure node with five observations, 
+which is the largest pure node possible with a single line.
+
+For the second line of separation, we have two options which each produce an equal, optimal amount of information gain. 
+From left to right, they are:
+![img12.png](img12.png)
+![img13.png](img13.png)
+
+With these three lines of separation, we have produced pure groups of labels, and so our model looks like this:
+![img14.png](img14.png)
