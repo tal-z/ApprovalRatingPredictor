@@ -1,0 +1,958 @@
+YEAR,DATES,POLLSTER,GRADE,SAMPLE,,WEIGHT,APPROVE,DISAPPROVE,ADJUSTED_APPROVE,ADJUSTED_DISAPPROVE
+2022,APR. 4-5,Ipsos,B-,1001,A,0.86,45%,50%,44%,51%
+2022,APR. 3-5,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,1.43,42%,56%,44%,50%
+2022,APR. 2-5,YouGov,B+,1500,A,1.1,41%,50%,42%,51%
+2022,APR. 1-4,Morning Consult,B,2003,RV,0.15,42%,55%,41%,58%
+2022,MAR. 31-APR. 4,YouGov,B+,1618,A,1.12,39%,53%,40%,54%
+2022,MAR. 30-31,Morning Consult,B,2210,A,0.1,40%,54%,39%,57%
+2022,MAR. 29-31,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.68,40%,58%,42%,52%
+2022,MAR. 25-31,Climate Nexus,,1965,RV,1.02,44%,53%,43%,54%
+2022,MAR. 28-29,Ipsos,B-,1005,A,0.73,42%,52%,41%,53%
+2022,MAR. 26-29,YouGov,B+,1500,A,0.98,42%,48%,43%,49%
+2022,MAR. 23-29,Morning Consult,B,45000,A,1.99,42%,50%,41%,53%
+2022,MAR. 22-29,Marist College,A,1170,A,1.99,39%,54%,40%,54%
+2022,MAR. 24-28,Quinnipiac University,A-,1462,A,1.72,36%,55%,39%,55%
+2022,MAR. 24-28,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.73,43%,56%,45%,50%
+2022,MAR. 25-27,Morning Consult,B,2006,RV,0.05,42%,54%,41%,57%
+2022,MAR. 25-27,Research Co.,B-,1000,A,1.17,42%,52%,42%,52%
+,03/25/2022,co/efficient,B/C,963,LV,1.38,37%,56%,38%,55%
+2022,MAR. 23-24,Momentive/SurveyMonkey,C,3953,A,0.94,45%,52%,44%,52%
+2022,MAR. 23-24,Harris Poll,B+,1990,RV,2.07,39%,55%,38%,56%
+2022,MAR. 14-24,Marquette University Law School,A/B,1004,A,1.92,44%,55%,42%,55%
+2022,MAR. 21-23,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.8,41%,58%,43%,52%
+2022,MAR. 21-22,NewsNation,,1086,RV,0.84,44%,56%,43%,54%
+2022,MAR. 21-22,Ipsos,B-,1005,A,0.69,40%,54%,39%,56%
+2022,MAR. 19-22,YouGov,B+,1500,A,0.95,43%,48%,44%,49%
+2022,MAR. 18-22,Hart Research Associates/Public Opinion Strategies,B+,1000,A,1.45,40%,55%,41%,55%
+2022,MAR. 17-22,McLaughlin & Associates,C/D,1000,LV,0.76,41%,57%,40%,56%
+2022,MAR. 16-22,Morning Consult,B,45000,A,0.97,41%,50%,40%,53%
+2022,MAR. 18-21,Morning Consult,B,2211,A,0.05,38%,56%,37%,59%
+2022,MAR. 18-21,Echelon Insights,B/C,1050,RV,1.24,45%,53%,44%,53%
+2022,MAR. 18-21,Morning Consult,B,2005,RV,0.04,42%,55%,41%,58%
+2022,MAR. 18-21,Beacon Research/Shaw & Company Research,A,1004,RV,1.77,45%,54%,43%,53%
+2022,MAR. 17-21,AP-NORC,,1082,A,1.44,43%,56%,40%,56%
+2022,MAR. 15-21,University of Massachusetts Lowell,B+,1000,A,1.52,43%,57%,43%,56%
+2022,MAR. 11-21,Hofstra University,B/C,2000,RV,1.34,43%,57%,42%,56%
+,03/20/2022,Redfield & Wilton Strategies,B/C,1500,RV,1.02,39%,45%,41%,50%
+2022,MAR. 18-20,Emerson College,A-,1023,RV,1.64,43%,49%,43%,50%
+2022,MAR. 18-20,Léger,B/C,1000,A,0.98,47%,51%,47%,51%
+2022,MAR. 17-20,American Research Group,C+,1100,A,1.09,45%,51%,43%,53%
+2022,MAR. 17-20,Navigator Research,B/C,1000,RV,0.91,44%,52%,43%,51%
+2022,MAR. 16-20,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,40%,58%,42%,52%
+2022,MAR. 15-20,Selzer & Co.,A+,1002,A,2.07,34%,52%,37%,52%
+2022,MAR. 15-18,Morning Consult,B,4419,A,0.09,41%,54%,40%,57%
+2022,MAR. 1-18,Gallup,B+,1017,A,1.54,42%,54%,42%,53%
+2022,MAR. 14-17,Morning Consult,B,2210,A,0.05,43%,53%,42%,56%
+2022,MAR. 14-15,Ipsos,B-,1005,A,0.68,43%,53%,41%,55%
+2022,MAR. 13-15,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,42%,57%,44%,51%
+2022,MAR. 12-15,YouGov,B+,1500,A,0.72,40%,50%,41%,51%
+2022,MAR. 9-15,Morning Consult,B,45000,A,1,41%,51%,40%,54%
+2022,MAR. 11-14,Morning Consult,B,2210,A,0.05,40%,54%,39%,57%
+2022,MAR. 11-14,Morning Consult,B,2005,RV,0.04,41%,56%,40%,59%
+2022,MAR. 10-14,Monmouth University,A,809,A,1.53,39%,54%,40%,54%
+2022,MAR. 10-14,YouGov,B+,1623,A,0.75,41%,53%,42%,54%
+2022,MAR. 10-14,Quinnipiac University,A-,1936,A,1.74,38%,53%,41%,53%
+2022,MAR. 7-13,Pew Research Center,B/C,10441,A,3.17,43%,55%,43%,54%
+2022,FEB. 28-MAR. 12,Saint Leo University,C/D,1000,A,0.81,45%,53%,42%,55%
+2022,MAR. 8-11,YouGov,B+,2088,A,0.94,43%,57%,44%,58%
+2022,MAR. 8-10,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,41%,58%,43%,52%
+2022,MAR. 8-9,Trafalgar Group,A-,1080,LV,1.71,42%,52%,44%,50%
+2022,MAR. 2-9,Momentive/SurveyMonkey,C,16901,A,1.5,45%,54%,44%,54%
+2022,MAR. 2-9,Schoen Cooperman Research,B/C,800,LV,0.98,45%,54%,44%,54%
+,03/08/2022,Redfield & Wilton Strategies,B/C,1500,RV,0.92,37%,47%,39%,52%
+2022,MAR. 7-8,Ipsos,B-,1005,A,0.68,45%,49%,43%,50%
+2022,MAR. 7-8,InsiderAdvantage,B,750,LV,1.15,42%,54%,43%,52%
+2022,MAR. 5-8,YouGov,B+,1500,A,0.66,41%,48%,42%,49%
+2022,MAR. 2-8,Morning Consult,B,45000,A,1,42%,50%,41%,53%
+2022,MAR. 4-7,Morning Consult,B,2005,RV,0.04,46%,51%,45%,54%
+2022,MAR. 3-7,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,41%,58%,43%,52%
+2022,MAR. 3-7,Navigator Research,B/C,1000,RV,0.77,45%,53%,44%,52%
+2022,MAR. 2-7,"Fabrizio, Lee & Associates/Impact Research",,1500,RV,1.16,42%,57%,42%,55%
+2022,MAR. 4-6,Quinnipiac University,A-,1374,A,1.23,38%,51%,41%,51%
+2022,MAR. 4-6,Morning Consult,B,2005,RV,0.04,45%,51%,44%,54%
+2022,MAR. 4-6,Léger,B/C,1003,A,0.97,48%,49%,48%,49%
+2022,MAR. 2-4,TIPP Insights,A+,1318,A,2.44,39%,47%,40%,52%
+2022,MAR. 1-3,Cor Services,,524,LV,0.63,47%,48%,49%,47%
+2022,MAR. 1-2,Marist College,A,1322,A,2.02,47%,50%,48%,50%
+2022,FEB. 28-MAR. 2,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,44%,54%,46%,48%
+2022,FEB. 28-MAR. 1,Ipsos,B-,1005,A,0.65,43%,54%,41%,55%
+2022,FEB. 26-MAR. 1,YouGov,B+,1500,A,0.63,42%,47%,43%,48%
+2022,FEB. 23-MAR. 1,Morning Consult,B,45000,A,0.98,42%,50%,41%,53%
+2022,FEB. 24-28,YouGov,B+,2238,A,0.89,44%,56%,45%,57%
+2022,FEB. 26-27,Morning Consult,B,2210,A,0.05,42%,54%,41%,57%
+2022,FEB. 25-27,Morning Consult,B,2004,RV,0.04,41%,56%,40%,59%
+2022,FEB. 25-27,Quinnipiac University,A-,1364,A,1.34,37%,52%,40%,52%
+2022,FEB. 24-27,YouGov,B+,1532,A,0.61,41%,53%,42%,54%
+2022,FEB. 23-27,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,40%,59%,42%,53%
+,02/26/2022,Morning Consult,B,2002,RV,0.04,44%,54%,43%,57%
+2022,FEB. 24-25,YouGov Blue,,1007,RV,0.84,41%,55%,41%,54%
+,02/24/2022,Morning Consult,B,1717,RV,0.04,47%,51%,46%,54%
+2022,FEB. 23-24,NewsNation,,1046,RV,0.82,43%,57%,42%,56%
+2022,FEB. 23-24,Harris Poll,B+,2026,RV,2.09,38%,55%,37%,56%
+2022,FEB. 20-24,ABC News/The Washington Post,A+,1011,A,2,37%,55%,38%,54%
+,02/23/2022,Redfield & Wilton Strategies,B/C,1500,RV,0.96,39%,41%,41%,46%
+2022,FEB. 22-23,Ipsos,B-,1004,A,0.62,43%,53%,42%,54%
+2022,FEB. 19-23,Echelon Insights,B/C,1078,RV,1.25,44%,53%,43%,53%
+2022,FEB. 19-23,The Bullfinch Group,,1247,A,1.09,44%,51%,43%,52%
+2022,FEB. 20-22,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,45%,55%,47%,49%
+2022,FEB. 19-22,Beacon Research/Shaw & Company Research,A,1001,RV,1.77,43%,56%,41%,55%
+2022,FEB. 19-22,YouGov,B+,1500,A,0.61,41%,49%,42%,50%
+2022,FEB. 17-22,Navigator Research,B/C,1770,RV,1.1,43%,55%,42%,54%
+2022,FEB. 16-22,Morning Consult,B,45000,A,0.98,42%,50%,41%,53%
+2022,FEB. 16-22,McLaughlin & Associates,C/D,1000,LV,0.76,41%,57%,40%,56%
+2022,FEB. 19-21,Morning Consult,B,2005,RV,0.04,45%,53%,44%,56%
+2022,FEB. 18-21,AP-NORC,,1289,A,1.6,44%,55%,41%,55%
+2022,FEB. 15-21,Marist College,A,1264,A,1.97,39%,55%,40%,55%
+2022,FEB. 19-20,Morning Consult,B,3007,RV,0.06,45%,52%,44%,55%
+2022,FEB. 19-20,Emerson College,A-,1138,RV,1.77,42%,50%,43%,51%
+2022,FEB. 18-20,Morning Consult,B,2005,RV,0.04,44%,52%,43%,55%
+2022,FEB. 17-20,American Research Group,C+,1100,A,1.09,44%,52%,42%,54%
+2022,FEB. 16-20,Suffolk University,B+,1000,RV,1.56,39%,57%,41%,54%
+2022,FEB. 15-18,YouGov,B+,2484,A,1,43%,57%,44%,58%
+2022,FEB. 15-17,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,43%,56%,45%,50%
+2022,FEB. 10-17,Tarrance Group,B+,800,RV,1.3,41%,53%,41%,53%
+2022,FEB. 1-17,Gallup,B+,1008,A,1.52,41%,55%,41%,54%
+2022,FEB. 13-16,Trafalgar Group,A-,1078,LV,1.71,39%,58%,41%,55%
+2022,FEB. 14-15,Ipsos,B-,1005,A,0.56,44%,51%,43%,52%
+2022,FEB. 12-15,YouGov,B+,1500,A,0.61,39%,50%,40%,51%
+2022,FEB. 9-15,Morning Consult,B,45000,A,0.98,41%,50%,40%,53%
+2022,FEB. 10-14,Quinnipiac University,A-,1321,A,1.66,35%,55%,38%,55%
+2022,FEB. 10-14,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,40%,59%,42%,53%
+2022,FEB. 12-13,Morning Consult,B,2210,A,0.05,42%,52%,41%,55%
+2022,FEB. 12-13,Morning Consult,B,2005,RV,0.04,43%,53%,42%,56%
+2022,FEB. 8-11,YouGov,B+,2578,A,1.05,44%,56%,45%,57%
+2022,FEB. 9-10,Morning Consult,B,2210,A,0.05,44%,51%,43%,54%
+2022,FEB. 7-9,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,43%,55%,45%,49%
+2022,FEB. 3-9,Susquehanna Polling & Research,B+,800,LV,1.29,42%,52%,43%,52%
+2022,FEB. 7-8,Ipsos,B-,1005,A,0.36,43%,51%,42%,52%
+2022,FEB. 5-8,YouGov,B+,1500,A,0.64,39%,50%,40%,51%
+2022,FEB. 4-8,Public Opinion Strategies,A-,1000,RV,1.64,43%,54%,42%,54%
+2022,FEB. 2-8,Morning Consult,B,45000,A,0.99,41%,51%,40%,54%
+,02/07/2022,Morning Consult,B,2005,RV,0.04,43%,55%,42%,58%
+2022,FEB. 3-7,YouGov,B+,1628,A,0.74,42%,51%,43%,52%
+2022,FEB. 3-7,Navigator Research,B/C,1000,RV,0.79,43%,55%,42%,54%
+2022,FEB. 1-7,SurveyMonkey,C,7590,A,1.49,44%,53%,43%,53%
+2022,JAN. 31-FEB. 7,Ipsos,B-,4404,A,1.36,45%,52%,44%,53%
+,02/06/2022,Redfield & Wilton Strategies,B/C,1500,RV,1.09,38%,48%,40%,53%
+2022,FEB. 5-6,Morning Consult,B,2005,RV,0.04,41%,55%,40%,58%
+2022,FEB. 4-6,Morning Consult,B,2209,A,0.05,45%,51%,44%,54%
+2022,FEB. 4-6,Léger,B/C,1005,A,0.97,42%,55%,42%,55%
+2022,FEB. 2-6,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,43%,56%,45%,50%
+2022,JAN. 10-FEB. 6,SSRS,C,1527,A,1.13,41%,58%,40%,58%
+2022,FEB. 2-4,TIPP Insights,A+,1355,A,2.47,38%,48%,39%,53%
+2022,FEB. 2-3,Ipsos,B-,1005,A,0.32,41%,56%,39%,58%
+2022,FEB. 1-2,Morning Consult,B,2210,A,0.05,42%,52%,41%,55%
+2022,JAN. 30-FEB. 1,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,39%,59%,41%,53%
+2022,JAN. 29-FEB. 1,YouGov,B+,1500,A,0.78,42%,49%,43%,50%
+2022,JAN. 26-FEB. 1,Morning Consult,B,45000,A,0.98,41%,51%,40%,54%
+2022,JAN. 28-30,Morning Consult,B,2005,RV,0.04,43%,54%,42%,57%
+2022,JAN. 28-29,Public Policy Polling,A-,662,RV,1.2,40%,49%,41%,49%
+2022,JAN. 26-27,Ipsos,B-,1002,A,0.44,45%,50%,44%,52%
+2022,JAN. 25-27,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,41%,57%,43%,51%
+2022,JAN. 22-25,YouGov,B+,1500,A,0.82,38%,51%,39%,52%
+2022,JAN. 19-25,Morning Consult,B,45000,A,0.96,42%,50%,41%,53%
+2022,JAN. 21-24,Zogby Analytics,B-,897,LV,1.1,44%,49%,42%,51%
+2022,JAN. 20-24,Navigator Research,B/C,1000,RV,0.83,46%,52%,45%,51%
+2022,JAN. 20-24,Monmouth University,A,794,A,1.51,39%,54%,40%,54%
+2022,JAN. 20-24,YouGov,B+,1568,A,0.84,40%,53%,41%,54%
+2022,JAN. 20-24,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,40%,59%,42%,53%
+2022,JAN. 17-24,Momentive/SurveyMonkey,C,12136,A,1.54,45%,53%,44%,53%
+,01/23/2022,Morning Consult,B,2005,RV,0.04,41%,56%,40%,59%
+2022,JAN. 22-23,Morning Consult,B,2005,RV,0.04,42%,55%,41%,58%
+2022,JAN. 22-23,Morning Consult,B,2210,A,0.05,41%,53%,40%,56%
+2022,JAN. 22-23,Morning Consult,B,2211,A,0.05,43%,50%,42%,53%
+2022,JAN. 21-23,Léger,B/C,1000,A,0.98,42%,56%,42%,56%
+2022,JAN. 21-23,InsiderAdvantage,B,850,LV,1.25,40%,59%,41%,57%
+2022,JAN. 21-23,Echelon Insights,B/C,1029,RV,0.96,46%,52%,45%,52%
+2022,JAN. 10-21,Marquette University Law School,A/B,1000,A,1.91,46%,53%,44%,53%
+2022,JAN. 19-20,Ipsos,B-,1004,A,0.59,43%,52%,42%,53%
+2022,JAN. 19-20,Harris Poll,B+,1815,RV,2.01,39%,53%,38%,54%
+2022,JAN. 17-20,American Research Group,C+,1100,A,1.11,43%,53%,41%,55%
+2022,JAN. 18-19,RMG Research,B-,1200,RV,0.68,42%,52%,41%,53%
+2022,JAN. 17-19,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.79,40%,58%,42%,52%
+2022,JAN. 16-19,Beacon Research/Shaw & Company Research,A,1001,RV,1.79,47%,52%,45%,51%
+2022,JAN. 15-18,YouGov,B+,1500,A,0.8,39%,51%,40%,52%
+2022,JAN. 14-18,Hart Research Associates/Public Opinion Strategies,B+,1000,A,1.45,43%,54%,44%,54%
+2022,JAN. 13-18,McLaughlin & Associates,C/D,1000,LV,0.77,41%,57%,40%,56%
+2022,JAN. 13-18,AP-NORC,,1161,A,1.54,43%,56%,40%,56%
+2022,JAN. 12-18,Morning Consult,B,45000,A,0.96,43%,49%,42%,52%
+2022,JAN. 14-17,Echelon Insights,B/C,1000,RV,0.94,45%,52%,44%,52%
+2022,JAN. 10-17,Pew Research Center,B/C,5128,A,2.78,41%,56%,41%,55%
+2022,JAN. 15-16,Morning Consult,B,2005,RV,0.04,40%,56%,39%,59%
+2022,JAN. 14-16,Morning Consult,B,2210,A,0.05,41%,52%,40%,55%
+2022,JAN. 14-16,Morning Consult,B,4411,A,0.09,43%,52%,42%,55%
+2022,JAN. 12-16,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,39%,60%,41%,54%
+2022,JAN. 3-16,Gallup,B+,811,A,1.32,40%,56%,40%,55%
+2022,JAN. 14-15,Morning Consult,B,2210,A,0.05,44%,50%,43%,53%
+2022,JAN. 13-15,RMG Research,B-,1200,RV,0.55,44%,50%,43%,51%
+2022,JAN. 12-15,Trafalgar Group,A-,1083,LV,1.73,39%,59%,41%,56%
+2022,JAN. 13-14,YouGov Blue,,1055,RV,0.85,40%,55%,40%,54%
+2022,JAN. 12-14,Morning Consult,B,2210,A,0.05,44%,50%,43%,53%
+2022,JAN. 12-14,YouGov,B+,2094,A,1.16,44%,56%,45%,57%
+2022,JAN. 12-13,Ipsos,B-,1005,A,0.68,45%,50%,43%,51%
+2022,JAN. 11-12,RMG Research,B-,1200,RV,0.53,40%,53%,39%,54%
+2022,JAN. 9-11,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.71,40%,58%,42%,52%
+2022,JAN. 8-11,YouGov,B+,1500,A,0.89,43%,50%,44%,51%
+2022,JAN. 5-11,Morning Consult,B,45000,A,1.02,43%,49%,42%,52%
+,01/10/2022,NewsNation,,1013,RV,0.84,42%,58%,41%,56%
+2022,JAN. 7-10,Quinnipiac University,A-,1313,A,1.9,33%,53%,36%,53%
+2022,JAN. 6-10,Navigator Research,B/C,1000,RV,0.92,47%,51%,46%,50%
+2022,JAN. 8-9,Morning Consult,B,2200,A,0.05,44%,50%,43%,53%
+2022,JAN. 8-9,Redfield & Wilton Strategies,B/C,1500,RV,1.17,39%,44%,41%,49%
+2022,JAN. 8-9,Morning Consult,B,2200,A,0.05,43%,51%,42%,54%
+2022,JAN. 5-9,TIPP Insights,A+,1308,A,2.42,44%,45%,45%,50%
+2022,JAN. 6-7,RMG Research,B-,1200,RV,0.54,41%,52%,40%,53%
+2022,JAN. 5-6,Ipsos,B-,1000,A,0.78,45%,51%,44%,52%
+2022,JAN. 4-6,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.63,41%,58%,43%,52%
+,01/05/2022,Morning Consult,B,2200,A,0.05,43%,50%,42%,53%
+2022,JAN. 3-4,RMG Research,B-,1200,RV,0.58,42%,50%,41%,51%
+2022,JAN. 2-4,The Winston Group,A/B,1000,RV,1.62,46%,44%,45%,47%
+2022,JAN. 2-4,YouGov,B+,1500,A,1.14,40%,50%,41%,51%
+2021-2022,DEC. 29-JAN. 4,Morning Consult,B,45000,A,1.06,42%,50%,41%,53%
+2021-2022,DEC. 30-JAN. 3,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.72,40%,58%,42%,52%
+2021,DEC. 27-30,Suffolk University,B+,1000,RV,1.56,40%,54%,42%,52%
+2021,DEC. 28-29,Morning Consult,B,2000,RV,0.05,43%,54%,42%,57%
+2021,DEC. 27-29,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.86,43%,56%,45%,50%
+2021,DEC. 22-28,Morning Consult,B,45000,A,1.07,44%,49%,43%,52%
+2021,DEC. 21-26,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.55,40%,58%,42%,52%
+2021,DEC. 21-22,RMG Research,B-,1200,RV,0.59,41%,53%,40%,54%
+2021,DEC. 21-22,Zogby Analytics,B-,1311,LV,1.32,50%,48%,47%,50%
+2021,DEC. 19-21,YouGov,B+,1500,A,1.05,39%,49%,40%,50%
+2021,DEC. 18-21,Trafalgar Group,A-,1073,LV,1.68,40%,56%,42%,53%
+2021,DEC. 15-21,Morning Consult,B,45000,A,1.04,45%,48%,44%,51%
+2021,DEC. 18-20,Morning Consult,B,1999,RV,0.05,44%,53%,43%,56%
+2021,DEC. 17-20,Change Research,B-,1895,RV,1.49,44%,56%,44%,54%
+2021,DEC. 17-20,American Research Group,C+,1100,A,1.1,46%,49%,44%,51%
+2021,DEC. 16-20,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.74,42%,57%,44%,51%
+2021,DEC. 14-20,YouGov,B+,1000,A,0.64,41%,53%,42%,54%
+2021,DEC. 17-19,InsiderAdvantage,B,750,RV,1.15,41%,58%,42%,56%
+,12/18/2022,Redfield & Wilton Strategies,B/C,1500,RV,1.02,41%,44%,43%,49%
+,12/17/2022,John Zogby Strategies,B/C,777,LV,1.06,46%,52%,45%,53%
+2021,DEC. 16-17,RMG Research,B-,1200,RV,0.5,41%,53%,40%,54%
+2021,DEC. 15-17,Ipsos,B-,1004,A,0.36,48%,46%,47%,47%
+2021,DEC. 13-17,Ipsos,B-,4407,A,1.53,48%,48%,47%,49%
+2021,DEC. 1-16,Gallup,B+,811,A,1.32,43%,51%,43%,50%
+2021,DEC. 14-15,RMG Research,B-,1200,RV,0.48,42%,52%,41%,53%
+2021,DEC. 13-15,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.81,40%,58%,42%,52%
+2021,DEC. 12-14,YouGov,B+,1500,A,0.89,41%,50%,42%,51%
+2021,DEC. 11-14,Beacon Research/Shaw & Company Research,A,1002,RV,1.77,47%,51%,45%,50%
+2021,DEC. 8-14,Morning Consult,B,45000,A,0.95,44%,48%,43%,51%
+2021,DEC. 11-13,Morning Consult,B,1998,RV,0.04,46%,51%,45%,54%
+2021,DEC. 11-13,Marist College,A,1400,A,2.06,41%,55%,42%,55%
+2021,DEC. 9-13,YouGov,B+,1558,A,0.92,41%,53%,42%,54%
+2021,DEC. 9-13,Echelon Insights,B/C,1020,RV,1.21,48%,51%,47%,51%
+2021,DEC. 8-12,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.56,43%,56%,45%,50%
+2021,DEC. 8-12,SSRS,C,1256,A,1.06,49%,51%,48%,51%
+2021,DEC. 9-10,Ipsos,B-,1004,A,0.41,48%,48%,47%,50%
+2021,DEC. 8-10,RMG Research,B-,1200,RV,0.45,41%,53%,40%,54%
+2021,DEC. 7-9,Morning Consult,B,2200,A,0.05,49%,47%,48%,50%
+2021,DEC. 2-9,Schoen Cooperman Research,B/C,800,LV,0.98,46%,51%,45%,51%
+2021,DEC. 6-8,RMG Research,B-,1200,RV,0.45,45%,49%,44%,50%
+2021,DEC. 6-7,HarrisX,B+,926,RV,1.23,45%,50%,41%,51%
+2021,DEC. 5-7,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.73,42%,57%,44%,51%
+2021,DEC. 4-7,YouGov,B+,1500,A,0.93,39%,52%,40%,53%
+2021,DEC. 3-7,Morning Consult,B,2200,A,0.04,47%,47%,46%,50%
+2021,DEC. 2-7,AP-NORC,,1089,A,1.48,48%,51%,45%,51%
+2021,DEC. 1-7,Morning Consult,B,45000,A,0.87,44%,48%,43%,51%
+2021,NOV. 30-DEC. 7,YouGov/Pennsylvania State University McCourtney Institute for Democracy,B+,1200,A,1.76,45%,55%,44%,54%
+2021,DEC. 4-6,Morning Consult,B,2000,RV,0.04,45%,51%,44%,54%
+2021,DEC. 3-6,Navigator Research,B/C,1000,RV,0.93,45%,52%,44%,51%
+2021,DEC. 3-6,Morning Consult,B,2200,A,0.04,47%,48%,46%,51%
+2021,DEC. 2-6,Monmouth University,A,808,A,1.52,40%,50%,41%,50%
+2021,DEC. 2-6,Morning Consult,B,2200,A,0.04,50%,46%,49%,49%
+2021,NOV. 30-DEC. 6,Marist College,A,1172,A,1.7,42%,51%,43%,51%
+,12/05/2022,Redfield & Wilton Strategies,B/C,1500,RV,1,37%,45%,39%,50%
+2021,DEC. 3-5,Léger,B/C,1004,A,0.97,44%,55%,44%,55%
+2021,DEC. 1-4,TIPP Insights,A+,1301,A,2.43,43%,43%,44%,48%
+2021,DEC. 1-4,Hart Research Associates/Public Opinion Strategies,B+,800,A,1.25,41%,50%,42%,50%
+2021,DEC. 1-3,RMG Research,B-,1200,RV,0.46,46%,48%,45%,49%
+2021,DEC. 1-2,Ipsos,B-,1005,A,0.67,46%,49%,44%,50%
+2021,NOV. 30-DEC. 2,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.67,42%,57%,44%,51%
+2021,NOV. 30-DEC. 2,Harris Poll,B+,1989,RV,2.1,45%,51%,44%,52%
+2021,NOV. 29-DEC. 1,Cor Services,,523,LV,0.63,42%,51%,44%,50%
+2021,NOV. 29-30,RMG Research,B-,1200,RV,0.47,43%,52%,42%,53%
+2021,NOV. 29-30,Morning Consult,B,2200,A,0.04,46%,48%,45%,51%
+2021,NOV. 28-30,Morning Consult,B,18914,RV,0.36,45%,52%,44%,55%
+2021,NOV. 27-30,YouGov,B+,1500,A,0.98,41%,49%,42%,50%
+2021,NOV. 24-30,Morning Consult,B,45000,A,0.91,44%,49%,43%,52%
+2021,NOV. 26-29,Trafalgar Group,A-,1082,LV,1.71,36%,59%,38%,56%
+2021,NOV. 23-29,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.82,43%,56%,45%,50%
+2021,NOV. 24-27,Morning Consult,B,2200,A,0.04,46%,49%,45%,52%
+2021,NOV. 22-24,The Winston Group,A/B,1000,RV,1.47,42%,47%,41%,50%
+2021,NOV. 22-23,RMG Research,B-,1200,RV,0.5,43%,52%,42%,53%
+2021,NOV. 20-23,YouGov,B+,1500,A,0.78,41%,49%,42%,50%
+2021,NOV. 17-23,Morning Consult,B,45000,A,0.97,44%,48%,43%,51%
+2021,NOV. 20-22,Morning Consult,B,1999,RV,0.04,44%,52%,43%,55%
+2021,NOV. 18-22,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.76,41%,58%,43%,52%
+2021,NOV. 18-22,Navigator Research,B/C,1000,RV,0.84,43%,54%,42%,53%
+2021,NOV. 16-22,"Fabrizio, Lee & Associates/Impact Research",,1500,RV,1.16,41%,57%,41%,55%
+2021,NOV. 19-21,Morning Consult,B,2200,A,0.05,47%,47%,46%,50%
+2021,NOV. 19-21,Léger,B/C,1001,A,0.88,44%,53%,44%,53%
+2021,NOV. 18-21,Public Opinion Strategies,A-,1000,RV,1.64,47%,53%,46%,53%
+2021,NOV. 17-21,Morning Consult,B,2199,A,0.05,47%,48%,46%,51%
+2021,NOV. 17-20,American Research Group,C+,1100,A,1.1,44%,50%,42%,52%
+2021,NOV. 17-19,YouGov,B+,1696,A,0.8,43%,52%,44%,53%
+2021,NOV. 16-19,Marist College,A,1048,A,1.71,42%,50%,43%,50%
+2021,NOV. 15-19,YouGov,B+,2058,A,0.96,44%,56%,45%,57%
+2021,NOV. 17-18,RMG Research,B-,1200,RV,0.5,44%,52%,43%,53%
+2021,NOV. 17-18,Ipsos,B-,1003,A,0.79,44%,49%,43%,50%
+2021,NOV. 16-18,HarrisX,B+,2787,RV,2.3,44%,45%,40%,46%
+2021,NOV. 12-18,Echelon Insights,B/C,1013,RV,1.14,45%,52%,44%,52%
+2021,NOV. 15-17,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.81,41%,59%,43%,53%
+2021,NOV. 14-17,Beacon Research/Shaw & Company Research,A,1003,RV,1.76,44%,54%,42%,53%
+2021,NOV. 15-16,RMG Research,B-,1200,RV,0.5,41%,53%,40%,54%
+2021,NOV. 14-16,YouGov,B+,1500,A,0.71,43%,49%,44%,50%
+2021,NOV. 11-16,McLaughlin & Associates,C/D,1000,LV,0.76,42%,56%,41%,55%
+2021,NOV. 10-16,Morning Consult,B,45000,A,0.99,44%,48%,43%,51%
+2021,NOV. 1-16,Gallup,B+,815,A,1.32,42%,55%,42%,54%
+,11/15/2022,Redfield & Wilton Strategies,B/C,1500,RV,1.02,37%,46%,39%,51%
+2021,NOV. 13-15,Morning Consult,B,1998,RV,0.04,44%,53%,43%,56%
+2021,NOV. 12-15,Morning Consult,B,2200,A,0.05,43%,50%,42%,53%
+2021,NOV. 11-15,Quinnipiac University,A-,1378,A,1.93,36%,53%,39%,53%
+2021,NOV. 12-14,Morning Consult,B,2200,A,0.05,46%,49%,45%,52%
+2021,NOV. 11-14,The Bullfinch Group,,1200,A,1.07,45%,52%,44%,53%
+2021,NOV. 10-14,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.55,43%,56%,45%,50%
+2021,NOV. 10-12,The Winston Group,A/B,1000,RV,1.47,45%,47%,44%,50%
+2021,NOV. 9-10,Ipsos,B-,1004,A,0.71,46%,49%,44%,50%
+2021,NOV. 7-10,ABC News/The Washington Post,A+,1001,A,1.98,41%,53%,42%,52%
+2021,NOV. 1-10,Marquette University Law School,A/B,1004,A,1.92,49%,51%,47%,51%
+2021,NOV. 8-9,RMG Research,B-,1200,RV,0.53,40%,55%,39%,56%
+2021,NOV. 7-9,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.71,40%,59%,42%,53%
+2021,NOV. 6-9,YouGov,B+,1500,A,0.79,42%,48%,43%,49%
+2021,NOV. 3-9,Morning Consult,B,45000,A,1,44%,49%,43%,52%
+2021,NOV. 1-9,Susquehanna Polling & Research,B+,800,LV,1.29,36%,52%,37%,52%
+2021,NOV. 4-8,Monmouth University,A,811,A,1.53,42%,50%,43%,50%
+2021,NOV. 4-8,Navigator Research,B/C,1003,RV,0.82,47%,50%,46%,49%
+2021,NOV. 4-8,YouGov,B+,1673,A,0.91,42%,51%,43%,52%
+2021,NOV. 5-7,Léger,B/C,1006,A,0.87,45%,54%,45%,54%
+2021,NOV. 5-7,Morning Consult,B,1998,RV,0.04,46%,51%,45%,54%
+2021,NOV. 5-7,Morning Consult,B,2198,A,0.05,48%,47%,47%,50%
+2021,NOV. 4-7,RMG Research,B-,1200,RV,0.54,44%,50%,43%,51%
+2021,NOV. 3-5,Suffolk University,B+,1000,RV,1.56,38%,59%,40%,57%
+2021,NOV. 3-5,Morning Consult,B,2200,A,0.05,46%,50%,45%,53%
+2021,NOV. 3-4,Emerson College,A-,1000,RV,1.63,41%,50%,42%,51%
+2021,NOV. 3-4,Ipsos,B-,1005,A,0.68,48%,47%,47%,48%
+2021,NOV. 2-4,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,43%,55%,45%,49%
+2021,NOV. 1-4,SSRS,C,1004,A,0.93,48%,52%,47%,52%
+2021,OCT. 30-NOV. 2,YouGov,B+,1500,A,0.88,41%,50%,42%,51%
+2021,OCT. 27-NOV. 2,Morning Consult,B,45000,A,1,44%,48%,43%,51%
+2021,OCT. 29-NOV. 1,Morning Consult,B,2200,A,0.05,47%,47%,46%,50%
+2021,OCT. 28-NOV. 1,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,43%,56%,45%,50%
+,10/31/2022,Redfield & Wilton Strategies,B/C,1500,RV,0.95,40%,44%,42%,49%
+2021,OCT. 28-30,RMG Research,B-,1200,RV,0.5,46%,49%,45%,50%
+2021,OCT. 27-29,TIPP Insights,A+,1306,A,2.41,40%,45%,41%,50%
+2021,OCT. 27-28,Harris Poll,B+,1688,RV,1.94,43%,52%,42%,53%
+2021,OCT. 27-28,Ipsos,B-,1005,A,0.68,44%,51%,43%,53%
+2021,OCT. 26-28,Morning Consult,B,2198,A,0.05,47%,48%,46%,51%
+2021,OCT. 25-27,RMG Research,B-,1200,RV,0.47,43%,53%,42%,54%
+2021,OCT. 25-27,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,42%,57%,44%,51%
+2021,OCT. 24-26,YouGov,B+,1500,A,0.89,43%,49%,44%,50%
+2021,OCT. 23-26,Hart Research Associates/Public Opinion Strategies,B+,1000,A,1.27,42%,54%,43%,54%
+2021,OCT. 20-26,Morning Consult,B,45000,A,0.98,45%,48%,44%,51%
+2021,OCT. 20-26,Echelon Insights,B/C,1600,RV,1.19,45%,52%,44%,52%
+2021,OCT. 22-25,Navigator Research,B/C,1001,RV,0.83,43%,53%,42%,52%
+2021,OCT. 21-25,AP-NORC,,1083,A,1.46,48%,51%,45%,51%
+2021,OCT. 22-24,Morning Consult,B,1999,RV,0.04,46%,51%,45%,54%
+2021,OCT. 22-24,Léger,B/C,1002,A,0.87,43%,54%,43%,54%
+2021,OCT. 20-24,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,43%,56%,45%,50%
+,10/23/2022,Morning Consult,B,2201,A,0.05,49%,47%,48%,50%
+2021,OCT. 21-23,Morning Consult,B,2201,A,0.05,53%,45%,52%,48%
+2021,OCT. 21-23,RMG Research,B-,1200,RV,0.44,43%,53%,42%,54%
+2021,OCT. 20-23,HarrisX,B+,2727,RV,2.28,42%,47%,38%,48%
+2021,OCT. 17-23,Saint Leo University,C/D,1000,A,0.81,52%,45%,50%,47%
+2021,OCT. 18-22,Marist College,A,1209,A,2.05,44%,49%,45%,49%
+2021,OCT. 20-21,Ipsos,B-,1005,A,0.68,46%,48%,44%,49%
+2021,OCT. 19-21,Trafalgar Group,A-,1083,LV,1.64,39%,58%,41%,56%
+2021,OCT. 19-21,YouGov,B+,1704,A,0.95,44%,49%,45%,50%
+2021,OCT. 16-21,Lake Research Partners/The Tarrance Group,A/B,1000,RV,1.44,45%,52%,45%,51%
+2021,OCT. 18-20,RMG Research,B-,1200,RV,0.45,47%,47%,46%,48%
+2021,OCT. 17-20,American Research Group,C+,1100,A,1.1,47%,47%,45%,49%
+2021,OCT. 17-19,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,41%,58%,43%,52%
+2021,OCT. 16-19,YouGov,B+,1500,A,0.84,44%,46%,45%,47%
+2021,OCT. 16-19,Beacon Research/Shaw & Company Research,A,1003,RV,1.78,46%,53%,44%,52%
+2021,OCT. 15-19,Echelon Insights,B/C,1098,RV,0.87,47%,51%,46%,51%
+2021,OCT. 13-19,Morning Consult,B,45000,A,0.95,46%,47%,45%,50%
+2021,OCT. 1-19,Gallup,B+,823,A,1.33,42%,52%,42%,51%
+2021,OCT. 16-18,Morning Consult,B,1998,RV,0.04,45%,52%,44%,55%
+2021,OCT. 15-18,Quinnipiac University,A-,1342,A,1.73,37%,52%,40%,52%
+2021,OCT. 14-18,McLaughlin & Associates,C/D,1000,LV,0.76,45%,54%,44%,53%
+2021,OCT. 12-18,Climate Nexus,,2678,RV,1.09,46%,50%,45%,51%
+,10/17/2022,Redfield & Wilton Strategies,B/C,1500,RV,0.92,43%,39%,45%,44%
+2021,OCT. 14-17,Morning Consult,B,2200,A,0.05,49%,45%,48%,48%
+2021,OCT. 14-17,Hart Research Associates/Public Opinion Strategies,B+,800,A,1.06,41%,52%,42%,52%
+2021,OCT. 13-17,Selzer & Co.,A+,915,A,1.91,37%,50%,40%,50%
+2021,OCT. 14-16,RMG Research,B-,1200,RV,0.46,47%,48%,46%,49%
+2021,OCT. 12-15,Morning Consult,B,2200,A,0.05,48%,47%,47%,50%
+2021,OCT. 13-14,Ipsos,B-,1005,A,0.68,46%,48%,45%,49%
+2021,OCT. 12-14,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,43%,56%,45%,50%
+2021,OCT. 12-14,Cor Services,,508,LV,0.49,40%,56%,42%,55%
+2021,OCT. 11-13,RMG Research,B-,1200,RV,0.49,43%,47%,42%,48%
+2021,OCT. 11-13,Morning Consult,B,2201,A,0.05,48%,47%,47%,50%
+2021,OCT. 9-12,Morning Consult,B,2200,A,0.05,47%,48%,46%,51%
+2021,OCT. 9-12,YouGov,B+,1500,A,0.78,40%,50%,41%,51%
+2021,OCT. 8-12,Morning Consult,B,2200,A,0.05,47%,49%,46%,52%
+2021,OCT. 6-12,Morning Consult,B,45000,A,0.95,46%,47%,45%,50%
+2021,OCT. 8-11,Morning Consult,B,1999,RV,0.04,46%,51%,45%,54%
+2021,OCT. 7-11,Navigator Research,B/C,1001,RV,0.83,46%,51%,45%,50%
+2021,OCT. 7-11,SSRS,C,1000,A,0.93,50%,49%,49%,49%
+2021,OCT. 7-11,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,41%,57%,43%,51%
+2021,OCT. 8-10,Léger,B/C,1000,A,0.87,45%,53%,45%,53%
+2021,OCT. 6-9,RMG Research,B-,1200,RV,0.57,47%,50%,46%,51%
+2021,OCT. 6-8,Morning Consult,B,2200,A,0.05,49%,46%,48%,49%
+2021,OCT. 6-8,YouGov,B+,2054,A,1,50%,50%,51%,51%
+2021,OCT. 6-7,Ipsos,B-,1005,A,0.68,48%,47%,47%,48%
+2021,OCT. 4-6,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,43%,55%,45%,49%
+2021,OCT. 4-6,Trafalgar Group,A-,1087,LV,1.62,40%,56%,42%,53%
+2021,OCT. 3-6,Cor Services,,516,LV,0.5,39%,53%,41%,52%
+,10/05/2022,Redfield & Wilton Strategies,B/C,1500,RV,0.93,45%,37%,47%,42%
+2021,OCT. 3-5,YouGov,B+,1500,A,0.71,42%,48%,43%,49%
+2021,SEP. 29-OCT. 5,Morning Consult,B,45000,A,0.95,46%,47%,45%,50%
+2021,OCT. 2-4,Morning Consult,B,1998,RV,0.04,45%,52%,44%,55%
+2021,OCT. 1-4,Quinnipiac University,A-,1326,A,1.69,38%,53%,41%,53%
+2021,OCT. 1-4,Morning Consult,B,3300,A,0.07,46%,49%,45%,52%
+2021,OCT. 1-4,YouGov,B+,1640,A,0.78,42%,50%,43%,51%
+2021,SEP. 29-OCT. 3,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,43%,56%,45%,50%
+2021,SEP. 29-OCT. 2,TIPP Insights,A+,1308,A,2.41,44%,40%,45%,45%
+2021,SEP. 30-OCT. 1,Public Policy Polling,A-,758,RV,1.33,46%,47%,47%,47%
+2021,SEP. 29-30,Morning Consult,B,2200,A,0.05,46%,48%,45%,51%
+2021,SEP. 29-30,Ipsos,B-,1005,A,0.68,46%,50%,44%,51%
+2021,SEP. 27-29,Morning Consult,B,2200,A,0.05,49%,46%,48%,49%
+2021,SEP. 16-29,Public Religion Research Institute,A/B,2508,A,2.42,52%,48%,50%,48%
+2021,SEP. 27-28,HarrisX,B+,935,RV,0.92,48%,43%,44%,44%
+2021,SEP. 26-28,YouGov,B+,1500,A,0.8,40%,49%,41%,50%
+2021,SEP. 26-28,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,42%,56%,44%,50%
+2021,SEP. 22-28,Morning Consult,B,45000,A,0.9,45%,47%,44%,50%
+2021,SEP. 24-27,Morning Consult,B,2200,A,0.05,48%,46%,47%,49%
+2021,SEP. 23-27,AP-NORC,,1099,A,1.47,50%,49%,47%,49%
+2021,SEP. 23-27,Navigator Research,B/C,1000,RV,0.83,46%,51%,45%,50%
+2021,SEP. 24-26,Léger,B/C,1001,A,0.86,46%,52%,46%,52%
+2021,SEP. 20-26,Marist College,A,1220,A,2.04,45%,46%,46%,46%
+2021,SEP. 24-25,HarrisX,B+,935,RV,0.89,47%,42%,43%,43%
+2021,SEP. 24-25,RMG Research,B-,1200,RV,0.61,45%,48%,44%,49%
+2021,SEP. 23-25,Morning Consult,B,2200,A,0.05,47%,49%,46%,52%
+2021,SEP. 22-23,Ipsos,B-,1005,A,0.68,44%,51%,43%,52%
+2021,SEP. 21-23,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,42%,56%,44%,50%
+2021,SEP. 17-23,Echelon Insights,B/C,1005,RV,1.06,50%,48%,49%,48%
+,09/22/2022,RMG Research,B-,1200,RV,0.59,47%,47%,46%,48%
+2021,SEP. 18-21,YouGov,B+,1500,A,0.72,43%,46%,44%,47%
+2021,SEP. 17-21,Morning Consult,B,2200,A,0.04,49%,46%,48%,49%
+2021,SEP. 15-21,Morning Consult,B,45000,A,0.83,47%,46%,46%,49%
+2021,SEP. 19-20,Redfield & Wilton Strategies,B/C,1500,RV,0.96,45%,34%,47%,39%
+2021,SEP. 18-20,Morning Consult,B,1998,RV,0.04,47%,50%,46%,53%
+2021,SEP. 17-20,American Research Group,C+,1100,A,1.1,50%,46%,48%,48%
+2021,SEP. 17-20,Morning Consult,B,2200,A,0.04,49%,44%,48%,47%
+2021,SEP. 16-20,Morning Consult,B,4400,A,0.08,46%,48%,45%,51%
+2021,SEP. 16-20,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,44%,56%,46%,50%
+2021,SEP. 14-20,YouGov,B+,3201,A,1.44,45%,50%,46%,51%
+2021,SEP. 16-19,The Bullfinch Group,,1200,A,1.07,48%,46%,47%,47%
+2021,SEP. 13-19,Pew Research Center,B/C,10371,A,3.16,44%,53%,44%,52%
+2021,SEP. 16-18,RMG Research,B-,1200,RV,0.6,48%,48%,47%,49%
+2021,SEP. 14-18,Morning Consult,B,2200,A,0.04,49%,46%,48%,49%
+2021,SEP. 1-17,Gallup,B+,1005,A,1.53,43%,53%,43%,52%
+2021,SEP. 15-16,Harris Poll,B+,1578,RV,1.88,48%,50%,47%,51%
+2021,SEP. 15-16,Ipsos,B-,1005,A,0.68,44%,50%,43%,52%
+2021,SEP. 13-16,Morning Consult,B,2200,A,0.04,51%,44%,50%,47%
+2021,SEP. 7-16,Marquette University Law School,A/B,1411,A,2.52,48%,52%,46%,52%
+2021,SEP. 13-15,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,44%,55%,46%,49%
+2021,SEP. 12-15,Beacon Research/Shaw & Company Research,A,1002,RV,1.79,50%,49%,48%,48%
+2021,SEP. 12-14,YouGov,B+,1500,A,0.68,44%,48%,45%,49%
+2021,SEP. 9-14,McLaughlin & Associates,C/D,1000,LV,0.77,47%,52%,46%,51%
+2021,SEP. 8-14,Morning Consult,B,45000,A,1.04,47%,46%,46%,49%
+2021,SEP. 11-13,Morning Consult,B,2200,A,0.04,49%,45%,48%,48%
+2021,SEP. 10-13,Quinnipiac University,A-,1210,A,1.74,42%,50%,45%,50%
+2021,SEP. 10-13,Morning Consult,B,4400,A,0.08,48%,46%,47%,49%
+2021,SEP. 10-13,Léger,B/C,1002,A,0.87,48%,50%,48%,50%
+2021,SEP. 10-13,Morning Consult,B,1997,RV,0.03,47%,50%,46%,53%
+2021,SEP. 9-13,Navigator Research,B/C,995,RV,0.82,49%,49%,48%,48%
+2021,SEP. 9-13,Monmouth University,A,802,A,1.52,46%,46%,47%,46%
+2021,SEP. 10-12,Morning Consult,B,2200,A,0.04,48%,47%,47%,50%
+2021,SEP. 8-12,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,46%,52%,48%,46%
+2021,SEP. 10-11,RMG Research,B-,1200,RV,0.67,47%,48%,46%,49%
+2021,SEP. 10-11,HarrisX,B+,958,RV,0.76,47%,44%,43%,45%
+2021,SEP. 8-11,Morning Consult,B,2200,A,0.04,47%,48%,46%,51%
+2021,SEP. 8-9,Ipsos,B-,1005,A,0.65,47%,46%,46%,47%
+2021,SEP. 8-9,HarrisX,B+,1803,RV,1.39,55%,45%,51%,46%
+2021,SEP. 8-9,Trafalgar Group,A-,1086,LV,1.73,44%,54%,46%,51%
+2021,SEP. 6-9,YouGov,B+,2011,A,0.93,50%,50%,51%,51%
+2021,SEP. 7-8,Echelon Insights,B/C,1000,A,1.04,48%,46%,47%,46%
+2021,SEP. 4-8,The Winston Group,A/B,1000,RV,1.62,46%,44%,45%,47%
+2021,SEP. 1-8,Public Opinion Strategies,A-,800,RV,1.39,48%,50%,47%,50%
+2021,SEP. 5-7,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,46%,53%,48%,47%
+2021,SEP. 4-7,YouGov,B+,1500,A,0.72,39%,50%,40%,51%
+2021,SEP. 1-7,Morning Consult,B,45000,A,0.98,46%,45%,45%,48%
+2021,AUG. 3-SEP. 7,SSRS,C,2119,A,1.24,52%,48%,51%,48%
+2021,SEP. 2-6,Morning Consult,B,2200,A,0.03,48%,46%,47%,49%
+2021,SEP. 2-6,Morning Consult,B,2200,A,0.03,50%,44%,49%,47%
+2021,SEP. 4-5,Redfield & Wilton Strategies,B/C,1500,RV,1.08,46%,36%,48%,41%
+2021,SEP. 2-5,RMG Research,B-,1200,RV,0.79,42%,52%,41%,53%
+2021,SEP. 1-3,TIPP Insights,A+,1305,A,2.42,44%,43%,45%,48%
+2021,SEP. 1-2,Ipsos,B-,1005,A,0.58,46%,48%,45%,50%
+2021,AUG. 31-SEP. 2,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,44%,54%,46%,48%
+2021,AUG. 30-SEP. 2,Morning Consult,B,2200,A,0.03,49%,46%,48%,49%
+2021,AUG. 30-SEP. 2,Change Research,B-,1775,RV,1.46,46%,54%,46%,52%
+2021,AUG. 17-SEP. 2,Morning Consult,B,7988,RV,0.13,49%,48%,48%,51%
+2021,AUG. 30-SEP. 1,YouGov,B+,1605,A,0.79,44%,49%,45%,50%
+2021,AUG. 30-SEP. 1,Emerson College,A-,1200,RV,1.85,46%,47%,46%,48%
+2021,AUG. 29-SEP. 1,ABC News/The Washington Post,A+,1006,A,1.99,44%,51%,45%,50%
+2021,AUG. 28-31,YouGov,B+,1500,A,0.75,45%,44%,46%,45%
+2021,AUG. 26-31,Marist College,A,1241,A,2.08,43%,51%,44%,51%
+2021,AUG. 25-31,Morning Consult,B,45000,A,1.01,48%,44%,47%,47%
+2021,AUG. 28-30,Morning Consult,B,1997,RV,0.03,47%,49%,46%,52%
+2021,AUG. 27-30,Léger,B/C,1004,A,0.88,48%,49%,48%,49%
+2021,AUG. 26-30,Navigator Research,B/C,1002,RV,0.83,47%,50%,46%,49%
+2021,AUG. 26-30,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,44%,54%,46%,48%
+2021,AUG. 24-29,Morning Consult,B,2200,A,0.03,48%,45%,47%,48%
+2021,AUG. 25-28,Morning Consult,B,2200,A,0.03,53%,44%,52%,47%
+2021,AUG. 25-26,Ipsos,B-,1006,A,0.47,49%,46%,48%,47%
+2021,AUG. 23-25,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,44%,55%,46%,49%
+2021,AUG. 21-25,Morning Consult,B,2200,A,0.04,51%,44%,50%,47%
+2021,AUG. 21-24,Morning Consult,B,2200,A,0.04,52%,43%,51%,46%
+2021,AUG. 21-24,Morning Consult,B,1996,RV,0.03,50%,48%,49%,51%
+2021,AUG. 21-24,YouGov,B+,1500,A,0.72,46%,44%,47%,45%
+2021,AUG. 18-24,Morning Consult,B,45000,A,0.78,49%,43%,48%,46%
+2021,AUG. 18-24,Cor Services,,618,LV,0.66,40%,50%,42%,49%
+2021,AUG. 19-23,Morning Consult,B,2200,A,0.04,52%,43%,51%,46%
+2021,AUG. 19-23,Suffolk University,B+,1000,RV,1.56,41%,55%,43%,53%
+2021,AUG. 20-22,RMG Research,B-,1200,RV,1.09,46%,46%,45%,47%
+2021,AUG. 20-22,HarrisX,B+,2846,RV,1.8,49%,43%,45%,44%
+2021,AUG. 19-22,Morning Consult,B,2201,A,0.04,51%,45%,50%,48%
+2021,AUG. 18-22,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,46%,53%,48%,47%
+2021,AUG. 18-20,YouGov,B+,2142,A,1,50%,50%,51%,51%
+2021,AUG. 17-20,American Research Group,C+,1100,A,1.11,49%,46%,47%,48%
+2021,AUG. 18-19,Ipsos,B-,1002,A,0.29,46%,49%,45%,50%
+2021,AUG. 16-19,Morning Consult,B,1999,RV,0.03,50%,47%,49%,50%
+2021,AUG. 13-19,Ipsos,B-,4427,A,1.14,50%,44%,49%,45%
+2021,AUG. 17-18,SurveyMonkey,C,1066,A,0.98,47%,45%,46%,45%
+2021,AUG. 16-18,YouGov,B+,1649,A,0.76,47%,46%,48%,47%
+2021,AUG. 13-18,Echelon Insights,B/C,1016,RV,1.17,52%,46%,51%,46%
+2021,AUG. 12-18,Susquehanna Polling & Research,B+,800,LV,1.29,49%,45%,50%,45%
+2021,AUG. 15-17,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,46%,54%,48%,48%
+2021,AUG. 14-17,Hart Research Associates/Public Opinion Strategies,B+,1000,A,1.41,49%,48%,50%,48%
+2021,AUG. 14-17,YouGov,B+,1500,A,0.71,44%,44%,45%,45%
+2021,AUG. 11-17,Morning Consult,B,45000,A,1.15,52%,40%,51%,43%
+2021,AUG. 2-17,Gallup,B+,1006,A,1.51,49%,48%,49%,47%
+,08/16/2022,Ipsos,B-,947,A,0.24,46%,47%,45%,48%
+,08/16/2022,John Zogby Strategies,B/C,956,A,1.2,52%,42%,50%,43%
+2021,AUG. 13-16,Morning Consult,B,2200,A,0.04,54%,40%,53%,43%
+2021,AUG. 13-16,Morning Consult,B,1999,RV,0.04,51%,46%,50%,49%
+2021,AUG. 12-16,Morning Consult,B,2200,A,0.04,54%,42%,53%,45%
+2021,AUG. 12-16,AP-NORC,,1729,A,1.87,54%,46%,51%,46%
+2021,AUG. 12-16,Navigator Research,B/C,1001,RV,0.83,50%,46%,49%,45%
+2021,AUG. 13-15,Léger,B/C,1005,A,0.88,51%,47%,51%,47%
+2021,AUG. 13-15,Ipsos,B-,1198,A,0.32,53%,41%,52%,42%
+2021,AUG. 11-15,Morning Consult,B,2200,A,0.04,55%,41%,54%,44%
+2021,AUG. 9-13,Morning Consult,B,2200,A,0.04,56%,40%,55%,43%
+2021,AUG. 11-12,Ipsos,B-,1002,A,0.29,51%,43%,50%,44%
+2021,AUG. 10-12,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,47%,52%,49%,46%
+2021,AUG. 8-11,Trafalgar Group,A-,1073,LV,1.74,47%,48%,49%,45%
+2021,AUG. 7-10,Beacon Research/Shaw & Company Research,A,1002,RV,1.79,53%,46%,51%,45%
+2021,AUG. 7-10,YouGov,B+,1500,A,0.85,46%,43%,47%,44%
+2021,AUG. 4-10,HarrisX,B+,4918,RV,2.24,54%,40%,50%,41%
+2021,AUG. 4-10,Morning Consult,B,45000,A,0.89,51%,41%,50%,44%
+2021,AUG. 7-9,Morning Consult,B,1996,RV,0.04,51%,46%,50%,49%
+2021,AUG. 6-9,Morning Consult,B,2200,A,0.04,53%,41%,52%,44%
+2021,AUG. 5-9,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,48%,51%,50%,45%
+2021,AUG. 4-5,HarrisX,B+,1103,RV,0.54,55%,40%,51%,41%
+2021,AUG. 4-5,Ipsos,B-,1004,A,0.5,50%,43%,49%,44%
+2021,AUG. 2-4,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.79,48%,51%,50%,45%
+2021,AUG. 2-3,Redfield & Wilton Strategies,B/C,1500,RV,1.25,48%,36%,50%,41%
+2021,JUL. 31-AUG. 3,YouGov,B+,1500,A,0.83,49%,43%,50%,44%
+2021,JUL. 29-AUG. 3,McLaughlin & Associates,C/D,1000,LV,0.77,54%,45%,53%,44%
+2021,JUL. 28-AUG. 3,Morning Consult,B,45000,A,0.96,51%,41%,50%,44%
+2021,JUL. 31-AUG. 2,Morning Consult,B,2200,A,0.05,53%,42%,52%,45%
+2021,JUL. 30-AUG. 2,YouGov,B+,1552,A,0.86,48%,44%,49%,45%
+2021,JUL. 30-AUG. 2,Morning Consult,B,2200,A,0.05,51%,43%,50%,46%
+2021,JUL. 29-AUG. 2,Morning Consult,B,2200,A,0.05,53%,41%,52%,44%
+2021,JUL. 29-AUG. 2,Navigator Research,B/C,1000,RV,0.83,51%,46%,50%,45%
+2021,JUL. 27-AUG. 2,Quinnipiac University,A-,1290,A,1.88,46%,43%,49%,43%
+2021,JUL. 30-AUG. 1,Léger,B/C,1001,A,0.87,53%,45%,53%,45%
+2021,JUL. 29-AUG. 1,Morning Consult,B,2200,A,0.05,55%,39%,54%,42%
+2021,JUL. 28-AUG. 1,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,49%,49%,51%,43%
+2021,JUL. 29-31,Cor Services,,515,LV,0.57,43%,51%,45%,50%
+2021,JUL. 28-30,TIPP Insights,A+,1322,A,2.44,52%,34%,53%,39%
+2021,JUL. 28-29,Ipsos,B-,1005,A,0.59,54%,42%,52%,43%
+2021,JUL. 28-29,Harris Poll,B+,1788,RV,2,52%,43%,51%,44%
+2021,JUL. 28-29,Morning Consult,B,2000,RV,0.04,51%,47%,50%,50%
+2021,JUL. 21-29,Marist College,A,1132,A,1.97,49%,44%,50%,44%
+2021,JUL. 24-28,Hart Research Associates/Public Opinion Strategies,B+,802,A,1.21,48%,45%,49%,45%
+2021,JUL. 20-28,WPA Intelligence,B/C,1000,RV,1.02,47%,44%,48%,44%
+2021,JUL. 25-27,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,46%,52%,48%,46%
+2021,JUL. 24-27,YouGov,B+,1500,A,0.87,46%,44%,47%,45%
+2021,JUL. 21-27,Morning Consult,B,45000,A,1.01,52%,40%,51%,43%
+2021,JUL. 23-26,Morning Consult,B,2200,A,0.05,53%,41%,52%,44%
+2021,JUL. 21-26,Monmouth University,A,804,A,1.52,48%,44%,49%,44%
+2021,JUL. 16-26,Marquette University Law School,A/B,1010,A,1.93,58%,42%,56%,42%
+2021,JUL. 23-25,Morning Consult,B,2201,A,0.05,54%,40%,53%,43%
+2021,JUL. 19-23,Echelon Insights,B/C,1143,RV,1.29,55%,43%,54%,43%
+2021,JUL. 21-22,Ipsos,B-,1005,A,0.65,54%,40%,53%,42%
+2021,JUL. 20-22,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.63,50%,48%,52%,42%
+2021,JUL. 20-21,HarrisX,B+,949,RV,0.95,58%,42%,54%,43%
+2021,JUL. 6-21,Gallup,B+,1007,A,1.52,50%,45%,50%,44%
+2021,JUL. 17-20,American Research Group,C+,1100,A,1.1,53%,43%,51%,45%
+2021,JUL. 17-20,YouGov,B+,1500,A,0.75,48%,40%,49%,41%
+2021,JUL. 14-20,Morning Consult,B,45000,A,0.97,52%,40%,51%,43%
+2021,JUL. 15-19,AP-NORC,,1308,A,1.61,59%,41%,56%,41%
+2021,JUL. 15-19,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.72,51%,48%,53%,42%
+2021,JUL. 15-19,Navigator Research,B/C,1000,RV,0.89,52%,44%,51%,43%
+2021,JUL. 16-18,Léger,B/C,1001,A,0.87,54%,45%,54%,45%
+2021,JUL. 16-18,Morning Consult,B,1997,RV,0.05,52%,44%,51%,47%
+2021,JUL. 16-18,Morning Consult,B,2199,A,0.05,53%,41%,52%,44%
+2021,JUL. 14-17,YouGov,B+,2238,A,1.07,58%,42%,59%,43%
+2021,JUL. 15-16,Sacred Heart University,B/C,1500,A,1.34,52%,36%,52%,38%
+2021,JUL. 14-15,Ipsos,B-,1005,A,0.68,53%,42%,52%,43%
+2021,JUL. 13-15,YouGov,B+,1715,A,0.82,50%,42%,51%,43%
+2021,JUL. 12-14,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.81,48%,50%,50%,44%
+2021,JUL. 10-13,YouGov,B+,1500,A,0.74,47%,43%,48%,44%
+2021,JUL. 9-13,Morning Consult,B,4398,A,0.1,54%,39%,53%,42%
+2021,JUL. 7-13,Morning Consult,B,45000,A,1.04,52%,39%,51%,42%
+2021,JUL. 9-12,Morning Consult,B,1996,RV,0.04,52%,45%,51%,48%
+2021,JUL. 7-11,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.95,49%,49%,51%,43%
+2021,JUL. 8-10,RMG Research,B-,1200,RV,1.31,51%,41%,50%,42%
+2021,JUL. 7-10,Cor Services,,518,LV,0.6,46%,46%,48%,45%
+2021,JUL. 6-10,Morning Consult,B,3995,RV,0.09,53%,45%,52%,48%
+2021,JUL. 8-9,HarrisX,B+,938,RV,1.05,59%,41%,55%,42%
+2021,JUL. 7-8,Ipsos,B-,1004,A,0.66,52%,43%,51%,44%
+2021,JUL. 5-6,Zogby Analytics,B-,681,LV,0.94,60%,39%,57%,41%
+2021,JUL. 3-6,YouGov,B+,1500,A,0.93,51%,40%,52%,41%
+2021,JUN. 30-JUL. 6,Morning Consult,B,23596,A,0.99,54%,39%,53%,42%
+2021,JUN. 30-JUL. 6,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,49%,50%,51%,44%
+2021,JUL. 2-4,Léger,B/C,1003,A,0.87,56%,43%,56%,43%
+2021,JUN. 30-JUL. 2,TIPP Insights,A+,1424,A,2.59,50%,37%,51%,42%
+2021,JUN. 30-JUL. 1,Ipsos,B-,1004,A,0.6,52%,42%,50%,43%
+2021,JUN. 29-30,HarrisX,B+,950,RV,1.12,60%,40%,56%,41%
+2021,JUN. 27-30,ABC News/The Washington Post,A+,907,A,1.82,50%,42%,51%,41%
+2021,JUN. 27-29,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.73,48%,50%,50%,44%
+2021,JUN. 26-29,YouGov,B+,1500,A,0.9,48%,43%,49%,44%
+2021,JUN. 23-29,Morning Consult,B,45000,A,1.02,53%,39%,52%,42%
+2021,JUN. 22-29,Marist College,A,1115,A,1.94,50%,43%,51%,43%
+2021,JUN. 25-28,Morning Consult,B,1989,RV,0.05,54%,43%,53%,46%
+2021,JUN. 24-28,Navigator Research,B/C,1000,RV,0.9,54%,43%,53%,42%
+2021,JUN. 23-24,Ipsos,B-,1005,A,0.51,53%,40%,51%,42%
+2021,JUN. 22-24,Morning Consult,B,2200,A,0.05,58%,38%,57%,41%
+2021,JUN. 22-24,YouGov,B+,1592,A,0.9,50%,43%,51%,44%
+2021,JUN. 22-24,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.63,51%,47%,53%,41%
+2021,JUN. 21-23,Morning Consult,B,2082,A,0.05,58%,38%,57%,41%
+2021,JUN. 4-23,YouGov,B+,1753,RV,0.96,51%,47%,52%,47%
+2021,JUN. 20-22,YouGov,B+,1500,A,0.83,50%,40%,51%,41%
+2021,JUN. 19-22,Beacon Research/Shaw & Company Research,A,1001,RV,1.77,56%,43%,54%,42%
+2021,JUN. 18-22,Echelon Insights,B/C,1001,RV,1.23,55%,42%,54%,42%
+2021,JUN. 16-22,Morning Consult,B,45000,A,1.01,54%,39%,53%,42%
+2021,JUN. 17-21,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.71,51%,47%,53%,41%
+2021,JUN. 14-21,Greenberg Research,B,2000,RV,2.03,57%,43%,56%,43%
+2021,JUN. 18-20,Morning Consult,B,2041,RV,0.05,54%,43%,53%,46%
+2021,JUN. 18-20,Morning Consult,B,1995,RV,0.04,58%,40%,57%,43%
+2021,JUN. 18-20,Léger,B/C,1001,A,0.87,49%,40%,49%,40%
+2021,JUN. 17-20,American Research Group,C+,1100,A,1.1,52%,43%,50%,45%
+2021,JUN. 16-20,McLaughlin & Associates,C/D,1000,LV,0.77,55%,44%,54%,43%
+2021,JUN. 15-19,Morning Consult,B,2200,A,0.05,56%,38%,55%,41%
+2021,JUN. 14-19,East Carolina University,B/C,1105,A,1.32,48%,41%,49%,41%
+2021,JUN. 1-18,Gallup,B+,1012,A,1.54,56%,42%,56%,41%
+2021,JUN. 16-17,Ipsos,B-,1002,A,0.35,52%,42%,50%,44%
+2021,JUN. 15-17,Harris Poll,B+,2006,RV,2.09,59%,34%,58%,35%
+2021,JUN. 11-17,Ipsos,B-,4420,A,1.41,55%,41%,54%,42%
+2021,JUN. 14-16,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.79,50%,48%,52%,42%
+2021,JUN. 13-15,YouGov,B+,1500,A,0.82,48%,43%,49%,44%
+2021,JUN. 11-15,Climate Nexus,,1525,RV,0.96,56%,39%,55%,40%
+2021,JUN. 11-15,Momentive/SurveyMonkey,C,2309,A,1.24,53%,42%,52%,42%
+2021,JUN. 9-15,Morning Consult,B,45000,A,1.02,53%,39%,52%,42%
+2021,JUN. 10-14,AP-NORC,,1125,A,1.51,55%,44%,52%,44%
+2021,JUN. 10-14,Navigator Research,B/C,1001,RV,0.89,52%,44%,51%,43%
+2021,JUN. 9-14,Monmouth University,A,810,A,1.53,48%,43%,49%,43%
+2021,JUN. 11-13,Morning Consult,B,1994,RV,0.05,53%,44%,52%,47%
+2021,JUN. 9-13,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,49%,50%,51%,44%
+2021,JUN. 9-10,Ipsos,B-,1004,A,0.37,55%,40%,54%,42%
+2021,JUN. 7-10,The Winston Group,A/B,1000,RV,1.62,54%,38%,53%,41%
+2021,JUN. 5-10,Lake Research Partners/The Tarrance Group,A/B,1000,RV,1.44,52%,45%,52%,44%
+2021,JUN. 7-9,HarrisX,B+,1885,RV,1.53,61%,39%,57%,40%
+2021,JUN. 6-8,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,51%,48%,53%,42%
+2021,JUN. 6-8,YouGov,B+,1500,A,0.94,50%,40%,51%,41%
+2021,JUN. 4-8,Morning Consult,B,2200,A,0.05,51%,41%,50%,44%
+2021,JUN. 2-8,Morning Consult,B,45000,A,1.03,52%,39%,51%,42%
+2021,JUN. 4-7,Morning Consult,B,1990,RV,0.05,52%,43%,51%,46%
+2021,JUN. 4-7,Morning Consult,B,2200,A,0.05,54%,40%,53%,43%
+2021,JUN. 3-7,The Bullfinch Group,,1200,A,1.07,54%,41%,53%,42%
+2021,JUN. 4-6,Léger,B/C,1004,A,0.87,51%,38%,51%,38%
+2021,JUN. 3-5,RMG Research,B-,1200,RV,1.31,55%,39%,54%,40%
+2021,JUN. 2-5,Cor Services,,519,LV,0.54,50%,42%,52%,41%
+2021,JUN. 2-3,Ipsos,B-,1005,A,0.56,54%,42%,52%,44%
+2021,JUN. 1-3,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,49%,49%,51%,43%
+2021,MAY 30-JUN. 1,HarrisX,B+,1893,RV,1.44,61%,39%,57%,40%
+2021,MAY 29-JUN. 1,YouGov,B+,1500,A,0.94,50%,40%,51%,41%
+2021,MAY 26-JUN. 1,Morning Consult,B,45000,A,1,53%,38%,52%,41%
+2021,MAY 27-31,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,53%,45%,55%,39%
+2021,MAY 25-29,Morning Consult,B,2199,A,0.05,56%,37%,55%,40%
+2021,MAY 26-28,TIPP Insights,A+,1305,A,2.42,53%,32%,54%,37%
+2021,MAY 26-27,Ipsos,B-,1005,A,0.62,52%,44%,50%,45%
+2021,MAY 26-27,Zogby Analytics,B-,868,LV,1.08,60%,37%,57%,39%
+2021,MAY 24-26,YouGov,B+,1588,A,0.93,49%,41%,50%,42%
+2021,MAY 24-26,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,53%,45%,55%,39%
+2021,MAY 22-26,Cor Services,,519,LV,0.54,51%,42%,53%,41%
+2021,MAY 22-25,YouGov,B+,1500,A,0.88,52%,39%,53%,40%
+2021,MAY 22-25,Beacon Research/Shaw & Company Research,A,1003,RV,1.78,54%,42%,52%,41%
+2021,MAY 19-25,Morning Consult,B,45000,A,0.95,54%,38%,53%,41%
+2021,MAY 21-24,Morning Consult,B,2200,A,0.05,54%,39%,53%,42%
+2021,MAY 21-24,Morning Consult,B,2200,A,0.05,55%,40%,54%,43%
+2021,MAY 20-24,Navigator Research,B/C,1204,RV,0.98,53%,44%,52%,43%
+2021,MAY 18-24,Quinnipiac University,A-,1316,A,1.9,49%,41%,52%,41%
+2021,MAY 21-23,Léger,B/C,1002,A,0.87,51%,38%,51%,38%
+2021,MAY 19-23,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,54%,43%,56%,37%
+2021,MAY 19-22,Morning Consult,B,2200,A,0.05,56%,38%,55%,41%
+,05/20/2022,John Zogby Strategies,B/C,1011,LV,1.24,59%,40%,57%,41%
+2021,MAY 19-20,Harris Poll,B+,973,RV,1.34,62%,37%,60%,38%
+2021,MAY 19-20,Ipsos,B-,1004,A,0.68,56%,39%,54%,40%
+2021,MAY 18-20,Morning Consult,B,1994,RV,0.04,59%,38%,58%,41%
+2021,MAY 17-20,American Research Group,C+,1100,A,1.1,57%,37%,55%,39%
+2021,MAY 17-19,Morning Consult,B,2200,A,0.05,57%,38%,56%,41%
+2021,MAY 17-19,HarrisX,B+,1889,RV,1.58,60%,40%,56%,41%
+2021,MAY 16-18,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,51%,48%,53%,42%
+2021,MAY 15-18,YouGov,B+,1500,A,0.87,51%,41%,52%,42%
+2021,MAY 12-18,McLaughlin & Associates,C/D,1000,LV,0.77,56%,43%,55%,42%
+2021,MAY 12-18,Morning Consult,B,45000,A,0.94,54%,38%,53%,41%
+2021,MAY 3-18,Gallup,B+,1016,A,1.54,54%,40%,54%,39%
+2021,MAY 14-17,Morning Consult,B,1992,RV,0.04,54%,42%,53%,45%
+2021,MAY 14-17,Morning Consult,B,2200,A,0.05,56%,38%,55%,41%
+2021,MAY 14-17,Echelon Insights,B/C,1132,RV,1.28,56%,42%,55%,42%
+2021,MAY 14-16,Morning Consult,B,2200,A,0.05,56%,36%,55%,39%
+2021,MAY 12-15,Morning Consult,B,2200,A,0.05,56%,39%,55%,42%
+2021,MAY 11-13,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,49%,50%,51%,44%
+2021,MAY 11-13,YouGov,B+,1561,A,0.88,49%,40%,50%,41%
+2021,MAY 11-12,Ipsos,B-,1005,A,0.67,56%,38%,54%,40%
+2021,MAY 8-11,Civiqs,B-,1464,RV,1.48,48%,46%,50%,44%
+2021,MAY 8-11,YouGov,B+,1500,A,0.84,51%,39%,52%,40%
+2021,MAY 5-11,Morning Consult,B,45000,A,0.9,55%,37%,54%,40%
+2021,MAY 6-10,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,50%,48%,52%,42%
+2021,MAY 6-10,Navigator Research,B/C,1000,RV,0.82,55%,41%,54%,40%
+2021,MAY 8-9,Redfield & Wilton Strategies,B/C,1500,RV,1.25,52%,36%,54%,41%
+2021,MAY 7-9,Morning Consult,B,2200,A,0.05,55%,39%,54%,42%
+2021,MAY 7-9,Léger,B/C,1003,A,0.88,52%,38%,52%,38%
+2021,MAY 6-9,Morning Consult,B,2200,A,0.05,55%,39%,54%,42%
+2021,MAY 4-7,Marist College,A,1249,A,1.94,53%,41%,54%,41%
+2021,MAY 4-6,Morning Consult,B,2200,A,0.04,56%,38%,55%,41%
+2021,APR. 30-MAY 6,Trafalgar Group,A-,1574,LV,2.26,48%,48%,50%,45%
+2021,MAY 4-5,Ipsos,B-,1005,A,0.63,55%,38%,53%,39%
+2021,MAY 3-5,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,51%,47%,53%,41%
+2021,MAY 3-4,HarrisX,B+,939,RV,0.69,60%,40%,56%,41%
+2021,MAY 1-4,YouGov,B+,1500,A,0.81,48%,42%,49%,43%
+2021,APR. 28-MAY 4,Morning Consult,B,45000,A,0.79,56%,36%,55%,39%
+2021,MAY 1-3,Morning Consult,B,2200,A,0.04,57%,36%,56%,39%
+2021,APR. 30-MAY 3,Morning Consult,B,2200,A,0.04,55%,37%,54%,40%
+2021,APR. 29-MAY 3,AP-NORC,,1842,A,1.95,63%,36%,60%,36%
+2021,APR. 30-MAY 2,Morning Consult,B,2200,A,0.04,53%,39%,52%,42%
+2021,APR. 29-MAY 2,Morning Consult,B,2200,A,0.04,55%,38%,54%,41%
+2021,APR. 28-MAY 2,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,48%,49%,50%,43%
+2021,APR. 28-30,TIPP Insights,A+,1300,A,2.39,51%,32%,52%,37%
+2021,APR. 27-29,Harris Poll,B+,932,RV,1.34,60%,39%,58%,40%
+2021,APR. 27-29,YouGov,B+,1558,A,0.72,54%,37%,55%,38%
+2021,APR. 27-28,Morning Consult,B,2200,A,0.04,60%,33%,59%,36%
+2021,APR. 27-28,Ipsos,B-,1005,A,0.51,55%,38%,54%,39%
+2021,APR. 26-28,HarrisX,B+,2819,RV,1.51,60%,40%,56%,41%
+2021,APR. 25-27,YouGov,B+,1500,A,0.67,51%,39%,52%,40%
+2021,APR. 25-27,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,48%,50%,50%,44%
+2021,APR. 21-27,Morning Consult,B,45000,A,1.07,55%,36%,54%,39%
+2021,APR. 19-27,Morning Consult,B,22000,A,0.35,57%,36%,56%,39%
+2021,APR. 24-26,Morning Consult,B,1991,RV,0.03,60%,37%,59%,40%
+2021,APR. 22-26,Navigator Research,B/C,989,RV,0.8,53%,44%,52%,43%
+2021,APR. 21-26,SSRS,C,1004,A,0.97,53%,43%,52%,43%
+2021,APR. 23-25,Léger,B/C,1003,A,0.97,51%,39%,51%,39%
+2021,APR. 23-25,Research Co.,B-,1000,A,1.17,53%,42%,53%,42%
+2021,APR. 21-25,Morning Consult,B,1986,RV,0.03,57%,37%,56%,40%
+2021,APR. 21-24,YouGov,B+,2527,A,1.11,58%,42%,59%,43%
+2021,APR. 21-23,YouGov,B+,1000,A,0.45,51%,44%,52%,45%
+2021,APR. 16-23,Echelon Insights,B/C,1043,RV,1.22,54%,43%,53%,43%
+2021,APR. 21-22,Ipsos,B-,1004,A,0.33,54%,39%,53%,40%
+2021,APR. 20-22,Morning Consult,B,2200,A,0.04,58%,35%,57%,38%
+2021,APR. 20-22,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,52%,46%,54%,40%
+2021,APR. 19-21,Marist College,A,1809,A,2.39,54%,44%,55%,44%
+2021,APR. 18-21,Beacon Research/Shaw & Company Research,A,1002,RV,1.79,54%,43%,52%,42%
+2021,APR. 18-21,ABC News/The Washington Post,A+,1007,A,1.99,52%,42%,53%,42%
+2021,APR. 1-21,Gallup,B+,961,A,1.48,57%,40%,57%,39%
+2021,APR. 17-20,Hart Research Associates/Public Opinion Strategies,B+,1000,A,1.27,53%,39%,54%,39%
+2021,APR. 17-20,YouGov,B+,1500,A,0.72,49%,38%,50%,39%
+2021,APR. 17-20,American Research Group,C+,1100,A,1.1,59%,35%,57%,37%
+2021,APR. 15-20,Change Research,B-,1025,RV,1.15,51%,49%,51%,47%
+2021,APR. 14-20,Morning Consult,B,45000,A,0.92,53%,38%,52%,41%
+2021,APR. 16-19,HarrisX,B+,2881,RV,1.27,61%,39%,57%,40%
+2021,APR. 16-19,Morning Consult,B,2200,A,0.04,57%,36%,56%,39%
+2021,APR. 15-19,Morning Consult,B,2200,A,0.04,58%,35%,57%,38%
+2021,APR. 15-19,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,50%,49%,52%,43%
+2021,APR. 14-18,Hart Research Associates,B-,1200,RV,1.36,57%,43%,56%,42%
+2021,APR. 12-16,Ipsos,B-,4423,A,0.91,55%,40%,54%,41%
+2021,APR. 12-16,Ipsos,B-,4423,A,0.91,55%,40%,54%,41%
+2021,APR. 14-15,Ipsos,B-,1005,A,0.21,54%,38%,53%,39%
+2021,APR. 12-14,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,50%,48%,52%,42%
+2021,APR. 10-13,YouGov,B+,1500,A,0.85,49%,42%,50%,43%
+2021,APR. 9-13,HarrisX,B+,3766,RV,1.5,61%,39%,57%,40%
+2021,APR. 8-13,McLaughlin & Associates,C/D,1000,LV,0.77,58%,41%,57%,39%
+2021,APR. 7-13,Marist College,A,1266,A,1.77,53%,39%,54%,39%
+2021,APR. 7-13,Morning Consult,B,45000,A,0.99,55%,36%,54%,39%
+2021,APR. 9-12,Civiqs,B-,1541,RV,1.49,48%,47%,50%,45%
+2021,APR. 9-12,Morning Consult,B,1992,RV,0.04,59%,37%,58%,40%
+2021,APR. 8-12,Navigator Research,B/C,1256,RV,0.94,55%,42%,54%,41%
+2021,APR. 8-12,Monmouth University,A,800,A,1.52,54%,41%,55%,41%
+2021,APR. 8-12,Quinnipiac University,A-,1237,A,1.83,48%,42%,51%,42%
+2021,APR. 8-11,Hart Research Associates/Public Opinion Strategies,B+,802,A,1.06,47%,41%,48%,41%
+2021,APR. 7-11,The Winston Group,A/B,1000,RV,1.62,54%,35%,53%,38%
+2021,APR. 7-11,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,50%,48%,52%,42%
+2021,APR. 5-11,Pew Research Center,B/C,5109,A,2.78,59%,39%,59%,38%
+2021,APR. 7-8,Ipsos,B-,1005,A,0.28,56%,37%,55%,39%
+2021,APR. 6-8,YouGov,B+,1649,A,0.91,52%,38%,53%,39%
+2021,APR. 4-6,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,49%,50%,51%,44%
+2021,APR. 3-6,YouGov,B+,1500,A,0.84,49%,41%,50%,42%
+2021,MAR. 31-APR. 6,Morning Consult,B,45000,A,0.98,55%,36%,54%,39%
+2021,APR. 2-5,HarrisX,B+,2732,RV,1.22,61%,39%,57%,40%
+2021,APR. 2-4,Morning Consult,B,2200,A,0.05,57%,37%,56%,40%
+2021,APR. 2-4,Morning Consult,B,2200,A,0.05,54%,39%,53%,42%
+2021,MAR. 31-APR. 3,TIPP Insights,A+,1436,A,2.61,53%,33%,54%,38%
+2021,MAR. 30-APR. 2,Morning Consult,B,2200,A,0.05,57%,36%,56%,39%
+2021,MAR. 31-APR. 1,Ipsos,B-,1005,A,0.51,54%,41%,53%,42%
+2021,MAR. 30-APR. 1,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.61,48%,50%,50%,44%
+2021,MAR. 27-30,YouGov,B+,1500,A,0.86,48%,40%,49%,41%
+2021,MAR. 24-30,Morning Consult,B,45000,A,0.97,54%,36%,53%,39%
+2021,MAR. 26-29,Morning Consult,B,2043,RV,0.04,58%,39%,57%,42%
+2021,MAR. 26-29,AP-NORC,,1166,A,1.52,61%,38%,58%,38%
+2021,MAR. 25-29,Navigator Research,B/C,1002,RV,0.81,55%,41%,54%,40%
+2021,MAR. 25-29,Morning Consult,B,2041,A,0.04,55%,38%,54%,41%
+2021,MAR. 25-29,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.77,48%,50%,50%,44%
+2021,MAR. 24-29,GBAO,B/C,2000,RV,1.8,54%,43%,54%,42%
+2021,MAR. 24-28,Morning Consult,B,2200,A,0.05,57%,36%,56%,39%
+2021,MAR. 24-26,HarrisX,B+,1882,RV,0.87,61%,39%,57%,40%
+2021,MAR. 23-26,Morning Consult,B,2140,A,0.05,57%,37%,56%,40%
+2021,MAR. 18-26,SurveyMonkey,C,16336,A,1.56,56%,42%,55%,42%
+2021,MAR. 24-25,Harris Poll,B+,1945,RV,2.06,61%,39%,60%,40%
+2021,MAR. 24-25,Ipsos,B-,1005,A,0.6,53%,41%,52%,42%
+2021,MAR. 23-25,YouGov,B+,1606,A,0.88,53%,36%,54%,37%
+2021,MAR. 22-25,Marist College,A,1309,A,1.98,52%,40%,53%,40%
+2021,MAR. 22-24,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.76,47%,51%,49%,45%
+2021,MAR. 20-23,YouGov,B+,1500,A,0.81,50%,41%,51%,42%
+2021,MAR. 17-23,Morning Consult,B,45000,A,1,55%,36%,54%,39%
+2021,MAR. 21-22,Redfield & Wilton Strategies,B/C,1500,RV,1.25,53%,35%,55%,40%
+2021,MAR. 19-22,HarrisX,B+,2858,RV,1.23,60%,40%,56%,41%
+2021,MAR. 19-22,Morning Consult,B,1994,RV,0.04,57%,40%,56%,43%
+2021,MAR. 18-22,Morning Consult,B,2200,A,0.05,59%,35%,58%,38%
+2021,MAR. 17-22,Climate Nexus,,1310,RV,0.79,54%,40%,53%,41%
+2021,MAR. 17-22,Morning Consult,B,2200,A,0.05,56%,37%,55%,40%
+2021,MAR. 17-21,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.53,49%,49%,51%,43%
+2021,MAR. 15-21,Echelon Insights,B/C,1008,RV,1.23,51%,44%,50%,44%
+2021,MAR. 18-20,RMG Research,B-,1200,RV,0.88,60%,34%,59%,35%
+2021,MAR. 17-20,American Research Group,C+,1100,A,1.09,60%,34%,58%,36%
+2021,MAR. 15-19,Morning Consult,B,2200,A,0.05,60%,33%,59%,36%
+2021,MAR. 17-18,Ipsos,B-,1005,A,0.65,59%,35%,57%,37%
+2021,MAR. 13-17,YouGov,B+,1500,A,0.74,53%,37%,54%,38%
+2021,MAR. 14-16,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,52%,46%,54%,40%
+2021,MAR. 12-16,Civiqs,B-,1673,RV,1.56,51%,44%,53%,42%
+2021,MAR. 10-16,Morning Consult,B,45000,A,1.03,56%,35%,55%,38%
+2021,MAR. 12-15,Morning Consult,B,1993,RV,0.05,62%,34%,61%,37%
+2021,MAR. 11-15,Navigator Research,B/C,1001,RV,0.82,56%,40%,55%,39%
+2021,MAR. 1-15,Gallup,B+,1010,A,1.51,54%,42%,54%,41%
+2021,MAR. 12-14,HarrisX,B+,2839,RV,1.22,59%,41%,55%,42%
+2021,MAR. 11-13,RMG Research,B-,1200,RV,0.74,57%,37%,56%,38%
+2021,MAR. 10-13,YouGov,B+,2382,A,1.13,62%,38%,63%,39%
+2021,MAR. 10-11,Ipsos,B-,1001,A,0.68,54%,39%,52%,40%
+2021,MAR. 9-11,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,51%,47%,53%,41%
+2021,MAR. 9-10,YouGov,B+,1306,A,0.63,60%,40%,61%,41%
+2021,MAR. 6-9,YouGov,B+,1500,A,0.75,50%,40%,51%,41%
+2021,MAR. 3-9,Morning Consult,B,45000,A,1.06,55%,36%,54%,39%
+2021,MAR. 6-8,Morning Consult,B,1990,RV,0.05,59%,37%,58%,40%
+2021,MAR. 5-8,HarrisX,B+,2839,RV,1.31,58%,42%,54%,43%
+2021,MAR. 4-8,Morning Consult,B,2201,A,0.05,58%,34%,57%,37%
+2021,MAR. 4-8,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,50%,48%,52%,42%
+2021,MAR. 4-8,The Bullfinch Group,,1200,A,1.07,56%,36%,55%,37%
+2021,MAR. 3-8,SSRS,C,1009,A,0.97,51%,41%,50%,41%
+2021,MAR. 3-8,Marist College,A,1227,A,1.85,49%,42%,50%,42%
+2021,MAR. 1-7,Pew Research Center,B/C,6011,A,2.88,54%,42%,54%,41%
+2021,FEB. 26-MAR. 7,Climate Nexus,,1624,RV,0.87,53%,39%,52%,40%
+2021,MAR. 4-6,RMG Research,B-,1200,RV,0.7,53%,39%,52%,40%
+2021,MAR. 3-4,Ipsos,B-,1005,A,0.68,58%,35%,56%,36%
+2021,MAR. 1-3,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,49%,48%,51%,42%
+2021,FEB. 28-MAR. 2,Morning Consult,B,15000,A,0.24,54%,36%,53%,39%
+2021,FEB. 27-MAR. 2,YouGov,B+,1500,A,0.91,50%,39%,51%,40%
+2021,FEB. 26-MAR. 1,Morning Consult,B,1992,RV,0.05,57%,37%,56%,40%
+2021,FEB. 26-MAR. 1,Morning Consult,B,2200,A,0.05,56%,37%,55%,40%
+2021,FEB. 25-MAR. 1,Navigator Research,B/C,1007,RV,0.83,53%,41%,52%,40%
+2021,FEB. 25-MAR. 1,AP-NORC,,1434,A,1.69,60%,40%,57%,40%
+2021,FEB. 25-MAR. 1,Monmouth University,A,802,A,1.52,51%,42%,52%,42%
+2021,FEB. 26-28,Léger,B/C,1002,A,1.12,48%,38%,48%,38%
+2021,FEB. 24-28,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,49%,48%,51%,42%
+2021,FEB. 24-28,McLaughlin & Associates,C/D,1000,LV,0.77,55%,40%,54%,39%
+2021,FEB. 26-27,Public Policy Polling,A-,1390,RV,2.04,47%,43%,48%,43%
+2021,FEB. 25-27,RMG Research,B-,1200,RV,0.69,54%,40%,53%,41%
+2021,FEB. 25-27,Morning Consult,B,15000,A,0.38,54%,35%,53%,38%
+2021,FEB. 24-27,TIPP Insights,A+,1280,A,2.38,53%,30%,54%,35%
+2021,FEB. 24-26,HarrisX,B+,1909,RV,1.05,58%,42%,54%,43%
+2021,FEB. 24-25,Ipsos,B-,1004,A,0.69,57%,37%,55%,39%
+2021,FEB. 23-25,Harris Poll,B+,1778,RV,1.97,61%,39%,60%,40%
+2021,FEB. 23-24,HarrisX,B+,949,RV,0.53,59%,41%,55%,42%
+2021,FEB. 22-24,Marist College,A,1275,A,1.96,51%,38%,52%,38%
+2021,FEB. 22-24,Morning Consult,B,15000,A,0.39,54%,35%,53%,38%
+2021,FEB. 21-23,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,49%,49%,51%,43%
+2021,FEB. 18-23,Greenberg Research,B,1000,RV,1.41,52%,38%,51%,38%
+2021,FEB. 20-22,YouGov,B+,1556,A,0.86,50%,38%,51%,39%
+2021,FEB. 19-22,YouGov,B+,1500,A,0.83,51%,36%,52%,37%
+2021,FEB. 19-22,Morning Consult,B,2013,RV,0.05,58%,36%,57%,39%
+2021,FEB. 19-21,Morning Consult,B,15000,A,0.4,54%,35%,53%,38%
+2021,FEB. 18-21,Morning Consult,B,2200,A,0.06,57%,33%,56%,36%
+2021,FEB. 17-21,Hart Research Associates,B-,1000,V,1.24,58%,42%,57%,41%
+2021,FEB. 18-20,RMG Research,B-,1200,RV,0.68,56%,37%,55%,38%
+2021,FEB. 17-20,American Research Group,C+,1100,A,1.09,58%,34%,56%,36%
+2021,FEB. 17-18,Ipsos,B-,1005,A,0.71,56%,36%,54%,37%
+2021,FEB. 16-18,Morning Consult,B,15000,A,0.41,54%,35%,53%,38%
+2021,FEB. 16-18,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,49%,49%,51%,43%
+2021,FEB. 12-18,Echelon Insights,B/C,1005,RV,1.19,51%,42%,50%,42%
+2021,FEB. 3-18,Gallup,B+,1021,A,1.42,56%,40%,56%,39%
+2021,FEB. 13-16,YouGov,B+,1500,A,0.84,54%,37%,55%,38%
+2021,FEB. 14-15,Morning Consult,B,1984,RV,0.05,62%,33%,61%,36%
+2021,FEB. 13-15,Morning Consult,B,15000,A,0.42,54%,34%,53%,37%
+2021,FEB. 12-15,Morning Consult,B,3300,A,0.09,56%,35%,55%,38%
+2021,FEB. 12-15,Morning Consult,B,1987,RV,0.05,56%,38%,55%,41%
+2021,FEB. 12-15,HarrisX,B+,2835,RV,1.66,59%,41%,55%,42%
+2021,FEB. 11-15,Navigator Research,B/C,1067,RV,0.86,56%,38%,55%,37%
+2021,FEB. 11-15,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.71,53%,44%,55%,38%
+2021,FEB. 11-14,Quinnipiac University,A-,1056,A,1.51,50%,38%,53%,38%
+2021,FEB. 7-14,Saint Leo University,C/D,1000,A,0.81,61%,32%,58%,34%
+2021,FEB. 11-13,RMG Research,B-,1200,RV,0.69,57%,35%,56%,36%
+2021,FEB. 10-12,Morning Consult,B,15000,A,0.43,55%,33%,54%,36%
+2021,FEB. 9-10,Ipsos,B-,1001,A,0.73,57%,35%,56%,36%
+2021,FEB. 8-10,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.8,50%,47%,52%,41%
+2021,FEB. 8-9,HarrisX,B+,938,RV,0.65,60%,40%,56%,41%
+2021,FEB. 7-9,Morning Consult,B,15000,A,0.44,55%,33%,54%,36%
+2021,FEB. 6-9,YouGov,B+,1500,A,0.8,50%,37%,51%,38%
+2021,FEB. 5-8,YouGov,B+,2508,A,1.33,61%,39%,62%,40%
+2021,FEB. 5-7,Morning Consult,B,1986,RV,0.06,59%,35%,58%,38%
+2021,FEB. 3-7,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.56,50%,47%,52%,41%
+2021,FEB. 4-6,RMG Research,B-,1200,RV,0.7,60%,32%,59%,33%
+2021,FEB. 4-6,Morning Consult,B,15000,A,0.45,54%,34%,53%,37%
+2021,FEB. 2-3,Emerson College,A-,1429,A,2.08,49%,39%,50%,40%
+2021,FEB. 2-3,Ipsos,B-,1005,A,0.81,57%,34%,56%,36%
+2021,FEB. 1-3,Morning Consult,B,15000,A,0.46,54%,33%,53%,36%
+2021,JAN. 31-FEB. 2,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.76,51%,47%,53%,41%
+2021,JAN. 31-FEB. 2,YouGov,B+,1500,A,0.92,46%,38%,47%,39%
+2021,JAN. 21-FEB. 2,Gallup,B+,906,A,1.31,57%,37%,57%,36%
+2021,JAN. 29-FEB. 1,Morning Consult,B,1986,RV,0.06,58%,35%,57%,38%
+2021,JAN. 29-FEB. 1,Morning Consult,B,2200,A,0.07,57%,33%,56%,36%
+2021,JAN. 28-FEB. 1,AP-NORC,,1055,A,1.43,61%,38%,58%,38%
+2021,JAN. 28-FEB. 1,Quinnipiac University,A-,1075,A,1.53,49%,36%,52%,36%
+2021,JAN. 27-FEB. 1,Navigator Research,B/C,1005,RV,0.92,53%,39%,52%,38%
+2021,JAN. 29-31,Morning Consult,B,15000,A,0.39,54%,33%,53%,36%
+2021,JAN. 28-30,RMG Research,B-,1200,RV,0.74,58%,35%,57%,36%
+,01/29/2022,John Zogby Strategies,B/C,841,LV,1.12,56%,36%,55%,37%
+2021,JAN. 28-29,HarrisX,B+,945,RV,0.9,61%,39%,57%,40%
+2021,JAN. 27-29,TIPP Insights,A+,1261,A,2.36,53%,29%,54%,34%
+2021,JAN. 27-28,Morning Consult,B,2200,A,0.07,56%,33%,55%,36%
+2021,JAN. 26-28,Morning Consult,B,9211,A,0.46,55%,32%,54%,35%
+2021,JAN. 26-28,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.74,50%,45%,52%,39%
+2021,JAN. 24-27,Marist College,A,1313,A,2.19,49%,35%,50%,35%
+2021,JAN. 25-26,Morning Consult,B,2200,A,0.08,58%,32%,57%,35%
+2021,JAN. 24-26,YouGov,B+,1500,A,1.08,51%,33%,52%,34%
+2021,JAN. 20-26,Echelon Insights,B/C,1006,RV,1.19,55%,33%,54%,33%
+2021,JAN. 23-25,Morning Consult,B,15000,A,0.6,53%,30%,52%,33%
+2021,JAN. 22-25,Data for Progress,B,1164,LV,1.46,57%,36%,56%,36%
+2021,JAN. 22-25,Morning Consult,B,1990,RV,0.07,59%,32%,58%,35%
+2021,JAN. 22-25,Morning Consult,B,2200,A,0.08,56%,32%,55%,35%
+2021,JAN. 21-25,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,1.02,48%,47%,50%,41%
+2021,JAN. 21-24,Monmouth University,A,809,A,1.53,54%,30%,55%,30%
+2021,JAN. 21-23,RMG Research,B-,1200,RV,0.88,58%,32%,57%,33%
+2021,JAN. 21-22,HarrisX,B+,941,RV,1.04,63%,37%,59%,38%
+2021,JAN. 20-22,Morning Consult,B,15000,A,0.49,51%,28%,50%,31%
+2021,JAN. 20-21,Ipsos,B-,1115,A,1.1,55%,32%,54%,33%
+2021,JAN. 20-21,Morning Consult,B,1993,RV,0.09,56%,31%,55%,34%
+2021,JAN. 20-21,YouGov,B+,1516,A,1.25,45%,28%,46%,29%

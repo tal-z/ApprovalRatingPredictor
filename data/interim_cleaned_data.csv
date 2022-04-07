@@ -1,0 +1,958 @@
+YEAR,DATES,POLLSTER,GRADE,SAMPLE,Unnamed: 5,WEIGHT,APPROVE,DISAPPROVE,ADJUSTED_APPROVE,ADJUSTED_DISAPPROVE,datestring,bothdates,start,end
+2022,APR. 4-5,Ipsos,B-,1001,A,0.86,45%,50%,44%,51%,APR. 4-5 2022,"(datetime.date(2022, 4, 4), datetime.date(2022, 4, 5))",2022-04-04,2022-04-05
+2022,APR. 3-5,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,1.43,42%,56%,44%,50%,APR. 3-5 2022,"(datetime.date(2022, 4, 3), datetime.date(2022, 4, 5))",2022-04-03,2022-04-05
+2022,APR. 2-5,YouGov,B+,1500,A,1.1,41%,50%,42%,51%,APR. 2-5 2022,"(datetime.date(2022, 4, 2), datetime.date(2022, 4, 5))",2022-04-02,2022-04-05
+2022,APR. 1-4,Morning Consult,B,2003,RV,0.15,42%,55%,41%,58%,APR. 1-4 2022,"(datetime.date(2022, 4, 1), datetime.date(2022, 4, 4))",2022-04-01,2022-04-04
+2022,MAR. 31-APR. 4,YouGov,B+,1618,A,1.12,39%,53%,40%,54%,MAR. 31-APR. 4 2022,"(datetime.date(2022, 3, 31), datetime.date(2022, 4, 4))",2022-03-31,2022-04-04
+2022,MAR. 30-31,Morning Consult,B,2210,A,0.1,40%,54%,39%,57%,MAR. 30-31 2022,"(datetime.date(2022, 3, 30), datetime.date(2022, 3, 31))",2022-03-30,2022-03-31
+2022,MAR. 29-31,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.68,40%,58%,42%,52%,MAR. 29-31 2022,"(datetime.date(2022, 3, 29), datetime.date(2022, 3, 31))",2022-03-29,2022-03-31
+2022,MAR. 25-31,Climate Nexus,,1965,RV,1.02,44%,53%,43%,54%,MAR. 25-31 2022,"(datetime.date(2022, 3, 25), datetime.date(2022, 3, 31))",2022-03-25,2022-03-31
+2022,MAR. 28-29,Ipsos,B-,1005,A,0.73,42%,52%,41%,53%,MAR. 28-29 2022,"(datetime.date(2022, 3, 28), datetime.date(2022, 3, 29))",2022-03-28,2022-03-29
+2022,MAR. 26-29,YouGov,B+,1500,A,0.98,42%,48%,43%,49%,MAR. 26-29 2022,"(datetime.date(2022, 3, 26), datetime.date(2022, 3, 29))",2022-03-26,2022-03-29
+2022,MAR. 23-29,Morning Consult,B,45000,A,1.99,42%,50%,41%,53%,MAR. 23-29 2022,"(datetime.date(2022, 3, 23), datetime.date(2022, 3, 29))",2022-03-23,2022-03-29
+2022,MAR. 22-29,Marist College,A,1170,A,1.99,39%,54%,40%,54%,MAR. 22-29 2022,"(datetime.date(2022, 3, 22), datetime.date(2022, 3, 29))",2022-03-22,2022-03-29
+2022,MAR. 24-28,Quinnipiac University,A-,1462,A,1.72,36%,55%,39%,55%,MAR. 24-28 2022,"(datetime.date(2022, 3, 24), datetime.date(2022, 3, 28))",2022-03-24,2022-03-28
+2022,MAR. 24-28,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.73,43%,56%,45%,50%,MAR. 24-28 2022,"(datetime.date(2022, 3, 24), datetime.date(2022, 3, 28))",2022-03-24,2022-03-28
+2022,MAR. 25-27,Morning Consult,B,2006,RV,0.05,42%,54%,41%,57%,MAR. 25-27 2022,"(datetime.date(2022, 3, 25), datetime.date(2022, 3, 27))",2022-03-25,2022-03-27
+2022,MAR. 25-27,Research Co.,B-,1000,A,1.17,42%,52%,42%,52%,MAR. 25-27 2022,"(datetime.date(2022, 3, 25), datetime.date(2022, 3, 27))",2022-03-25,2022-03-27
+,03/25/2022,co/efficient,B/C,963,LV,1.38,37%,56%,38%,55%,,"('', '')",,
+2022,MAR. 23-24,Momentive/SurveyMonkey,C,3953,A,0.94,45%,52%,44%,52%,MAR. 23-24 2022,"(datetime.date(2022, 3, 23), datetime.date(2022, 3, 24))",2022-03-23,2022-03-24
+2022,MAR. 23-24,Harris Poll,B+,1990,RV,2.07,39%,55%,38%,56%,MAR. 23-24 2022,"(datetime.date(2022, 3, 23), datetime.date(2022, 3, 24))",2022-03-23,2022-03-24
+2022,MAR. 14-24,Marquette University Law School,A/B,1004,A,1.92,44%,55%,42%,55%,MAR. 14-24 2022,"(datetime.date(2022, 3, 14), datetime.date(2022, 3, 24))",2022-03-14,2022-03-24
+2022,MAR. 21-23,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.8,41%,58%,43%,52%,MAR. 21-23 2022,"(datetime.date(2022, 3, 21), datetime.date(2022, 3, 23))",2022-03-21,2022-03-23
+2022,MAR. 21-22,NewsNation,,1086,RV,0.84,44%,56%,43%,54%,MAR. 21-22 2022,"(datetime.date(2022, 3, 21), datetime.date(2022, 3, 22))",2022-03-21,2022-03-22
+2022,MAR. 21-22,Ipsos,B-,1005,A,0.69,40%,54%,39%,56%,MAR. 21-22 2022,"(datetime.date(2022, 3, 21), datetime.date(2022, 3, 22))",2022-03-21,2022-03-22
+2022,MAR. 19-22,YouGov,B+,1500,A,0.95,43%,48%,44%,49%,MAR. 19-22 2022,"(datetime.date(2022, 3, 19), datetime.date(2022, 3, 22))",2022-03-19,2022-03-22
+2022,MAR. 18-22,Hart Research Associates/Public Opinion Strategies,B+,1000,A,1.45,40%,55%,41%,55%,MAR. 18-22 2022,"(datetime.date(2022, 3, 18), datetime.date(2022, 3, 22))",2022-03-18,2022-03-22
+2022,MAR. 17-22,McLaughlin & Associates,C/D,1000,LV,0.76,41%,57%,40%,56%,MAR. 17-22 2022,"(datetime.date(2022, 3, 17), datetime.date(2022, 3, 22))",2022-03-17,2022-03-22
+2022,MAR. 16-22,Morning Consult,B,45000,A,0.97,41%,50%,40%,53%,MAR. 16-22 2022,"(datetime.date(2022, 3, 16), datetime.date(2022, 3, 22))",2022-03-16,2022-03-22
+2022,MAR. 18-21,Morning Consult,B,2211,A,0.05,38%,56%,37%,59%,MAR. 18-21 2022,"(datetime.date(2022, 3, 18), datetime.date(2022, 3, 21))",2022-03-18,2022-03-21
+2022,MAR. 18-21,Echelon Insights,B/C,1050,RV,1.24,45%,53%,44%,53%,MAR. 18-21 2022,"(datetime.date(2022, 3, 18), datetime.date(2022, 3, 21))",2022-03-18,2022-03-21
+2022,MAR. 18-21,Morning Consult,B,2005,RV,0.04,42%,55%,41%,58%,MAR. 18-21 2022,"(datetime.date(2022, 3, 18), datetime.date(2022, 3, 21))",2022-03-18,2022-03-21
+2022,MAR. 18-21,Beacon Research/Shaw & Company Research,A,1004,RV,1.77,45%,54%,43%,53%,MAR. 18-21 2022,"(datetime.date(2022, 3, 18), datetime.date(2022, 3, 21))",2022-03-18,2022-03-21
+2022,MAR. 17-21,AP-NORC,,1082,A,1.44,43%,56%,40%,56%,MAR. 17-21 2022,"(datetime.date(2022, 3, 17), datetime.date(2022, 3, 21))",2022-03-17,2022-03-21
+2022,MAR. 15-21,University of Massachusetts Lowell,B+,1000,A,1.52,43%,57%,43%,56%,MAR. 15-21 2022,"(datetime.date(2022, 3, 15), datetime.date(2022, 3, 21))",2022-03-15,2022-03-21
+2022,MAR. 11-21,Hofstra University,B/C,2000,RV,1.34,43%,57%,42%,56%,MAR. 11-21 2022,"(datetime.date(2022, 3, 11), datetime.date(2022, 3, 21))",2022-03-11,2022-03-21
+,03/20/2022,Redfield & Wilton Strategies,B/C,1500,RV,1.02,39%,45%,41%,50%,,"('', '')",,
+2022,MAR. 18-20,Emerson College,A-,1023,RV,1.64,43%,49%,43%,50%,MAR. 18-20 2022,"(datetime.date(2022, 3, 18), datetime.date(2022, 3, 20))",2022-03-18,2022-03-20
+2022,MAR. 18-20,Léger,B/C,1000,A,0.98,47%,51%,47%,51%,MAR. 18-20 2022,"(datetime.date(2022, 3, 18), datetime.date(2022, 3, 20))",2022-03-18,2022-03-20
+2022,MAR. 17-20,American Research Group,C+,1100,A,1.09,45%,51%,43%,53%,MAR. 17-20 2022,"(datetime.date(2022, 3, 17), datetime.date(2022, 3, 20))",2022-03-17,2022-03-20
+2022,MAR. 17-20,Navigator Research,B/C,1000,RV,0.91,44%,52%,43%,51%,MAR. 17-20 2022,"(datetime.date(2022, 3, 17), datetime.date(2022, 3, 20))",2022-03-17,2022-03-20
+2022,MAR. 16-20,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,40%,58%,42%,52%,MAR. 16-20 2022,"(datetime.date(2022, 3, 16), datetime.date(2022, 3, 20))",2022-03-16,2022-03-20
+2022,MAR. 15-20,Selzer & Co.,A+,1002,A,2.07,34%,52%,37%,52%,MAR. 15-20 2022,"(datetime.date(2022, 3, 15), datetime.date(2022, 3, 20))",2022-03-15,2022-03-20
+2022,MAR. 15-18,Morning Consult,B,4419,A,0.09,41%,54%,40%,57%,MAR. 15-18 2022,"(datetime.date(2022, 3, 15), datetime.date(2022, 3, 18))",2022-03-15,2022-03-18
+2022,MAR. 1-18,Gallup,B+,1017,A,1.54,42%,54%,42%,53%,MAR. 1-18 2022,"(datetime.date(2022, 3, 1), datetime.date(2022, 3, 18))",2022-03-01,2022-03-18
+2022,MAR. 14-17,Morning Consult,B,2210,A,0.05,43%,53%,42%,56%,MAR. 14-17 2022,"(datetime.date(2022, 3, 14), datetime.date(2022, 3, 17))",2022-03-14,2022-03-17
+2022,MAR. 14-15,Ipsos,B-,1005,A,0.68,43%,53%,41%,55%,MAR. 14-15 2022,"(datetime.date(2022, 3, 14), datetime.date(2022, 3, 15))",2022-03-14,2022-03-15
+2022,MAR. 13-15,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,42%,57%,44%,51%,MAR. 13-15 2022,"(datetime.date(2022, 3, 13), datetime.date(2022, 3, 15))",2022-03-13,2022-03-15
+2022,MAR. 12-15,YouGov,B+,1500,A,0.72,40%,50%,41%,51%,MAR. 12-15 2022,"(datetime.date(2022, 3, 12), datetime.date(2022, 3, 15))",2022-03-12,2022-03-15
+2022,MAR. 9-15,Morning Consult,B,45000,A,1.0,41%,51%,40%,54%,MAR. 9-15 2022,"(datetime.date(2022, 3, 9), datetime.date(2022, 3, 15))",2022-03-09,2022-03-15
+2022,MAR. 11-14,Morning Consult,B,2210,A,0.05,40%,54%,39%,57%,MAR. 11-14 2022,"(datetime.date(2022, 3, 11), datetime.date(2022, 3, 14))",2022-03-11,2022-03-14
+2022,MAR. 11-14,Morning Consult,B,2005,RV,0.04,41%,56%,40%,59%,MAR. 11-14 2022,"(datetime.date(2022, 3, 11), datetime.date(2022, 3, 14))",2022-03-11,2022-03-14
+2022,MAR. 10-14,Monmouth University,A,809,A,1.53,39%,54%,40%,54%,MAR. 10-14 2022,"(datetime.date(2022, 3, 10), datetime.date(2022, 3, 14))",2022-03-10,2022-03-14
+2022,MAR. 10-14,YouGov,B+,1623,A,0.75,41%,53%,42%,54%,MAR. 10-14 2022,"(datetime.date(2022, 3, 10), datetime.date(2022, 3, 14))",2022-03-10,2022-03-14
+2022,MAR. 10-14,Quinnipiac University,A-,1936,A,1.74,38%,53%,41%,53%,MAR. 10-14 2022,"(datetime.date(2022, 3, 10), datetime.date(2022, 3, 14))",2022-03-10,2022-03-14
+2022,MAR. 7-13,Pew Research Center,B/C,10441,A,3.17,43%,55%,43%,54%,MAR. 7-13 2022,"(datetime.date(2022, 3, 7), datetime.date(2022, 3, 13))",2022-03-07,2022-03-13
+2022,FEB. 28-MAR. 12,Saint Leo University,C/D,1000,A,0.81,45%,53%,42%,55%,FEB. 28-MAR. 12 2022,"(datetime.date(2022, 2, 28), datetime.date(2022, 3, 12))",2022-02-28,2022-03-12
+2022,MAR. 8-11,YouGov,B+,2088,A,0.94,43%,57%,44%,58%,MAR. 8-11 2022,"(datetime.date(2022, 3, 8), datetime.date(2022, 3, 11))",2022-03-08,2022-03-11
+2022,MAR. 8-10,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,41%,58%,43%,52%,MAR. 8-10 2022,"(datetime.date(2022, 3, 8), datetime.date(2022, 3, 10))",2022-03-08,2022-03-10
+2022,MAR. 8-9,Trafalgar Group,A-,1080,LV,1.71,42%,52%,44%,50%,MAR. 8-9 2022,"(datetime.date(2022, 3, 8), datetime.date(2022, 3, 9))",2022-03-08,2022-03-09
+2022,MAR. 2-9,Momentive/SurveyMonkey,C,16901,A,1.5,45%,54%,44%,54%,MAR. 2-9 2022,"(datetime.date(2022, 3, 2), datetime.date(2022, 3, 9))",2022-03-02,2022-03-09
+2022,MAR. 2-9,Schoen Cooperman Research,B/C,800,LV,0.98,45%,54%,44%,54%,MAR. 2-9 2022,"(datetime.date(2022, 3, 2), datetime.date(2022, 3, 9))",2022-03-02,2022-03-09
+,03/08/2022,Redfield & Wilton Strategies,B/C,1500,RV,0.92,37%,47%,39%,52%,,"('', '')",,
+2022,MAR. 7-8,Ipsos,B-,1005,A,0.68,45%,49%,43%,50%,MAR. 7-8 2022,"(datetime.date(2022, 3, 7), datetime.date(2022, 3, 8))",2022-03-07,2022-03-08
+2022,MAR. 7-8,InsiderAdvantage,B,750,LV,1.15,42%,54%,43%,52%,MAR. 7-8 2022,"(datetime.date(2022, 3, 7), datetime.date(2022, 3, 8))",2022-03-07,2022-03-08
+2022,MAR. 5-8,YouGov,B+,1500,A,0.66,41%,48%,42%,49%,MAR. 5-8 2022,"(datetime.date(2022, 3, 5), datetime.date(2022, 3, 8))",2022-03-05,2022-03-08
+2022,MAR. 2-8,Morning Consult,B,45000,A,1.0,42%,50%,41%,53%,MAR. 2-8 2022,"(datetime.date(2022, 3, 2), datetime.date(2022, 3, 8))",2022-03-02,2022-03-08
+2022,MAR. 4-7,Morning Consult,B,2005,RV,0.04,46%,51%,45%,54%,MAR. 4-7 2022,"(datetime.date(2022, 3, 4), datetime.date(2022, 3, 7))",2022-03-04,2022-03-07
+2022,MAR. 3-7,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,41%,58%,43%,52%,MAR. 3-7 2022,"(datetime.date(2022, 3, 3), datetime.date(2022, 3, 7))",2022-03-03,2022-03-07
+2022,MAR. 3-7,Navigator Research,B/C,1000,RV,0.77,45%,53%,44%,52%,MAR. 3-7 2022,"(datetime.date(2022, 3, 3), datetime.date(2022, 3, 7))",2022-03-03,2022-03-07
+2022,MAR. 2-7,"Fabrizio, Lee & Associates/Impact Research",,1500,RV,1.16,42%,57%,42%,55%,MAR. 2-7 2022,"(datetime.date(2022, 3, 2), datetime.date(2022, 3, 7))",2022-03-02,2022-03-07
+2022,MAR. 4-6,Quinnipiac University,A-,1374,A,1.23,38%,51%,41%,51%,MAR. 4-6 2022,"(datetime.date(2022, 3, 4), datetime.date(2022, 3, 6))",2022-03-04,2022-03-06
+2022,MAR. 4-6,Morning Consult,B,2005,RV,0.04,45%,51%,44%,54%,MAR. 4-6 2022,"(datetime.date(2022, 3, 4), datetime.date(2022, 3, 6))",2022-03-04,2022-03-06
+2022,MAR. 4-6,Léger,B/C,1003,A,0.97,48%,49%,48%,49%,MAR. 4-6 2022,"(datetime.date(2022, 3, 4), datetime.date(2022, 3, 6))",2022-03-04,2022-03-06
+2022,MAR. 2-4,TIPP Insights,A+,1318,A,2.44,39%,47%,40%,52%,MAR. 2-4 2022,"(datetime.date(2022, 3, 2), datetime.date(2022, 3, 4))",2022-03-02,2022-03-04
+2022,MAR. 1-3,Cor Services,,524,LV,0.63,47%,48%,49%,47%,MAR. 1-3 2022,"(datetime.date(2022, 3, 1), datetime.date(2022, 3, 3))",2022-03-01,2022-03-03
+2022,MAR. 1-2,Marist College,A,1322,A,2.02,47%,50%,48%,50%,MAR. 1-2 2022,"(datetime.date(2022, 3, 1), datetime.date(2022, 3, 2))",2022-03-01,2022-03-02
+2022,FEB. 28-MAR. 2,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,44%,54%,46%,48%,FEB. 28-MAR. 2 2022,"(datetime.date(2022, 2, 28), datetime.date(2022, 3, 2))",2022-02-28,2022-03-02
+2022,FEB. 28-MAR. 1,Ipsos,B-,1005,A,0.65,43%,54%,41%,55%,FEB. 28-MAR. 1 2022,"(datetime.date(2022, 2, 28), datetime.date(2022, 3, 1))",2022-02-28,2022-03-01
+2022,FEB. 26-MAR. 1,YouGov,B+,1500,A,0.63,42%,47%,43%,48%,FEB. 26-MAR. 1 2022,"(datetime.date(2022, 2, 26), datetime.date(2022, 3, 1))",2022-02-26,2022-03-01
+2022,FEB. 23-MAR. 1,Morning Consult,B,45000,A,0.98,42%,50%,41%,53%,FEB. 23-MAR. 1 2022,"(datetime.date(2022, 2, 23), datetime.date(2022, 3, 1))",2022-02-23,2022-03-01
+2022,FEB. 24-28,YouGov,B+,2238,A,0.89,44%,56%,45%,57%,FEB. 24-28 2022,"(datetime.date(2022, 2, 24), datetime.date(2022, 2, 28))",2022-02-24,2022-02-28
+2022,FEB. 26-27,Morning Consult,B,2210,A,0.05,42%,54%,41%,57%,FEB. 26-27 2022,"(datetime.date(2022, 2, 26), datetime.date(2022, 2, 27))",2022-02-26,2022-02-27
+2022,FEB. 25-27,Morning Consult,B,2004,RV,0.04,41%,56%,40%,59%,FEB. 25-27 2022,"(datetime.date(2022, 2, 25), datetime.date(2022, 2, 27))",2022-02-25,2022-02-27
+2022,FEB. 25-27,Quinnipiac University,A-,1364,A,1.34,37%,52%,40%,52%,FEB. 25-27 2022,"(datetime.date(2022, 2, 25), datetime.date(2022, 2, 27))",2022-02-25,2022-02-27
+2022,FEB. 24-27,YouGov,B+,1532,A,0.61,41%,53%,42%,54%,FEB. 24-27 2022,"(datetime.date(2022, 2, 24), datetime.date(2022, 2, 27))",2022-02-24,2022-02-27
+2022,FEB. 23-27,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,40%,59%,42%,53%,FEB. 23-27 2022,"(datetime.date(2022, 2, 23), datetime.date(2022, 2, 27))",2022-02-23,2022-02-27
+,02/26/2022,Morning Consult,B,2002,RV,0.04,44%,54%,43%,57%,,"('', '')",,
+2022,FEB. 24-25,YouGov Blue,,1007,RV,0.84,41%,55%,41%,54%,FEB. 24-25 2022,"(datetime.date(2022, 2, 24), datetime.date(2022, 2, 25))",2022-02-24,2022-02-25
+,02/24/2022,Morning Consult,B,1717,RV,0.04,47%,51%,46%,54%,,"('', '')",,
+2022,FEB. 23-24,NewsNation,,1046,RV,0.82,43%,57%,42%,56%,FEB. 23-24 2022,"(datetime.date(2022, 2, 23), datetime.date(2022, 2, 24))",2022-02-23,2022-02-24
+2022,FEB. 23-24,Harris Poll,B+,2026,RV,2.09,38%,55%,37%,56%,FEB. 23-24 2022,"(datetime.date(2022, 2, 23), datetime.date(2022, 2, 24))",2022-02-23,2022-02-24
+2022,FEB. 20-24,ABC News/The Washington Post,A+,1011,A,2.0,37%,55%,38%,54%,FEB. 20-24 2022,"(datetime.date(2022, 2, 20), datetime.date(2022, 2, 24))",2022-02-20,2022-02-24
+,02/23/2022,Redfield & Wilton Strategies,B/C,1500,RV,0.96,39%,41%,41%,46%,,"('', '')",,
+2022,FEB. 22-23,Ipsos,B-,1004,A,0.62,43%,53%,42%,54%,FEB. 22-23 2022,"(datetime.date(2022, 2, 22), datetime.date(2022, 2, 23))",2022-02-22,2022-02-23
+2022,FEB. 19-23,Echelon Insights,B/C,1078,RV,1.25,44%,53%,43%,53%,FEB. 19-23 2022,"(datetime.date(2022, 2, 19), datetime.date(2022, 2, 23))",2022-02-19,2022-02-23
+2022,FEB. 19-23,The Bullfinch Group,,1247,A,1.09,44%,51%,43%,52%,FEB. 19-23 2022,"(datetime.date(2022, 2, 19), datetime.date(2022, 2, 23))",2022-02-19,2022-02-23
+2022,FEB. 20-22,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,45%,55%,47%,49%,FEB. 20-22 2022,"(datetime.date(2022, 2, 20), datetime.date(2022, 2, 22))",2022-02-20,2022-02-22
+2022,FEB. 19-22,Beacon Research/Shaw & Company Research,A,1001,RV,1.77,43%,56%,41%,55%,FEB. 19-22 2022,"(datetime.date(2022, 2, 19), datetime.date(2022, 2, 22))",2022-02-19,2022-02-22
+2022,FEB. 19-22,YouGov,B+,1500,A,0.61,41%,49%,42%,50%,FEB. 19-22 2022,"(datetime.date(2022, 2, 19), datetime.date(2022, 2, 22))",2022-02-19,2022-02-22
+2022,FEB. 17-22,Navigator Research,B/C,1770,RV,1.1,43%,55%,42%,54%,FEB. 17-22 2022,"(datetime.date(2022, 2, 17), datetime.date(2022, 2, 22))",2022-02-17,2022-02-22
+2022,FEB. 16-22,Morning Consult,B,45000,A,0.98,42%,50%,41%,53%,FEB. 16-22 2022,"(datetime.date(2022, 2, 16), datetime.date(2022, 2, 22))",2022-02-16,2022-02-22
+2022,FEB. 16-22,McLaughlin & Associates,C/D,1000,LV,0.76,41%,57%,40%,56%,FEB. 16-22 2022,"(datetime.date(2022, 2, 16), datetime.date(2022, 2, 22))",2022-02-16,2022-02-22
+2022,FEB. 19-21,Morning Consult,B,2005,RV,0.04,45%,53%,44%,56%,FEB. 19-21 2022,"(datetime.date(2022, 2, 19), datetime.date(2022, 2, 21))",2022-02-19,2022-02-21
+2022,FEB. 18-21,AP-NORC,,1289,A,1.6,44%,55%,41%,55%,FEB. 18-21 2022,"(datetime.date(2022, 2, 18), datetime.date(2022, 2, 21))",2022-02-18,2022-02-21
+2022,FEB. 15-21,Marist College,A,1264,A,1.97,39%,55%,40%,55%,FEB. 15-21 2022,"(datetime.date(2022, 2, 15), datetime.date(2022, 2, 21))",2022-02-15,2022-02-21
+2022,FEB. 19-20,Morning Consult,B,3007,RV,0.06,45%,52%,44%,55%,FEB. 19-20 2022,"(datetime.date(2022, 2, 19), datetime.date(2022, 2, 20))",2022-02-19,2022-02-20
+2022,FEB. 19-20,Emerson College,A-,1138,RV,1.77,42%,50%,43%,51%,FEB. 19-20 2022,"(datetime.date(2022, 2, 19), datetime.date(2022, 2, 20))",2022-02-19,2022-02-20
+2022,FEB. 18-20,Morning Consult,B,2005,RV,0.04,44%,52%,43%,55%,FEB. 18-20 2022,"(datetime.date(2022, 2, 18), datetime.date(2022, 2, 20))",2022-02-18,2022-02-20
+2022,FEB. 17-20,American Research Group,C+,1100,A,1.09,44%,52%,42%,54%,FEB. 17-20 2022,"(datetime.date(2022, 2, 17), datetime.date(2022, 2, 20))",2022-02-17,2022-02-20
+2022,FEB. 16-20,Suffolk University,B+,1000,RV,1.56,39%,57%,41%,54%,FEB. 16-20 2022,"(datetime.date(2022, 2, 16), datetime.date(2022, 2, 20))",2022-02-16,2022-02-20
+2022,FEB. 15-18,YouGov,B+,2484,A,1.0,43%,57%,44%,58%,FEB. 15-18 2022,"(datetime.date(2022, 2, 15), datetime.date(2022, 2, 18))",2022-02-15,2022-02-18
+2022,FEB. 15-17,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,43%,56%,45%,50%,FEB. 15-17 2022,"(datetime.date(2022, 2, 15), datetime.date(2022, 2, 17))",2022-02-15,2022-02-17
+2022,FEB. 10-17,Tarrance Group,B+,800,RV,1.3,41%,53%,41%,53%,FEB. 10-17 2022,"(datetime.date(2022, 2, 10), datetime.date(2022, 2, 17))",2022-02-10,2022-02-17
+2022,FEB. 1-17,Gallup,B+,1008,A,1.52,41%,55%,41%,54%,FEB. 1-17 2022,"(datetime.date(2022, 2, 1), datetime.date(2022, 2, 17))",2022-02-01,2022-02-17
+2022,FEB. 13-16,Trafalgar Group,A-,1078,LV,1.71,39%,58%,41%,55%,FEB. 13-16 2022,"(datetime.date(2022, 2, 13), datetime.date(2022, 2, 16))",2022-02-13,2022-02-16
+2022,FEB. 14-15,Ipsos,B-,1005,A,0.56,44%,51%,43%,52%,FEB. 14-15 2022,"(datetime.date(2022, 2, 14), datetime.date(2022, 2, 15))",2022-02-14,2022-02-15
+2022,FEB. 12-15,YouGov,B+,1500,A,0.61,39%,50%,40%,51%,FEB. 12-15 2022,"(datetime.date(2022, 2, 12), datetime.date(2022, 2, 15))",2022-02-12,2022-02-15
+2022,FEB. 9-15,Morning Consult,B,45000,A,0.98,41%,50%,40%,53%,FEB. 9-15 2022,"(datetime.date(2022, 2, 9), datetime.date(2022, 2, 15))",2022-02-09,2022-02-15
+2022,FEB. 10-14,Quinnipiac University,A-,1321,A,1.66,35%,55%,38%,55%,FEB. 10-14 2022,"(datetime.date(2022, 2, 10), datetime.date(2022, 2, 14))",2022-02-10,2022-02-14
+2022,FEB. 10-14,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,40%,59%,42%,53%,FEB. 10-14 2022,"(datetime.date(2022, 2, 10), datetime.date(2022, 2, 14))",2022-02-10,2022-02-14
+2022,FEB. 12-13,Morning Consult,B,2210,A,0.05,42%,52%,41%,55%,FEB. 12-13 2022,"(datetime.date(2022, 2, 12), datetime.date(2022, 2, 13))",2022-02-12,2022-02-13
+2022,FEB. 12-13,Morning Consult,B,2005,RV,0.04,43%,53%,42%,56%,FEB. 12-13 2022,"(datetime.date(2022, 2, 12), datetime.date(2022, 2, 13))",2022-02-12,2022-02-13
+2022,FEB. 8-11,YouGov,B+,2578,A,1.05,44%,56%,45%,57%,FEB. 8-11 2022,"(datetime.date(2022, 2, 8), datetime.date(2022, 2, 11))",2022-02-08,2022-02-11
+2022,FEB. 9-10,Morning Consult,B,2210,A,0.05,44%,51%,43%,54%,FEB. 9-10 2022,"(datetime.date(2022, 2, 9), datetime.date(2022, 2, 10))",2022-02-09,2022-02-10
+2022,FEB. 7-9,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,43%,55%,45%,49%,FEB. 7-9 2022,"(datetime.date(2022, 2, 7), datetime.date(2022, 2, 9))",2022-02-07,2022-02-09
+2022,FEB. 3-9,Susquehanna Polling & Research,B+,800,LV,1.29,42%,52%,43%,52%,FEB. 3-9 2022,"(datetime.date(2022, 2, 3), datetime.date(2022, 2, 9))",2022-02-03,2022-02-09
+2022,FEB. 7-8,Ipsos,B-,1005,A,0.36,43%,51%,42%,52%,FEB. 7-8 2022,"(datetime.date(2022, 2, 7), datetime.date(2022, 2, 8))",2022-02-07,2022-02-08
+2022,FEB. 5-8,YouGov,B+,1500,A,0.64,39%,50%,40%,51%,FEB. 5-8 2022,"(datetime.date(2022, 2, 5), datetime.date(2022, 2, 8))",2022-02-05,2022-02-08
+2022,FEB. 4-8,Public Opinion Strategies,A-,1000,RV,1.64,43%,54%,42%,54%,FEB. 4-8 2022,"(datetime.date(2022, 2, 4), datetime.date(2022, 2, 8))",2022-02-04,2022-02-08
+2022,FEB. 2-8,Morning Consult,B,45000,A,0.99,41%,51%,40%,54%,FEB. 2-8 2022,"(datetime.date(2022, 2, 2), datetime.date(2022, 2, 8))",2022-02-02,2022-02-08
+,02/07/2022,Morning Consult,B,2005,RV,0.04,43%,55%,42%,58%,,"('', '')",,
+2022,FEB. 3-7,YouGov,B+,1628,A,0.74,42%,51%,43%,52%,FEB. 3-7 2022,"(datetime.date(2022, 2, 3), datetime.date(2022, 2, 7))",2022-02-03,2022-02-07
+2022,FEB. 3-7,Navigator Research,B/C,1000,RV,0.79,43%,55%,42%,54%,FEB. 3-7 2022,"(datetime.date(2022, 2, 3), datetime.date(2022, 2, 7))",2022-02-03,2022-02-07
+2022,FEB. 1-7,SurveyMonkey,C,7590,A,1.49,44%,53%,43%,53%,FEB. 1-7 2022,"(datetime.date(2022, 2, 1), datetime.date(2022, 2, 7))",2022-02-01,2022-02-07
+2022,JAN. 31-FEB. 7,Ipsos,B-,4404,A,1.36,45%,52%,44%,53%,JAN. 31-FEB. 7 2022,"(datetime.date(2022, 1, 31), datetime.date(2022, 2, 7))",2022-01-31,2022-02-07
+,02/06/2022,Redfield & Wilton Strategies,B/C,1500,RV,1.09,38%,48%,40%,53%,,"('', '')",,
+2022,FEB. 5-6,Morning Consult,B,2005,RV,0.04,41%,55%,40%,58%,FEB. 5-6 2022,"(datetime.date(2022, 2, 5), datetime.date(2022, 2, 6))",2022-02-05,2022-02-06
+2022,FEB. 4-6,Morning Consult,B,2209,A,0.05,45%,51%,44%,54%,FEB. 4-6 2022,"(datetime.date(2022, 2, 4), datetime.date(2022, 2, 6))",2022-02-04,2022-02-06
+2022,FEB. 4-6,Léger,B/C,1005,A,0.97,42%,55%,42%,55%,FEB. 4-6 2022,"(datetime.date(2022, 2, 4), datetime.date(2022, 2, 6))",2022-02-04,2022-02-06
+2022,FEB. 2-6,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,43%,56%,45%,50%,FEB. 2-6 2022,"(datetime.date(2022, 2, 2), datetime.date(2022, 2, 6))",2022-02-02,2022-02-06
+2022,JAN. 10-FEB. 6,SSRS,C,1527,A,1.13,41%,58%,40%,58%,JAN. 10-FEB. 6 2022,"(datetime.date(2022, 1, 10), datetime.date(2022, 2, 6))",2022-01-10,2022-02-06
+2022,FEB. 2-4,TIPP Insights,A+,1355,A,2.47,38%,48%,39%,53%,FEB. 2-4 2022,"(datetime.date(2022, 2, 2), datetime.date(2022, 2, 4))",2022-02-02,2022-02-04
+2022,FEB. 2-3,Ipsos,B-,1005,A,0.32,41%,56%,39%,58%,FEB. 2-3 2022,"(datetime.date(2022, 2, 2), datetime.date(2022, 2, 3))",2022-02-02,2022-02-03
+2022,FEB. 1-2,Morning Consult,B,2210,A,0.05,42%,52%,41%,55%,FEB. 1-2 2022,"(datetime.date(2022, 2, 1), datetime.date(2022, 2, 2))",2022-02-01,2022-02-02
+2022,JAN. 30-FEB. 1,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,39%,59%,41%,53%,JAN. 30-FEB. 1 2022,"(datetime.date(2022, 1, 30), datetime.date(2022, 2, 1))",2022-01-30,2022-02-01
+2022,JAN. 29-FEB. 1,YouGov,B+,1500,A,0.78,42%,49%,43%,50%,JAN. 29-FEB. 1 2022,"(datetime.date(2022, 1, 29), datetime.date(2022, 2, 1))",2022-01-29,2022-02-01
+2022,JAN. 26-FEB. 1,Morning Consult,B,45000,A,0.98,41%,51%,40%,54%,JAN. 26-FEB. 1 2022,"(datetime.date(2022, 1, 26), datetime.date(2022, 2, 1))",2022-01-26,2022-02-01
+2022,JAN. 28-30,Morning Consult,B,2005,RV,0.04,43%,54%,42%,57%,JAN. 28-30 2022,"(datetime.date(2022, 1, 28), datetime.date(2022, 1, 30))",2022-01-28,2022-01-30
+2022,JAN. 28-29,Public Policy Polling,A-,662,RV,1.2,40%,49%,41%,49%,JAN. 28-29 2022,"(datetime.date(2022, 1, 28), datetime.date(2022, 1, 29))",2022-01-28,2022-01-29
+2022,JAN. 26-27,Ipsos,B-,1002,A,0.44,45%,50%,44%,52%,JAN. 26-27 2022,"(datetime.date(2022, 1, 26), datetime.date(2022, 1, 27))",2022-01-26,2022-01-27
+2022,JAN. 25-27,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,41%,57%,43%,51%,JAN. 25-27 2022,"(datetime.date(2022, 1, 25), datetime.date(2022, 1, 27))",2022-01-25,2022-01-27
+2022,JAN. 22-25,YouGov,B+,1500,A,0.82,38%,51%,39%,52%,JAN. 22-25 2022,"(datetime.date(2022, 1, 22), datetime.date(2022, 1, 25))",2022-01-22,2022-01-25
+2022,JAN. 19-25,Morning Consult,B,45000,A,0.96,42%,50%,41%,53%,JAN. 19-25 2022,"(datetime.date(2022, 1, 19), datetime.date(2022, 1, 25))",2022-01-19,2022-01-25
+2022,JAN. 21-24,Zogby Analytics,B-,897,LV,1.1,44%,49%,42%,51%,JAN. 21-24 2022,"(datetime.date(2022, 1, 21), datetime.date(2022, 1, 24))",2022-01-21,2022-01-24
+2022,JAN. 20-24,Navigator Research,B/C,1000,RV,0.83,46%,52%,45%,51%,JAN. 20-24 2022,"(datetime.date(2022, 1, 20), datetime.date(2022, 1, 24))",2022-01-20,2022-01-24
+2022,JAN. 20-24,Monmouth University,A,794,A,1.51,39%,54%,40%,54%,JAN. 20-24 2022,"(datetime.date(2022, 1, 20), datetime.date(2022, 1, 24))",2022-01-20,2022-01-24
+2022,JAN. 20-24,YouGov,B+,1568,A,0.84,40%,53%,41%,54%,JAN. 20-24 2022,"(datetime.date(2022, 1, 20), datetime.date(2022, 1, 24))",2022-01-20,2022-01-24
+2022,JAN. 20-24,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,40%,59%,42%,53%,JAN. 20-24 2022,"(datetime.date(2022, 1, 20), datetime.date(2022, 1, 24))",2022-01-20,2022-01-24
+2022,JAN. 17-24,Momentive/SurveyMonkey,C,12136,A,1.54,45%,53%,44%,53%,JAN. 17-24 2022,"(datetime.date(2022, 1, 17), datetime.date(2022, 1, 24))",2022-01-17,2022-01-24
+,01/23/2022,Morning Consult,B,2005,RV,0.04,41%,56%,40%,59%,,"('', '')",,
+2022,JAN. 22-23,Morning Consult,B,2005,RV,0.04,42%,55%,41%,58%,JAN. 22-23 2022,"(datetime.date(2022, 1, 22), datetime.date(2022, 1, 23))",2022-01-22,2022-01-23
+2022,JAN. 22-23,Morning Consult,B,2210,A,0.05,41%,53%,40%,56%,JAN. 22-23 2022,"(datetime.date(2022, 1, 22), datetime.date(2022, 1, 23))",2022-01-22,2022-01-23
+2022,JAN. 22-23,Morning Consult,B,2211,A,0.05,43%,50%,42%,53%,JAN. 22-23 2022,"(datetime.date(2022, 1, 22), datetime.date(2022, 1, 23))",2022-01-22,2022-01-23
+2022,JAN. 21-23,Léger,B/C,1000,A,0.98,42%,56%,42%,56%,JAN. 21-23 2022,"(datetime.date(2022, 1, 21), datetime.date(2022, 1, 23))",2022-01-21,2022-01-23
+2022,JAN. 21-23,InsiderAdvantage,B,850,LV,1.25,40%,59%,41%,57%,JAN. 21-23 2022,"(datetime.date(2022, 1, 21), datetime.date(2022, 1, 23))",2022-01-21,2022-01-23
+2022,JAN. 21-23,Echelon Insights,B/C,1029,RV,0.96,46%,52%,45%,52%,JAN. 21-23 2022,"(datetime.date(2022, 1, 21), datetime.date(2022, 1, 23))",2022-01-21,2022-01-23
+2022,JAN. 10-21,Marquette University Law School,A/B,1000,A,1.91,46%,53%,44%,53%,JAN. 10-21 2022,"(datetime.date(2022, 1, 10), datetime.date(2022, 1, 21))",2022-01-10,2022-01-21
+2022,JAN. 19-20,Ipsos,B-,1004,A,0.59,43%,52%,42%,53%,JAN. 19-20 2022,"(datetime.date(2022, 1, 19), datetime.date(2022, 1, 20))",2022-01-19,2022-01-20
+2022,JAN. 19-20,Harris Poll,B+,1815,RV,2.01,39%,53%,38%,54%,JAN. 19-20 2022,"(datetime.date(2022, 1, 19), datetime.date(2022, 1, 20))",2022-01-19,2022-01-20
+2022,JAN. 17-20,American Research Group,C+,1100,A,1.11,43%,53%,41%,55%,JAN. 17-20 2022,"(datetime.date(2022, 1, 17), datetime.date(2022, 1, 20))",2022-01-17,2022-01-20
+2022,JAN. 18-19,RMG Research,B-,1200,RV,0.68,42%,52%,41%,53%,JAN. 18-19 2022,"(datetime.date(2022, 1, 18), datetime.date(2022, 1, 19))",2022-01-18,2022-01-19
+2022,JAN. 17-19,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.79,40%,58%,42%,52%,JAN. 17-19 2022,"(datetime.date(2022, 1, 17), datetime.date(2022, 1, 19))",2022-01-17,2022-01-19
+2022,JAN. 16-19,Beacon Research/Shaw & Company Research,A,1001,RV,1.79,47%,52%,45%,51%,JAN. 16-19 2022,"(datetime.date(2022, 1, 16), datetime.date(2022, 1, 19))",2022-01-16,2022-01-19
+2022,JAN. 15-18,YouGov,B+,1500,A,0.8,39%,51%,40%,52%,JAN. 15-18 2022,"(datetime.date(2022, 1, 15), datetime.date(2022, 1, 18))",2022-01-15,2022-01-18
+2022,JAN. 14-18,Hart Research Associates/Public Opinion Strategies,B+,1000,A,1.45,43%,54%,44%,54%,JAN. 14-18 2022,"(datetime.date(2022, 1, 14), datetime.date(2022, 1, 18))",2022-01-14,2022-01-18
+2022,JAN. 13-18,McLaughlin & Associates,C/D,1000,LV,0.77,41%,57%,40%,56%,JAN. 13-18 2022,"(datetime.date(2022, 1, 13), datetime.date(2022, 1, 18))",2022-01-13,2022-01-18
+2022,JAN. 13-18,AP-NORC,,1161,A,1.54,43%,56%,40%,56%,JAN. 13-18 2022,"(datetime.date(2022, 1, 13), datetime.date(2022, 1, 18))",2022-01-13,2022-01-18
+2022,JAN. 12-18,Morning Consult,B,45000,A,0.96,43%,49%,42%,52%,JAN. 12-18 2022,"(datetime.date(2022, 1, 12), datetime.date(2022, 1, 18))",2022-01-12,2022-01-18
+2022,JAN. 14-17,Echelon Insights,B/C,1000,RV,0.94,45%,52%,44%,52%,JAN. 14-17 2022,"(datetime.date(2022, 1, 14), datetime.date(2022, 1, 17))",2022-01-14,2022-01-17
+2022,JAN. 10-17,Pew Research Center,B/C,5128,A,2.78,41%,56%,41%,55%,JAN. 10-17 2022,"(datetime.date(2022, 1, 10), datetime.date(2022, 1, 17))",2022-01-10,2022-01-17
+2022,JAN. 15-16,Morning Consult,B,2005,RV,0.04,40%,56%,39%,59%,JAN. 15-16 2022,"(datetime.date(2022, 1, 15), datetime.date(2022, 1, 16))",2022-01-15,2022-01-16
+2022,JAN. 14-16,Morning Consult,B,2210,A,0.05,41%,52%,40%,55%,JAN. 14-16 2022,"(datetime.date(2022, 1, 14), datetime.date(2022, 1, 16))",2022-01-14,2022-01-16
+2022,JAN. 14-16,Morning Consult,B,4411,A,0.09,43%,52%,42%,55%,JAN. 14-16 2022,"(datetime.date(2022, 1, 14), datetime.date(2022, 1, 16))",2022-01-14,2022-01-16
+2022,JAN. 12-16,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,39%,60%,41%,54%,JAN. 12-16 2022,"(datetime.date(2022, 1, 12), datetime.date(2022, 1, 16))",2022-01-12,2022-01-16
+2022,JAN. 3-16,Gallup,B+,811,A,1.32,40%,56%,40%,55%,JAN. 3-16 2022,"(datetime.date(2022, 1, 3), datetime.date(2022, 1, 16))",2022-01-03,2022-01-16
+2022,JAN. 14-15,Morning Consult,B,2210,A,0.05,44%,50%,43%,53%,JAN. 14-15 2022,"(datetime.date(2022, 1, 14), datetime.date(2022, 1, 15))",2022-01-14,2022-01-15
+2022,JAN. 13-15,RMG Research,B-,1200,RV,0.55,44%,50%,43%,51%,JAN. 13-15 2022,"(datetime.date(2022, 1, 13), datetime.date(2022, 1, 15))",2022-01-13,2022-01-15
+2022,JAN. 12-15,Trafalgar Group,A-,1083,LV,1.73,39%,59%,41%,56%,JAN. 12-15 2022,"(datetime.date(2022, 1, 12), datetime.date(2022, 1, 15))",2022-01-12,2022-01-15
+2022,JAN. 13-14,YouGov Blue,,1055,RV,0.85,40%,55%,40%,54%,JAN. 13-14 2022,"(datetime.date(2022, 1, 13), datetime.date(2022, 1, 14))",2022-01-13,2022-01-14
+2022,JAN. 12-14,Morning Consult,B,2210,A,0.05,44%,50%,43%,53%,JAN. 12-14 2022,"(datetime.date(2022, 1, 12), datetime.date(2022, 1, 14))",2022-01-12,2022-01-14
+2022,JAN. 12-14,YouGov,B+,2094,A,1.16,44%,56%,45%,57%,JAN. 12-14 2022,"(datetime.date(2022, 1, 12), datetime.date(2022, 1, 14))",2022-01-12,2022-01-14
+2022,JAN. 12-13,Ipsos,B-,1005,A,0.68,45%,50%,43%,51%,JAN. 12-13 2022,"(datetime.date(2022, 1, 12), datetime.date(2022, 1, 13))",2022-01-12,2022-01-13
+2022,JAN. 11-12,RMG Research,B-,1200,RV,0.53,40%,53%,39%,54%,JAN. 11-12 2022,"(datetime.date(2022, 1, 11), datetime.date(2022, 1, 12))",2022-01-11,2022-01-12
+2022,JAN. 9-11,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.71,40%,58%,42%,52%,JAN. 9-11 2022,"(datetime.date(2022, 1, 9), datetime.date(2022, 1, 11))",2022-01-09,2022-01-11
+2022,JAN. 8-11,YouGov,B+,1500,A,0.89,43%,50%,44%,51%,JAN. 8-11 2022,"(datetime.date(2022, 1, 8), datetime.date(2022, 1, 11))",2022-01-08,2022-01-11
+2022,JAN. 5-11,Morning Consult,B,45000,A,1.02,43%,49%,42%,52%,JAN. 5-11 2022,"(datetime.date(2022, 1, 5), datetime.date(2022, 1, 11))",2022-01-05,2022-01-11
+,01/10/2022,NewsNation,,1013,RV,0.84,42%,58%,41%,56%,,"('', '')",,
+2022,JAN. 7-10,Quinnipiac University,A-,1313,A,1.9,33%,53%,36%,53%,JAN. 7-10 2022,"(datetime.date(2022, 1, 7), datetime.date(2022, 1, 10))",2022-01-07,2022-01-10
+2022,JAN. 6-10,Navigator Research,B/C,1000,RV,0.92,47%,51%,46%,50%,JAN. 6-10 2022,"(datetime.date(2022, 1, 6), datetime.date(2022, 1, 10))",2022-01-06,2022-01-10
+2022,JAN. 8-9,Morning Consult,B,2200,A,0.05,44%,50%,43%,53%,JAN. 8-9 2022,"(datetime.date(2022, 1, 8), datetime.date(2022, 1, 9))",2022-01-08,2022-01-09
+2022,JAN. 8-9,Redfield & Wilton Strategies,B/C,1500,RV,1.17,39%,44%,41%,49%,JAN. 8-9 2022,"(datetime.date(2022, 1, 8), datetime.date(2022, 1, 9))",2022-01-08,2022-01-09
+2022,JAN. 8-9,Morning Consult,B,2200,A,0.05,43%,51%,42%,54%,JAN. 8-9 2022,"(datetime.date(2022, 1, 8), datetime.date(2022, 1, 9))",2022-01-08,2022-01-09
+2022,JAN. 5-9,TIPP Insights,A+,1308,A,2.42,44%,45%,45%,50%,JAN. 5-9 2022,"(datetime.date(2022, 1, 5), datetime.date(2022, 1, 9))",2022-01-05,2022-01-09
+2022,JAN. 6-7,RMG Research,B-,1200,RV,0.54,41%,52%,40%,53%,JAN. 6-7 2022,"(datetime.date(2022, 1, 6), datetime.date(2022, 1, 7))",2022-01-06,2022-01-07
+2022,JAN. 5-6,Ipsos,B-,1000,A,0.78,45%,51%,44%,52%,JAN. 5-6 2022,"(datetime.date(2022, 1, 5), datetime.date(2022, 1, 6))",2022-01-05,2022-01-06
+2022,JAN. 4-6,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.63,41%,58%,43%,52%,JAN. 4-6 2022,"(datetime.date(2022, 1, 4), datetime.date(2022, 1, 6))",2022-01-04,2022-01-06
+,01/05/2022,Morning Consult,B,2200,A,0.05,43%,50%,42%,53%,,"('', '')",,
+2022,JAN. 3-4,RMG Research,B-,1200,RV,0.58,42%,50%,41%,51%,JAN. 3-4 2022,"(datetime.date(2022, 1, 3), datetime.date(2022, 1, 4))",2022-01-03,2022-01-04
+2022,JAN. 2-4,The Winston Group,A/B,1000,RV,1.62,46%,44%,45%,47%,JAN. 2-4 2022,"(datetime.date(2022, 1, 2), datetime.date(2022, 1, 4))",2022-01-02,2022-01-04
+2022,JAN. 2-4,YouGov,B+,1500,A,1.14,40%,50%,41%,51%,JAN. 2-4 2022,"(datetime.date(2022, 1, 2), datetime.date(2022, 1, 4))",2022-01-02,2022-01-04
+2021-2022,DEC. 29-JAN. 4,Morning Consult,B,45000,A,1.06,42%,50%,41%,53%,DEC. 29-JAN. 4 2021-2022,"(datetime.date(2021, 12, 29), datetime.date(2021, 1, 4))",2021-12-29,2021-01-04
+2021-2022,DEC. 30-JAN. 3,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.72,40%,58%,42%,52%,DEC. 30-JAN. 3 2021-2022,"(datetime.date(2021, 12, 30), datetime.date(2021, 1, 3))",2021-12-30,2021-01-03
+2021,DEC. 27-30,Suffolk University,B+,1000,RV,1.56,40%,54%,42%,52%,DEC. 27-30 2021,"(datetime.date(2021, 12, 27), datetime.date(2021, 12, 30))",2021-12-27,2021-12-30
+2021,DEC. 28-29,Morning Consult,B,2000,RV,0.05,43%,54%,42%,57%,DEC. 28-29 2021,"(datetime.date(2021, 12, 28), datetime.date(2021, 12, 29))",2021-12-28,2021-12-29
+2021,DEC. 27-29,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.86,43%,56%,45%,50%,DEC. 27-29 2021,"(datetime.date(2021, 12, 27), datetime.date(2021, 12, 29))",2021-12-27,2021-12-29
+2021,DEC. 22-28,Morning Consult,B,45000,A,1.07,44%,49%,43%,52%,DEC. 22-28 2021,"(datetime.date(2021, 12, 22), datetime.date(2021, 12, 28))",2021-12-22,2021-12-28
+2021,DEC. 21-26,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.55,40%,58%,42%,52%,DEC. 21-26 2021,"(datetime.date(2021, 12, 21), datetime.date(2021, 12, 26))",2021-12-21,2021-12-26
+2021,DEC. 21-22,RMG Research,B-,1200,RV,0.59,41%,53%,40%,54%,DEC. 21-22 2021,"(datetime.date(2021, 12, 21), datetime.date(2021, 12, 22))",2021-12-21,2021-12-22
+2021,DEC. 21-22,Zogby Analytics,B-,1311,LV,1.32,50%,48%,47%,50%,DEC. 21-22 2021,"(datetime.date(2021, 12, 21), datetime.date(2021, 12, 22))",2021-12-21,2021-12-22
+2021,DEC. 19-21,YouGov,B+,1500,A,1.05,39%,49%,40%,50%,DEC. 19-21 2021,"(datetime.date(2021, 12, 19), datetime.date(2021, 12, 21))",2021-12-19,2021-12-21
+2021,DEC. 18-21,Trafalgar Group,A-,1073,LV,1.68,40%,56%,42%,53%,DEC. 18-21 2021,"(datetime.date(2021, 12, 18), datetime.date(2021, 12, 21))",2021-12-18,2021-12-21
+2021,DEC. 15-21,Morning Consult,B,45000,A,1.04,45%,48%,44%,51%,DEC. 15-21 2021,"(datetime.date(2021, 12, 15), datetime.date(2021, 12, 21))",2021-12-15,2021-12-21
+2021,DEC. 18-20,Morning Consult,B,1999,RV,0.05,44%,53%,43%,56%,DEC. 18-20 2021,"(datetime.date(2021, 12, 18), datetime.date(2021, 12, 20))",2021-12-18,2021-12-20
+2021,DEC. 17-20,Change Research,B-,1895,RV,1.49,44%,56%,44%,54%,DEC. 17-20 2021,"(datetime.date(2021, 12, 17), datetime.date(2021, 12, 20))",2021-12-17,2021-12-20
+2021,DEC. 17-20,American Research Group,C+,1100,A,1.1,46%,49%,44%,51%,DEC. 17-20 2021,"(datetime.date(2021, 12, 17), datetime.date(2021, 12, 20))",2021-12-17,2021-12-20
+2021,DEC. 16-20,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.74,42%,57%,44%,51%,DEC. 16-20 2021,"(datetime.date(2021, 12, 16), datetime.date(2021, 12, 20))",2021-12-16,2021-12-20
+2021,DEC. 14-20,YouGov,B+,1000,A,0.64,41%,53%,42%,54%,DEC. 14-20 2021,"(datetime.date(2021, 12, 14), datetime.date(2021, 12, 20))",2021-12-14,2021-12-20
+2021,DEC. 17-19,InsiderAdvantage,B,750,RV,1.15,41%,58%,42%,56%,DEC. 17-19 2021,"(datetime.date(2021, 12, 17), datetime.date(2021, 12, 19))",2021-12-17,2021-12-19
+,12/18/2022,Redfield & Wilton Strategies,B/C,1500,RV,1.02,41%,44%,43%,49%,,"('', '')",,
+,12/17/2022,John Zogby Strategies,B/C,777,LV,1.06,46%,52%,45%,53%,,"('', '')",,
+2021,DEC. 16-17,RMG Research,B-,1200,RV,0.5,41%,53%,40%,54%,DEC. 16-17 2021,"(datetime.date(2021, 12, 16), datetime.date(2021, 12, 17))",2021-12-16,2021-12-17
+2021,DEC. 15-17,Ipsos,B-,1004,A,0.36,48%,46%,47%,47%,DEC. 15-17 2021,"(datetime.date(2021, 12, 15), datetime.date(2021, 12, 17))",2021-12-15,2021-12-17
+2021,DEC. 13-17,Ipsos,B-,4407,A,1.53,48%,48%,47%,49%,DEC. 13-17 2021,"(datetime.date(2021, 12, 13), datetime.date(2021, 12, 17))",2021-12-13,2021-12-17
+2021,DEC. 1-16,Gallup,B+,811,A,1.32,43%,51%,43%,50%,DEC. 1-16 2021,"(datetime.date(2021, 12, 1), datetime.date(2021, 12, 16))",2021-12-01,2021-12-16
+2021,DEC. 14-15,RMG Research,B-,1200,RV,0.48,42%,52%,41%,53%,DEC. 14-15 2021,"(datetime.date(2021, 12, 14), datetime.date(2021, 12, 15))",2021-12-14,2021-12-15
+2021,DEC. 13-15,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.81,40%,58%,42%,52%,DEC. 13-15 2021,"(datetime.date(2021, 12, 13), datetime.date(2021, 12, 15))",2021-12-13,2021-12-15
+2021,DEC. 12-14,YouGov,B+,1500,A,0.89,41%,50%,42%,51%,DEC. 12-14 2021,"(datetime.date(2021, 12, 12), datetime.date(2021, 12, 14))",2021-12-12,2021-12-14
+2021,DEC. 11-14,Beacon Research/Shaw & Company Research,A,1002,RV,1.77,47%,51%,45%,50%,DEC. 11-14 2021,"(datetime.date(2021, 12, 11), datetime.date(2021, 12, 14))",2021-12-11,2021-12-14
+2021,DEC. 8-14,Morning Consult,B,45000,A,0.95,44%,48%,43%,51%,DEC. 8-14 2021,"(datetime.date(2021, 12, 8), datetime.date(2021, 12, 14))",2021-12-08,2021-12-14
+2021,DEC. 11-13,Morning Consult,B,1998,RV,0.04,46%,51%,45%,54%,DEC. 11-13 2021,"(datetime.date(2021, 12, 11), datetime.date(2021, 12, 13))",2021-12-11,2021-12-13
+2021,DEC. 11-13,Marist College,A,1400,A,2.06,41%,55%,42%,55%,DEC. 11-13 2021,"(datetime.date(2021, 12, 11), datetime.date(2021, 12, 13))",2021-12-11,2021-12-13
+2021,DEC. 9-13,YouGov,B+,1558,A,0.92,41%,53%,42%,54%,DEC. 9-13 2021,"(datetime.date(2021, 12, 9), datetime.date(2021, 12, 13))",2021-12-09,2021-12-13
+2021,DEC. 9-13,Echelon Insights,B/C,1020,RV,1.21,48%,51%,47%,51%,DEC. 9-13 2021,"(datetime.date(2021, 12, 9), datetime.date(2021, 12, 13))",2021-12-09,2021-12-13
+2021,DEC. 8-12,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.56,43%,56%,45%,50%,DEC. 8-12 2021,"(datetime.date(2021, 12, 8), datetime.date(2021, 12, 12))",2021-12-08,2021-12-12
+2021,DEC. 8-12,SSRS,C,1256,A,1.06,49%,51%,48%,51%,DEC. 8-12 2021,"(datetime.date(2021, 12, 8), datetime.date(2021, 12, 12))",2021-12-08,2021-12-12
+2021,DEC. 9-10,Ipsos,B-,1004,A,0.41,48%,48%,47%,50%,DEC. 9-10 2021,"(datetime.date(2021, 12, 9), datetime.date(2021, 12, 10))",2021-12-09,2021-12-10
+2021,DEC. 8-10,RMG Research,B-,1200,RV,0.45,41%,53%,40%,54%,DEC. 8-10 2021,"(datetime.date(2021, 12, 8), datetime.date(2021, 12, 10))",2021-12-08,2021-12-10
+2021,DEC. 7-9,Morning Consult,B,2200,A,0.05,49%,47%,48%,50%,DEC. 7-9 2021,"(datetime.date(2021, 12, 7), datetime.date(2021, 12, 9))",2021-12-07,2021-12-09
+2021,DEC. 2-9,Schoen Cooperman Research,B/C,800,LV,0.98,46%,51%,45%,51%,DEC. 2-9 2021,"(datetime.date(2021, 12, 2), datetime.date(2021, 12, 9))",2021-12-02,2021-12-09
+2021,DEC. 6-8,RMG Research,B-,1200,RV,0.45,45%,49%,44%,50%,DEC. 6-8 2021,"(datetime.date(2021, 12, 6), datetime.date(2021, 12, 8))",2021-12-06,2021-12-08
+2021,DEC. 6-7,HarrisX,B+,926,RV,1.23,45%,50%,41%,51%,DEC. 6-7 2021,"(datetime.date(2021, 12, 6), datetime.date(2021, 12, 7))",2021-12-06,2021-12-07
+2021,DEC. 5-7,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.73,42%,57%,44%,51%,DEC. 5-7 2021,"(datetime.date(2021, 12, 5), datetime.date(2021, 12, 7))",2021-12-05,2021-12-07
+2021,DEC. 4-7,YouGov,B+,1500,A,0.93,39%,52%,40%,53%,DEC. 4-7 2021,"(datetime.date(2021, 12, 4), datetime.date(2021, 12, 7))",2021-12-04,2021-12-07
+2021,DEC. 3-7,Morning Consult,B,2200,A,0.04,47%,47%,46%,50%,DEC. 3-7 2021,"(datetime.date(2021, 12, 3), datetime.date(2021, 12, 7))",2021-12-03,2021-12-07
+2021,DEC. 2-7,AP-NORC,,1089,A,1.48,48%,51%,45%,51%,DEC. 2-7 2021,"(datetime.date(2021, 12, 2), datetime.date(2021, 12, 7))",2021-12-02,2021-12-07
+2021,DEC. 1-7,Morning Consult,B,45000,A,0.87,44%,48%,43%,51%,DEC. 1-7 2021,"(datetime.date(2021, 12, 1), datetime.date(2021, 12, 7))",2021-12-01,2021-12-07
+2021,NOV. 30-DEC. 7,YouGov/Pennsylvania State University McCourtney Institute for Democracy,B+,1200,A,1.76,45%,55%,44%,54%,NOV. 30-DEC. 7 2021,"(datetime.date(2021, 11, 30), datetime.date(2021, 12, 7))",2021-11-30,2021-12-07
+2021,DEC. 4-6,Morning Consult,B,2000,RV,0.04,45%,51%,44%,54%,DEC. 4-6 2021,"(datetime.date(2021, 12, 4), datetime.date(2021, 12, 6))",2021-12-04,2021-12-06
+2021,DEC. 3-6,Navigator Research,B/C,1000,RV,0.93,45%,52%,44%,51%,DEC. 3-6 2021,"(datetime.date(2021, 12, 3), datetime.date(2021, 12, 6))",2021-12-03,2021-12-06
+2021,DEC. 3-6,Morning Consult,B,2200,A,0.04,47%,48%,46%,51%,DEC. 3-6 2021,"(datetime.date(2021, 12, 3), datetime.date(2021, 12, 6))",2021-12-03,2021-12-06
+2021,DEC. 2-6,Monmouth University,A,808,A,1.52,40%,50%,41%,50%,DEC. 2-6 2021,"(datetime.date(2021, 12, 2), datetime.date(2021, 12, 6))",2021-12-02,2021-12-06
+2021,DEC. 2-6,Morning Consult,B,2200,A,0.04,50%,46%,49%,49%,DEC. 2-6 2021,"(datetime.date(2021, 12, 2), datetime.date(2021, 12, 6))",2021-12-02,2021-12-06
+2021,NOV. 30-DEC. 6,Marist College,A,1172,A,1.7,42%,51%,43%,51%,NOV. 30-DEC. 6 2021,"(datetime.date(2021, 11, 30), datetime.date(2021, 12, 6))",2021-11-30,2021-12-06
+,12/05/2022,Redfield & Wilton Strategies,B/C,1500,RV,1.0,37%,45%,39%,50%,,"('', '')",,
+2021,DEC. 3-5,Léger,B/C,1004,A,0.97,44%,55%,44%,55%,DEC. 3-5 2021,"(datetime.date(2021, 12, 3), datetime.date(2021, 12, 5))",2021-12-03,2021-12-05
+2021,DEC. 1-4,TIPP Insights,A+,1301,A,2.43,43%,43%,44%,48%,DEC. 1-4 2021,"(datetime.date(2021, 12, 1), datetime.date(2021, 12, 4))",2021-12-01,2021-12-04
+2021,DEC. 1-4,Hart Research Associates/Public Opinion Strategies,B+,800,A,1.25,41%,50%,42%,50%,DEC. 1-4 2021,"(datetime.date(2021, 12, 1), datetime.date(2021, 12, 4))",2021-12-01,2021-12-04
+2021,DEC. 1-3,RMG Research,B-,1200,RV,0.46,46%,48%,45%,49%,DEC. 1-3 2021,"(datetime.date(2021, 12, 1), datetime.date(2021, 12, 3))",2021-12-01,2021-12-03
+2021,DEC. 1-2,Ipsos,B-,1005,A,0.67,46%,49%,44%,50%,DEC. 1-2 2021,"(datetime.date(2021, 12, 1), datetime.date(2021, 12, 2))",2021-12-01,2021-12-02
+2021,NOV. 30-DEC. 2,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.67,42%,57%,44%,51%,NOV. 30-DEC. 2 2021,"(datetime.date(2021, 11, 30), datetime.date(2021, 12, 2))",2021-11-30,2021-12-02
+2021,NOV. 30-DEC. 2,Harris Poll,B+,1989,RV,2.1,45%,51%,44%,52%,NOV. 30-DEC. 2 2021,"(datetime.date(2021, 11, 30), datetime.date(2021, 12, 2))",2021-11-30,2021-12-02
+2021,NOV. 29-DEC. 1,Cor Services,,523,LV,0.63,42%,51%,44%,50%,NOV. 29-DEC. 1 2021,"(datetime.date(2021, 11, 29), datetime.date(2021, 12, 1))",2021-11-29,2021-12-01
+2021,NOV. 29-30,RMG Research,B-,1200,RV,0.47,43%,52%,42%,53%,NOV. 29-30 2021,"(datetime.date(2021, 11, 29), datetime.date(2021, 11, 30))",2021-11-29,2021-11-30
+2021,NOV. 29-30,Morning Consult,B,2200,A,0.04,46%,48%,45%,51%,NOV. 29-30 2021,"(datetime.date(2021, 11, 29), datetime.date(2021, 11, 30))",2021-11-29,2021-11-30
+2021,NOV. 28-30,Morning Consult,B,18914,RV,0.36,45%,52%,44%,55%,NOV. 28-30 2021,"(datetime.date(2021, 11, 28), datetime.date(2021, 11, 30))",2021-11-28,2021-11-30
+2021,NOV. 27-30,YouGov,B+,1500,A,0.98,41%,49%,42%,50%,NOV. 27-30 2021,"(datetime.date(2021, 11, 27), datetime.date(2021, 11, 30))",2021-11-27,2021-11-30
+2021,NOV. 24-30,Morning Consult,B,45000,A,0.91,44%,49%,43%,52%,NOV. 24-30 2021,"(datetime.date(2021, 11, 24), datetime.date(2021, 11, 30))",2021-11-24,2021-11-30
+2021,NOV. 26-29,Trafalgar Group,A-,1082,LV,1.71,36%,59%,38%,56%,NOV. 26-29 2021,"(datetime.date(2021, 11, 26), datetime.date(2021, 11, 29))",2021-11-26,2021-11-29
+2021,NOV. 23-29,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.82,43%,56%,45%,50%,NOV. 23-29 2021,"(datetime.date(2021, 11, 23), datetime.date(2021, 11, 29))",2021-11-23,2021-11-29
+2021,NOV. 24-27,Morning Consult,B,2200,A,0.04,46%,49%,45%,52%,NOV. 24-27 2021,"(datetime.date(2021, 11, 24), datetime.date(2021, 11, 27))",2021-11-24,2021-11-27
+2021,NOV. 22-24,The Winston Group,A/B,1000,RV,1.47,42%,47%,41%,50%,NOV. 22-24 2021,"(datetime.date(2021, 11, 22), datetime.date(2021, 11, 24))",2021-11-22,2021-11-24
+2021,NOV. 22-23,RMG Research,B-,1200,RV,0.5,43%,52%,42%,53%,NOV. 22-23 2021,"(datetime.date(2021, 11, 22), datetime.date(2021, 11, 23))",2021-11-22,2021-11-23
+2021,NOV. 20-23,YouGov,B+,1500,A,0.78,41%,49%,42%,50%,NOV. 20-23 2021,"(datetime.date(2021, 11, 20), datetime.date(2021, 11, 23))",2021-11-20,2021-11-23
+2021,NOV. 17-23,Morning Consult,B,45000,A,0.97,44%,48%,43%,51%,NOV. 17-23 2021,"(datetime.date(2021, 11, 17), datetime.date(2021, 11, 23))",2021-11-17,2021-11-23
+2021,NOV. 20-22,Morning Consult,B,1999,RV,0.04,44%,52%,43%,55%,NOV. 20-22 2021,"(datetime.date(2021, 11, 20), datetime.date(2021, 11, 22))",2021-11-20,2021-11-22
+2021,NOV. 18-22,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.76,41%,58%,43%,52%,NOV. 18-22 2021,"(datetime.date(2021, 11, 18), datetime.date(2021, 11, 22))",2021-11-18,2021-11-22
+2021,NOV. 18-22,Navigator Research,B/C,1000,RV,0.84,43%,54%,42%,53%,NOV. 18-22 2021,"(datetime.date(2021, 11, 18), datetime.date(2021, 11, 22))",2021-11-18,2021-11-22
+2021,NOV. 16-22,"Fabrizio, Lee & Associates/Impact Research",,1500,RV,1.16,41%,57%,41%,55%,NOV. 16-22 2021,"(datetime.date(2021, 11, 16), datetime.date(2021, 11, 22))",2021-11-16,2021-11-22
+2021,NOV. 19-21,Morning Consult,B,2200,A,0.05,47%,47%,46%,50%,NOV. 19-21 2021,"(datetime.date(2021, 11, 19), datetime.date(2021, 11, 21))",2021-11-19,2021-11-21
+2021,NOV. 19-21,Léger,B/C,1001,A,0.88,44%,53%,44%,53%,NOV. 19-21 2021,"(datetime.date(2021, 11, 19), datetime.date(2021, 11, 21))",2021-11-19,2021-11-21
+2021,NOV. 18-21,Public Opinion Strategies,A-,1000,RV,1.64,47%,53%,46%,53%,NOV. 18-21 2021,"(datetime.date(2021, 11, 18), datetime.date(2021, 11, 21))",2021-11-18,2021-11-21
+2021,NOV. 17-21,Morning Consult,B,2199,A,0.05,47%,48%,46%,51%,NOV. 17-21 2021,"(datetime.date(2021, 11, 17), datetime.date(2021, 11, 21))",2021-11-17,2021-11-21
+2021,NOV. 17-20,American Research Group,C+,1100,A,1.1,44%,50%,42%,52%,NOV. 17-20 2021,"(datetime.date(2021, 11, 17), datetime.date(2021, 11, 20))",2021-11-17,2021-11-20
+2021,NOV. 17-19,YouGov,B+,1696,A,0.8,43%,52%,44%,53%,NOV. 17-19 2021,"(datetime.date(2021, 11, 17), datetime.date(2021, 11, 19))",2021-11-17,2021-11-19
+2021,NOV. 16-19,Marist College,A,1048,A,1.71,42%,50%,43%,50%,NOV. 16-19 2021,"(datetime.date(2021, 11, 16), datetime.date(2021, 11, 19))",2021-11-16,2021-11-19
+2021,NOV. 15-19,YouGov,B+,2058,A,0.96,44%,56%,45%,57%,NOV. 15-19 2021,"(datetime.date(2021, 11, 15), datetime.date(2021, 11, 19))",2021-11-15,2021-11-19
+2021,NOV. 17-18,RMG Research,B-,1200,RV,0.5,44%,52%,43%,53%,NOV. 17-18 2021,"(datetime.date(2021, 11, 17), datetime.date(2021, 11, 18))",2021-11-17,2021-11-18
+2021,NOV. 17-18,Ipsos,B-,1003,A,0.79,44%,49%,43%,50%,NOV. 17-18 2021,"(datetime.date(2021, 11, 17), datetime.date(2021, 11, 18))",2021-11-17,2021-11-18
+2021,NOV. 16-18,HarrisX,B+,2787,RV,2.3,44%,45%,40%,46%,NOV. 16-18 2021,"(datetime.date(2021, 11, 16), datetime.date(2021, 11, 18))",2021-11-16,2021-11-18
+2021,NOV. 12-18,Echelon Insights,B/C,1013,RV,1.14,45%,52%,44%,52%,NOV. 12-18 2021,"(datetime.date(2021, 11, 12), datetime.date(2021, 11, 18))",2021-11-12,2021-11-18
+2021,NOV. 15-17,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.81,41%,59%,43%,53%,NOV. 15-17 2021,"(datetime.date(2021, 11, 15), datetime.date(2021, 11, 17))",2021-11-15,2021-11-17
+2021,NOV. 14-17,Beacon Research/Shaw & Company Research,A,1003,RV,1.76,44%,54%,42%,53%,NOV. 14-17 2021,"(datetime.date(2021, 11, 14), datetime.date(2021, 11, 17))",2021-11-14,2021-11-17
+2021,NOV. 15-16,RMG Research,B-,1200,RV,0.5,41%,53%,40%,54%,NOV. 15-16 2021,"(datetime.date(2021, 11, 15), datetime.date(2021, 11, 16))",2021-11-15,2021-11-16
+2021,NOV. 14-16,YouGov,B+,1500,A,0.71,43%,49%,44%,50%,NOV. 14-16 2021,"(datetime.date(2021, 11, 14), datetime.date(2021, 11, 16))",2021-11-14,2021-11-16
+2021,NOV. 11-16,McLaughlin & Associates,C/D,1000,LV,0.76,42%,56%,41%,55%,NOV. 11-16 2021,"(datetime.date(2021, 11, 11), datetime.date(2021, 11, 16))",2021-11-11,2021-11-16
+2021,NOV. 10-16,Morning Consult,B,45000,A,0.99,44%,48%,43%,51%,NOV. 10-16 2021,"(datetime.date(2021, 11, 10), datetime.date(2021, 11, 16))",2021-11-10,2021-11-16
+2021,NOV. 1-16,Gallup,B+,815,A,1.32,42%,55%,42%,54%,NOV. 1-16 2021,"(datetime.date(2021, 11, 1), datetime.date(2021, 11, 16))",2021-11-01,2021-11-16
+,11/15/2022,Redfield & Wilton Strategies,B/C,1500,RV,1.02,37%,46%,39%,51%,,"('', '')",,
+2021,NOV. 13-15,Morning Consult,B,1998,RV,0.04,44%,53%,43%,56%,NOV. 13-15 2021,"(datetime.date(2021, 11, 13), datetime.date(2021, 11, 15))",2021-11-13,2021-11-15
+2021,NOV. 12-15,Morning Consult,B,2200,A,0.05,43%,50%,42%,53%,NOV. 12-15 2021,"(datetime.date(2021, 11, 12), datetime.date(2021, 11, 15))",2021-11-12,2021-11-15
+2021,NOV. 11-15,Quinnipiac University,A-,1378,A,1.93,36%,53%,39%,53%,NOV. 11-15 2021,"(datetime.date(2021, 11, 11), datetime.date(2021, 11, 15))",2021-11-11,2021-11-15
+2021,NOV. 12-14,Morning Consult,B,2200,A,0.05,46%,49%,45%,52%,NOV. 12-14 2021,"(datetime.date(2021, 11, 12), datetime.date(2021, 11, 14))",2021-11-12,2021-11-14
+2021,NOV. 11-14,The Bullfinch Group,,1200,A,1.07,45%,52%,44%,53%,NOV. 11-14 2021,"(datetime.date(2021, 11, 11), datetime.date(2021, 11, 14))",2021-11-11,2021-11-14
+2021,NOV. 10-14,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.55,43%,56%,45%,50%,NOV. 10-14 2021,"(datetime.date(2021, 11, 10), datetime.date(2021, 11, 14))",2021-11-10,2021-11-14
+2021,NOV. 10-12,The Winston Group,A/B,1000,RV,1.47,45%,47%,44%,50%,NOV. 10-12 2021,"(datetime.date(2021, 11, 10), datetime.date(2021, 11, 12))",2021-11-10,2021-11-12
+2021,NOV. 9-10,Ipsos,B-,1004,A,0.71,46%,49%,44%,50%,NOV. 9-10 2021,"(datetime.date(2021, 11, 9), datetime.date(2021, 11, 10))",2021-11-09,2021-11-10
+2021,NOV. 7-10,ABC News/The Washington Post,A+,1001,A,1.98,41%,53%,42%,52%,NOV. 7-10 2021,"(datetime.date(2021, 11, 7), datetime.date(2021, 11, 10))",2021-11-07,2021-11-10
+2021,NOV. 1-10,Marquette University Law School,A/B,1004,A,1.92,49%,51%,47%,51%,NOV. 1-10 2021,"(datetime.date(2021, 11, 1), datetime.date(2021, 11, 10))",2021-11-01,2021-11-10
+2021,NOV. 8-9,RMG Research,B-,1200,RV,0.53,40%,55%,39%,56%,NOV. 8-9 2021,"(datetime.date(2021, 11, 8), datetime.date(2021, 11, 9))",2021-11-08,2021-11-09
+2021,NOV. 7-9,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.71,40%,59%,42%,53%,NOV. 7-9 2021,"(datetime.date(2021, 11, 7), datetime.date(2021, 11, 9))",2021-11-07,2021-11-09
+2021,NOV. 6-9,YouGov,B+,1500,A,0.79,42%,48%,43%,49%,NOV. 6-9 2021,"(datetime.date(2021, 11, 6), datetime.date(2021, 11, 9))",2021-11-06,2021-11-09
+2021,NOV. 3-9,Morning Consult,B,45000,A,1.0,44%,49%,43%,52%,NOV. 3-9 2021,"(datetime.date(2021, 11, 3), datetime.date(2021, 11, 9))",2021-11-03,2021-11-09
+2021,NOV. 1-9,Susquehanna Polling & Research,B+,800,LV,1.29,36%,52%,37%,52%,NOV. 1-9 2021,"(datetime.date(2021, 11, 1), datetime.date(2021, 11, 9))",2021-11-01,2021-11-09
+2021,NOV. 4-8,Monmouth University,A,811,A,1.53,42%,50%,43%,50%,NOV. 4-8 2021,"(datetime.date(2021, 11, 4), datetime.date(2021, 11, 8))",2021-11-04,2021-11-08
+2021,NOV. 4-8,Navigator Research,B/C,1003,RV,0.82,47%,50%,46%,49%,NOV. 4-8 2021,"(datetime.date(2021, 11, 4), datetime.date(2021, 11, 8))",2021-11-04,2021-11-08
+2021,NOV. 4-8,YouGov,B+,1673,A,0.91,42%,51%,43%,52%,NOV. 4-8 2021,"(datetime.date(2021, 11, 4), datetime.date(2021, 11, 8))",2021-11-04,2021-11-08
+2021,NOV. 5-7,Léger,B/C,1006,A,0.87,45%,54%,45%,54%,NOV. 5-7 2021,"(datetime.date(2021, 11, 5), datetime.date(2021, 11, 7))",2021-11-05,2021-11-07
+2021,NOV. 5-7,Morning Consult,B,1998,RV,0.04,46%,51%,45%,54%,NOV. 5-7 2021,"(datetime.date(2021, 11, 5), datetime.date(2021, 11, 7))",2021-11-05,2021-11-07
+2021,NOV. 5-7,Morning Consult,B,2198,A,0.05,48%,47%,47%,50%,NOV. 5-7 2021,"(datetime.date(2021, 11, 5), datetime.date(2021, 11, 7))",2021-11-05,2021-11-07
+2021,NOV. 4-7,RMG Research,B-,1200,RV,0.54,44%,50%,43%,51%,NOV. 4-7 2021,"(datetime.date(2021, 11, 4), datetime.date(2021, 11, 7))",2021-11-04,2021-11-07
+2021,NOV. 3-5,Suffolk University,B+,1000,RV,1.56,38%,59%,40%,57%,NOV. 3-5 2021,"(datetime.date(2021, 11, 3), datetime.date(2021, 11, 5))",2021-11-03,2021-11-05
+2021,NOV. 3-5,Morning Consult,B,2200,A,0.05,46%,50%,45%,53%,NOV. 3-5 2021,"(datetime.date(2021, 11, 3), datetime.date(2021, 11, 5))",2021-11-03,2021-11-05
+2021,NOV. 3-4,Emerson College,A-,1000,RV,1.63,41%,50%,42%,51%,NOV. 3-4 2021,"(datetime.date(2021, 11, 3), datetime.date(2021, 11, 4))",2021-11-03,2021-11-04
+2021,NOV. 3-4,Ipsos,B-,1005,A,0.68,48%,47%,47%,48%,NOV. 3-4 2021,"(datetime.date(2021, 11, 3), datetime.date(2021, 11, 4))",2021-11-03,2021-11-04
+2021,NOV. 2-4,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,43%,55%,45%,49%,NOV. 2-4 2021,"(datetime.date(2021, 11, 2), datetime.date(2021, 11, 4))",2021-11-02,2021-11-04
+2021,NOV. 1-4,SSRS,C,1004,A,0.93,48%,52%,47%,52%,NOV. 1-4 2021,"(datetime.date(2021, 11, 1), datetime.date(2021, 11, 4))",2021-11-01,2021-11-04
+2021,OCT. 30-NOV. 2,YouGov,B+,1500,A,0.88,41%,50%,42%,51%,OCT. 30-NOV. 2 2021,"(datetime.date(2021, 10, 30), datetime.date(2021, 11, 2))",2021-10-30,2021-11-02
+2021,OCT. 27-NOV. 2,Morning Consult,B,45000,A,1.0,44%,48%,43%,51%,OCT. 27-NOV. 2 2021,"(datetime.date(2021, 10, 27), datetime.date(2021, 11, 2))",2021-10-27,2021-11-02
+2021,OCT. 29-NOV. 1,Morning Consult,B,2200,A,0.05,47%,47%,46%,50%,OCT. 29-NOV. 1 2021,"(datetime.date(2021, 10, 29), datetime.date(2021, 11, 1))",2021-10-29,2021-11-01
+2021,OCT. 28-NOV. 1,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,43%,56%,45%,50%,OCT. 28-NOV. 1 2021,"(datetime.date(2021, 10, 28), datetime.date(2021, 11, 1))",2021-10-28,2021-11-01
+,10/31/2022,Redfield & Wilton Strategies,B/C,1500,RV,0.95,40%,44%,42%,49%,,"('', '')",,
+2021,OCT. 28-30,RMG Research,B-,1200,RV,0.5,46%,49%,45%,50%,OCT. 28-30 2021,"(datetime.date(2021, 10, 28), datetime.date(2021, 10, 30))",2021-10-28,2021-10-30
+2021,OCT. 27-29,TIPP Insights,A+,1306,A,2.41,40%,45%,41%,50%,OCT. 27-29 2021,"(datetime.date(2021, 10, 27), datetime.date(2021, 10, 29))",2021-10-27,2021-10-29
+2021,OCT. 27-28,Harris Poll,B+,1688,RV,1.94,43%,52%,42%,53%,OCT. 27-28 2021,"(datetime.date(2021, 10, 27), datetime.date(2021, 10, 28))",2021-10-27,2021-10-28
+2021,OCT. 27-28,Ipsos,B-,1005,A,0.68,44%,51%,43%,53%,OCT. 27-28 2021,"(datetime.date(2021, 10, 27), datetime.date(2021, 10, 28))",2021-10-27,2021-10-28
+2021,OCT. 26-28,Morning Consult,B,2198,A,0.05,47%,48%,46%,51%,OCT. 26-28 2021,"(datetime.date(2021, 10, 26), datetime.date(2021, 10, 28))",2021-10-26,2021-10-28
+2021,OCT. 25-27,RMG Research,B-,1200,RV,0.47,43%,53%,42%,54%,OCT. 25-27 2021,"(datetime.date(2021, 10, 25), datetime.date(2021, 10, 27))",2021-10-25,2021-10-27
+2021,OCT. 25-27,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,42%,57%,44%,51%,OCT. 25-27 2021,"(datetime.date(2021, 10, 25), datetime.date(2021, 10, 27))",2021-10-25,2021-10-27
+2021,OCT. 24-26,YouGov,B+,1500,A,0.89,43%,49%,44%,50%,OCT. 24-26 2021,"(datetime.date(2021, 10, 24), datetime.date(2021, 10, 26))",2021-10-24,2021-10-26
+2021,OCT. 23-26,Hart Research Associates/Public Opinion Strategies,B+,1000,A,1.27,42%,54%,43%,54%,OCT. 23-26 2021,"(datetime.date(2021, 10, 23), datetime.date(2021, 10, 26))",2021-10-23,2021-10-26
+2021,OCT. 20-26,Morning Consult,B,45000,A,0.98,45%,48%,44%,51%,OCT. 20-26 2021,"(datetime.date(2021, 10, 20), datetime.date(2021, 10, 26))",2021-10-20,2021-10-26
+2021,OCT. 20-26,Echelon Insights,B/C,1600,RV,1.19,45%,52%,44%,52%,OCT. 20-26 2021,"(datetime.date(2021, 10, 20), datetime.date(2021, 10, 26))",2021-10-20,2021-10-26
+2021,OCT. 22-25,Navigator Research,B/C,1001,RV,0.83,43%,53%,42%,52%,OCT. 22-25 2021,"(datetime.date(2021, 10, 22), datetime.date(2021, 10, 25))",2021-10-22,2021-10-25
+2021,OCT. 21-25,AP-NORC,,1083,A,1.46,48%,51%,45%,51%,OCT. 21-25 2021,"(datetime.date(2021, 10, 21), datetime.date(2021, 10, 25))",2021-10-21,2021-10-25
+2021,OCT. 22-24,Morning Consult,B,1999,RV,0.04,46%,51%,45%,54%,OCT. 22-24 2021,"(datetime.date(2021, 10, 22), datetime.date(2021, 10, 24))",2021-10-22,2021-10-24
+2021,OCT. 22-24,Léger,B/C,1002,A,0.87,43%,54%,43%,54%,OCT. 22-24 2021,"(datetime.date(2021, 10, 22), datetime.date(2021, 10, 24))",2021-10-22,2021-10-24
+2021,OCT. 20-24,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,43%,56%,45%,50%,OCT. 20-24 2021,"(datetime.date(2021, 10, 20), datetime.date(2021, 10, 24))",2021-10-20,2021-10-24
+,10/23/2022,Morning Consult,B,2201,A,0.05,49%,47%,48%,50%,,"('', '')",,
+2021,OCT. 21-23,Morning Consult,B,2201,A,0.05,53%,45%,52%,48%,OCT. 21-23 2021,"(datetime.date(2021, 10, 21), datetime.date(2021, 10, 23))",2021-10-21,2021-10-23
+2021,OCT. 21-23,RMG Research,B-,1200,RV,0.44,43%,53%,42%,54%,OCT. 21-23 2021,"(datetime.date(2021, 10, 21), datetime.date(2021, 10, 23))",2021-10-21,2021-10-23
+2021,OCT. 20-23,HarrisX,B+,2727,RV,2.28,42%,47%,38%,48%,OCT. 20-23 2021,"(datetime.date(2021, 10, 20), datetime.date(2021, 10, 23))",2021-10-20,2021-10-23
+2021,OCT. 17-23,Saint Leo University,C/D,1000,A,0.81,52%,45%,50%,47%,OCT. 17-23 2021,"(datetime.date(2021, 10, 17), datetime.date(2021, 10, 23))",2021-10-17,2021-10-23
+2021,OCT. 18-22,Marist College,A,1209,A,2.05,44%,49%,45%,49%,OCT. 18-22 2021,"(datetime.date(2021, 10, 18), datetime.date(2021, 10, 22))",2021-10-18,2021-10-22
+2021,OCT. 20-21,Ipsos,B-,1005,A,0.68,46%,48%,44%,49%,OCT. 20-21 2021,"(datetime.date(2021, 10, 20), datetime.date(2021, 10, 21))",2021-10-20,2021-10-21
+2021,OCT. 19-21,Trafalgar Group,A-,1083,LV,1.64,39%,58%,41%,56%,OCT. 19-21 2021,"(datetime.date(2021, 10, 19), datetime.date(2021, 10, 21))",2021-10-19,2021-10-21
+2021,OCT. 19-21,YouGov,B+,1704,A,0.95,44%,49%,45%,50%,OCT. 19-21 2021,"(datetime.date(2021, 10, 19), datetime.date(2021, 10, 21))",2021-10-19,2021-10-21
+2021,OCT. 16-21,Lake Research Partners/The Tarrance Group,A/B,1000,RV,1.44,45%,52%,45%,51%,OCT. 16-21 2021,"(datetime.date(2021, 10, 16), datetime.date(2021, 10, 21))",2021-10-16,2021-10-21
+2021,OCT. 18-20,RMG Research,B-,1200,RV,0.45,47%,47%,46%,48%,OCT. 18-20 2021,"(datetime.date(2021, 10, 18), datetime.date(2021, 10, 20))",2021-10-18,2021-10-20
+2021,OCT. 17-20,American Research Group,C+,1100,A,1.1,47%,47%,45%,49%,OCT. 17-20 2021,"(datetime.date(2021, 10, 17), datetime.date(2021, 10, 20))",2021-10-17,2021-10-20
+2021,OCT. 17-19,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,41%,58%,43%,52%,OCT. 17-19 2021,"(datetime.date(2021, 10, 17), datetime.date(2021, 10, 19))",2021-10-17,2021-10-19
+2021,OCT. 16-19,YouGov,B+,1500,A,0.84,44%,46%,45%,47%,OCT. 16-19 2021,"(datetime.date(2021, 10, 16), datetime.date(2021, 10, 19))",2021-10-16,2021-10-19
+2021,OCT. 16-19,Beacon Research/Shaw & Company Research,A,1003,RV,1.78,46%,53%,44%,52%,OCT. 16-19 2021,"(datetime.date(2021, 10, 16), datetime.date(2021, 10, 19))",2021-10-16,2021-10-19
+2021,OCT. 15-19,Echelon Insights,B/C,1098,RV,0.87,47%,51%,46%,51%,OCT. 15-19 2021,"(datetime.date(2021, 10, 15), datetime.date(2021, 10, 19))",2021-10-15,2021-10-19
+2021,OCT. 13-19,Morning Consult,B,45000,A,0.95,46%,47%,45%,50%,OCT. 13-19 2021,"(datetime.date(2021, 10, 13), datetime.date(2021, 10, 19))",2021-10-13,2021-10-19
+2021,OCT. 1-19,Gallup,B+,823,A,1.33,42%,52%,42%,51%,OCT. 1-19 2021,"(datetime.date(2021, 10, 1), datetime.date(2021, 10, 19))",2021-10-01,2021-10-19
+2021,OCT. 16-18,Morning Consult,B,1998,RV,0.04,45%,52%,44%,55%,OCT. 16-18 2021,"(datetime.date(2021, 10, 16), datetime.date(2021, 10, 18))",2021-10-16,2021-10-18
+2021,OCT. 15-18,Quinnipiac University,A-,1342,A,1.73,37%,52%,40%,52%,OCT. 15-18 2021,"(datetime.date(2021, 10, 15), datetime.date(2021, 10, 18))",2021-10-15,2021-10-18
+2021,OCT. 14-18,McLaughlin & Associates,C/D,1000,LV,0.76,45%,54%,44%,53%,OCT. 14-18 2021,"(datetime.date(2021, 10, 14), datetime.date(2021, 10, 18))",2021-10-14,2021-10-18
+2021,OCT. 12-18,Climate Nexus,,2678,RV,1.09,46%,50%,45%,51%,OCT. 12-18 2021,"(datetime.date(2021, 10, 12), datetime.date(2021, 10, 18))",2021-10-12,2021-10-18
+,10/17/2022,Redfield & Wilton Strategies,B/C,1500,RV,0.92,43%,39%,45%,44%,,"('', '')",,
+2021,OCT. 14-17,Morning Consult,B,2200,A,0.05,49%,45%,48%,48%,OCT. 14-17 2021,"(datetime.date(2021, 10, 14), datetime.date(2021, 10, 17))",2021-10-14,2021-10-17
+2021,OCT. 14-17,Hart Research Associates/Public Opinion Strategies,B+,800,A,1.06,41%,52%,42%,52%,OCT. 14-17 2021,"(datetime.date(2021, 10, 14), datetime.date(2021, 10, 17))",2021-10-14,2021-10-17
+2021,OCT. 13-17,Selzer & Co.,A+,915,A,1.91,37%,50%,40%,50%,OCT. 13-17 2021,"(datetime.date(2021, 10, 13), datetime.date(2021, 10, 17))",2021-10-13,2021-10-17
+2021,OCT. 14-16,RMG Research,B-,1200,RV,0.46,47%,48%,46%,49%,OCT. 14-16 2021,"(datetime.date(2021, 10, 14), datetime.date(2021, 10, 16))",2021-10-14,2021-10-16
+2021,OCT. 12-15,Morning Consult,B,2200,A,0.05,48%,47%,47%,50%,OCT. 12-15 2021,"(datetime.date(2021, 10, 12), datetime.date(2021, 10, 15))",2021-10-12,2021-10-15
+2021,OCT. 13-14,Ipsos,B-,1005,A,0.68,46%,48%,45%,49%,OCT. 13-14 2021,"(datetime.date(2021, 10, 13), datetime.date(2021, 10, 14))",2021-10-13,2021-10-14
+2021,OCT. 12-14,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,43%,56%,45%,50%,OCT. 12-14 2021,"(datetime.date(2021, 10, 12), datetime.date(2021, 10, 14))",2021-10-12,2021-10-14
+2021,OCT. 12-14,Cor Services,,508,LV,0.49,40%,56%,42%,55%,OCT. 12-14 2021,"(datetime.date(2021, 10, 12), datetime.date(2021, 10, 14))",2021-10-12,2021-10-14
+2021,OCT. 11-13,RMG Research,B-,1200,RV,0.49,43%,47%,42%,48%,OCT. 11-13 2021,"(datetime.date(2021, 10, 11), datetime.date(2021, 10, 13))",2021-10-11,2021-10-13
+2021,OCT. 11-13,Morning Consult,B,2201,A,0.05,48%,47%,47%,50%,OCT. 11-13 2021,"(datetime.date(2021, 10, 11), datetime.date(2021, 10, 13))",2021-10-11,2021-10-13
+2021,OCT. 9-12,Morning Consult,B,2200,A,0.05,47%,48%,46%,51%,OCT. 9-12 2021,"(datetime.date(2021, 10, 9), datetime.date(2021, 10, 12))",2021-10-09,2021-10-12
+2021,OCT. 9-12,YouGov,B+,1500,A,0.78,40%,50%,41%,51%,OCT. 9-12 2021,"(datetime.date(2021, 10, 9), datetime.date(2021, 10, 12))",2021-10-09,2021-10-12
+2021,OCT. 8-12,Morning Consult,B,2200,A,0.05,47%,49%,46%,52%,OCT. 8-12 2021,"(datetime.date(2021, 10, 8), datetime.date(2021, 10, 12))",2021-10-08,2021-10-12
+2021,OCT. 6-12,Morning Consult,B,45000,A,0.95,46%,47%,45%,50%,OCT. 6-12 2021,"(datetime.date(2021, 10, 6), datetime.date(2021, 10, 12))",2021-10-06,2021-10-12
+2021,OCT. 8-11,Morning Consult,B,1999,RV,0.04,46%,51%,45%,54%,OCT. 8-11 2021,"(datetime.date(2021, 10, 8), datetime.date(2021, 10, 11))",2021-10-08,2021-10-11
+2021,OCT. 7-11,Navigator Research,B/C,1001,RV,0.83,46%,51%,45%,50%,OCT. 7-11 2021,"(datetime.date(2021, 10, 7), datetime.date(2021, 10, 11))",2021-10-07,2021-10-11
+2021,OCT. 7-11,SSRS,C,1000,A,0.93,50%,49%,49%,49%,OCT. 7-11 2021,"(datetime.date(2021, 10, 7), datetime.date(2021, 10, 11))",2021-10-07,2021-10-11
+2021,OCT. 7-11,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,41%,57%,43%,51%,OCT. 7-11 2021,"(datetime.date(2021, 10, 7), datetime.date(2021, 10, 11))",2021-10-07,2021-10-11
+2021,OCT. 8-10,Léger,B/C,1000,A,0.87,45%,53%,45%,53%,OCT. 8-10 2021,"(datetime.date(2021, 10, 8), datetime.date(2021, 10, 10))",2021-10-08,2021-10-10
+2021,OCT. 6-9,RMG Research,B-,1200,RV,0.57,47%,50%,46%,51%,OCT. 6-9 2021,"(datetime.date(2021, 10, 6), datetime.date(2021, 10, 9))",2021-10-06,2021-10-09
+2021,OCT. 6-8,Morning Consult,B,2200,A,0.05,49%,46%,48%,49%,OCT. 6-8 2021,"(datetime.date(2021, 10, 6), datetime.date(2021, 10, 8))",2021-10-06,2021-10-08
+2021,OCT. 6-8,YouGov,B+,2054,A,1.0,50%,50%,51%,51%,OCT. 6-8 2021,"(datetime.date(2021, 10, 6), datetime.date(2021, 10, 8))",2021-10-06,2021-10-08
+2021,OCT. 6-7,Ipsos,B-,1005,A,0.68,48%,47%,47%,48%,OCT. 6-7 2021,"(datetime.date(2021, 10, 6), datetime.date(2021, 10, 7))",2021-10-06,2021-10-07
+2021,OCT. 4-6,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,43%,55%,45%,49%,OCT. 4-6 2021,"(datetime.date(2021, 10, 4), datetime.date(2021, 10, 6))",2021-10-04,2021-10-06
+2021,OCT. 4-6,Trafalgar Group,A-,1087,LV,1.62,40%,56%,42%,53%,OCT. 4-6 2021,"(datetime.date(2021, 10, 4), datetime.date(2021, 10, 6))",2021-10-04,2021-10-06
+2021,OCT. 3-6,Cor Services,,516,LV,0.5,39%,53%,41%,52%,OCT. 3-6 2021,"(datetime.date(2021, 10, 3), datetime.date(2021, 10, 6))",2021-10-03,2021-10-06
+,10/05/2022,Redfield & Wilton Strategies,B/C,1500,RV,0.93,45%,37%,47%,42%,,"('', '')",,
+2021,OCT. 3-5,YouGov,B+,1500,A,0.71,42%,48%,43%,49%,OCT. 3-5 2021,"(datetime.date(2021, 10, 3), datetime.date(2021, 10, 5))",2021-10-03,2021-10-05
+2021,SEP. 29-OCT. 5,Morning Consult,B,45000,A,0.95,46%,47%,45%,50%,SEP. 29-OCT. 5 2021,"(datetime.date(2021, 9, 29), datetime.date(2021, 10, 5))",2021-09-29,2021-10-05
+2021,OCT. 2-4,Morning Consult,B,1998,RV,0.04,45%,52%,44%,55%,OCT. 2-4 2021,"(datetime.date(2021, 10, 2), datetime.date(2021, 10, 4))",2021-10-02,2021-10-04
+2021,OCT. 1-4,Quinnipiac University,A-,1326,A,1.69,38%,53%,41%,53%,OCT. 1-4 2021,"(datetime.date(2021, 10, 1), datetime.date(2021, 10, 4))",2021-10-01,2021-10-04
+2021,OCT. 1-4,Morning Consult,B,3300,A,0.07,46%,49%,45%,52%,OCT. 1-4 2021,"(datetime.date(2021, 10, 1), datetime.date(2021, 10, 4))",2021-10-01,2021-10-04
+2021,OCT. 1-4,YouGov,B+,1640,A,0.78,42%,50%,43%,51%,OCT. 1-4 2021,"(datetime.date(2021, 10, 1), datetime.date(2021, 10, 4))",2021-10-01,2021-10-04
+2021,SEP. 29-OCT. 3,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,43%,56%,45%,50%,SEP. 29-OCT. 3 2021,"(datetime.date(2021, 9, 29), datetime.date(2021, 10, 3))",2021-09-29,2021-10-03
+2021,SEP. 29-OCT. 2,TIPP Insights,A+,1308,A,2.41,44%,40%,45%,45%,SEP. 29-OCT. 2 2021,"(datetime.date(2021, 9, 29), datetime.date(2021, 10, 2))",2021-09-29,2021-10-02
+2021,SEP. 30-OCT. 1,Public Policy Polling,A-,758,RV,1.33,46%,47%,47%,47%,SEP. 30-OCT. 1 2021,"(datetime.date(2021, 9, 30), datetime.date(2021, 10, 1))",2021-09-30,2021-10-01
+2021,SEP. 29-30,Morning Consult,B,2200,A,0.05,46%,48%,45%,51%,SEP. 29-30 2021,"(datetime.date(2021, 9, 29), datetime.date(2021, 9, 30))",2021-09-29,2021-09-30
+2021,SEP. 29-30,Ipsos,B-,1005,A,0.68,46%,50%,44%,51%,SEP. 29-30 2021,"(datetime.date(2021, 9, 29), datetime.date(2021, 9, 30))",2021-09-29,2021-09-30
+2021,SEP. 27-29,Morning Consult,B,2200,A,0.05,49%,46%,48%,49%,SEP. 27-29 2021,"(datetime.date(2021, 9, 27), datetime.date(2021, 9, 29))",2021-09-27,2021-09-29
+2021,SEP. 16-29,Public Religion Research Institute,A/B,2508,A,2.42,52%,48%,50%,48%,SEP. 16-29 2021,"(datetime.date(2021, 9, 16), datetime.date(2021, 9, 29))",2021-09-16,2021-09-29
+2021,SEP. 27-28,HarrisX,B+,935,RV,0.92,48%,43%,44%,44%,SEP. 27-28 2021,"(datetime.date(2021, 9, 27), datetime.date(2021, 9, 28))",2021-09-27,2021-09-28
+2021,SEP. 26-28,YouGov,B+,1500,A,0.8,40%,49%,41%,50%,SEP. 26-28 2021,"(datetime.date(2021, 9, 26), datetime.date(2021, 9, 28))",2021-09-26,2021-09-28
+2021,SEP. 26-28,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,42%,56%,44%,50%,SEP. 26-28 2021,"(datetime.date(2021, 9, 26), datetime.date(2021, 9, 28))",2021-09-26,2021-09-28
+2021,SEP. 22-28,Morning Consult,B,45000,A,0.9,45%,47%,44%,50%,SEP. 22-28 2021,"(datetime.date(2021, 9, 22), datetime.date(2021, 9, 28))",2021-09-22,2021-09-28
+2021,SEP. 24-27,Morning Consult,B,2200,A,0.05,48%,46%,47%,49%,SEP. 24-27 2021,"(datetime.date(2021, 9, 24), datetime.date(2021, 9, 27))",2021-09-24,2021-09-27
+2021,SEP. 23-27,AP-NORC,,1099,A,1.47,50%,49%,47%,49%,SEP. 23-27 2021,"(datetime.date(2021, 9, 23), datetime.date(2021, 9, 27))",2021-09-23,2021-09-27
+2021,SEP. 23-27,Navigator Research,B/C,1000,RV,0.83,46%,51%,45%,50%,SEP. 23-27 2021,"(datetime.date(2021, 9, 23), datetime.date(2021, 9, 27))",2021-09-23,2021-09-27
+2021,SEP. 24-26,Léger,B/C,1001,A,0.86,46%,52%,46%,52%,SEP. 24-26 2021,"(datetime.date(2021, 9, 24), datetime.date(2021, 9, 26))",2021-09-24,2021-09-26
+2021,SEP. 20-26,Marist College,A,1220,A,2.04,45%,46%,46%,46%,SEP. 20-26 2021,"(datetime.date(2021, 9, 20), datetime.date(2021, 9, 26))",2021-09-20,2021-09-26
+2021,SEP. 24-25,HarrisX,B+,935,RV,0.89,47%,42%,43%,43%,SEP. 24-25 2021,"(datetime.date(2021, 9, 24), datetime.date(2021, 9, 25))",2021-09-24,2021-09-25
+2021,SEP. 24-25,RMG Research,B-,1200,RV,0.61,45%,48%,44%,49%,SEP. 24-25 2021,"(datetime.date(2021, 9, 24), datetime.date(2021, 9, 25))",2021-09-24,2021-09-25
+2021,SEP. 23-25,Morning Consult,B,2200,A,0.05,47%,49%,46%,52%,SEP. 23-25 2021,"(datetime.date(2021, 9, 23), datetime.date(2021, 9, 25))",2021-09-23,2021-09-25
+2021,SEP. 22-23,Ipsos,B-,1005,A,0.68,44%,51%,43%,52%,SEP. 22-23 2021,"(datetime.date(2021, 9, 22), datetime.date(2021, 9, 23))",2021-09-22,2021-09-23
+2021,SEP. 21-23,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,42%,56%,44%,50%,SEP. 21-23 2021,"(datetime.date(2021, 9, 21), datetime.date(2021, 9, 23))",2021-09-21,2021-09-23
+2021,SEP. 17-23,Echelon Insights,B/C,1005,RV,1.06,50%,48%,49%,48%,SEP. 17-23 2021,"(datetime.date(2021, 9, 17), datetime.date(2021, 9, 23))",2021-09-17,2021-09-23
+,09/22/2022,RMG Research,B-,1200,RV,0.59,47%,47%,46%,48%,,"('', '')",,
+2021,SEP. 18-21,YouGov,B+,1500,A,0.72,43%,46%,44%,47%,SEP. 18-21 2021,"(datetime.date(2021, 9, 18), datetime.date(2021, 9, 21))",2021-09-18,2021-09-21
+2021,SEP. 17-21,Morning Consult,B,2200,A,0.04,49%,46%,48%,49%,SEP. 17-21 2021,"(datetime.date(2021, 9, 17), datetime.date(2021, 9, 21))",2021-09-17,2021-09-21
+2021,SEP. 15-21,Morning Consult,B,45000,A,0.83,47%,46%,46%,49%,SEP. 15-21 2021,"(datetime.date(2021, 9, 15), datetime.date(2021, 9, 21))",2021-09-15,2021-09-21
+2021,SEP. 19-20,Redfield & Wilton Strategies,B/C,1500,RV,0.96,45%,34%,47%,39%,SEP. 19-20 2021,"(datetime.date(2021, 9, 19), datetime.date(2021, 9, 20))",2021-09-19,2021-09-20
+2021,SEP. 18-20,Morning Consult,B,1998,RV,0.04,47%,50%,46%,53%,SEP. 18-20 2021,"(datetime.date(2021, 9, 18), datetime.date(2021, 9, 20))",2021-09-18,2021-09-20
+2021,SEP. 17-20,American Research Group,C+,1100,A,1.1,50%,46%,48%,48%,SEP. 17-20 2021,"(datetime.date(2021, 9, 17), datetime.date(2021, 9, 20))",2021-09-17,2021-09-20
+2021,SEP. 17-20,Morning Consult,B,2200,A,0.04,49%,44%,48%,47%,SEP. 17-20 2021,"(datetime.date(2021, 9, 17), datetime.date(2021, 9, 20))",2021-09-17,2021-09-20
+2021,SEP. 16-20,Morning Consult,B,4400,A,0.08,46%,48%,45%,51%,SEP. 16-20 2021,"(datetime.date(2021, 9, 16), datetime.date(2021, 9, 20))",2021-09-16,2021-09-20
+2021,SEP. 16-20,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,44%,56%,46%,50%,SEP. 16-20 2021,"(datetime.date(2021, 9, 16), datetime.date(2021, 9, 20))",2021-09-16,2021-09-20
+2021,SEP. 14-20,YouGov,B+,3201,A,1.44,45%,50%,46%,51%,SEP. 14-20 2021,"(datetime.date(2021, 9, 14), datetime.date(2021, 9, 20))",2021-09-14,2021-09-20
+2021,SEP. 16-19,The Bullfinch Group,,1200,A,1.07,48%,46%,47%,47%,SEP. 16-19 2021,"(datetime.date(2021, 9, 16), datetime.date(2021, 9, 19))",2021-09-16,2021-09-19
+2021,SEP. 13-19,Pew Research Center,B/C,10371,A,3.16,44%,53%,44%,52%,SEP. 13-19 2021,"(datetime.date(2021, 9, 13), datetime.date(2021, 9, 19))",2021-09-13,2021-09-19
+2021,SEP. 16-18,RMG Research,B-,1200,RV,0.6,48%,48%,47%,49%,SEP. 16-18 2021,"(datetime.date(2021, 9, 16), datetime.date(2021, 9, 18))",2021-09-16,2021-09-18
+2021,SEP. 14-18,Morning Consult,B,2200,A,0.04,49%,46%,48%,49%,SEP. 14-18 2021,"(datetime.date(2021, 9, 14), datetime.date(2021, 9, 18))",2021-09-14,2021-09-18
+2021,SEP. 1-17,Gallup,B+,1005,A,1.53,43%,53%,43%,52%,SEP. 1-17 2021,"(datetime.date(2021, 9, 1), datetime.date(2021, 9, 17))",2021-09-01,2021-09-17
+2021,SEP. 15-16,Harris Poll,B+,1578,RV,1.88,48%,50%,47%,51%,SEP. 15-16 2021,"(datetime.date(2021, 9, 15), datetime.date(2021, 9, 16))",2021-09-15,2021-09-16
+2021,SEP. 15-16,Ipsos,B-,1005,A,0.68,44%,50%,43%,52%,SEP. 15-16 2021,"(datetime.date(2021, 9, 15), datetime.date(2021, 9, 16))",2021-09-15,2021-09-16
+2021,SEP. 13-16,Morning Consult,B,2200,A,0.04,51%,44%,50%,47%,SEP. 13-16 2021,"(datetime.date(2021, 9, 13), datetime.date(2021, 9, 16))",2021-09-13,2021-09-16
+2021,SEP. 7-16,Marquette University Law School,A/B,1411,A,2.52,48%,52%,46%,52%,SEP. 7-16 2021,"(datetime.date(2021, 9, 7), datetime.date(2021, 9, 16))",2021-09-07,2021-09-16
+2021,SEP. 13-15,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,44%,55%,46%,49%,SEP. 13-15 2021,"(datetime.date(2021, 9, 13), datetime.date(2021, 9, 15))",2021-09-13,2021-09-15
+2021,SEP. 12-15,Beacon Research/Shaw & Company Research,A,1002,RV,1.79,50%,49%,48%,48%,SEP. 12-15 2021,"(datetime.date(2021, 9, 12), datetime.date(2021, 9, 15))",2021-09-12,2021-09-15
+2021,SEP. 12-14,YouGov,B+,1500,A,0.68,44%,48%,45%,49%,SEP. 12-14 2021,"(datetime.date(2021, 9, 12), datetime.date(2021, 9, 14))",2021-09-12,2021-09-14
+2021,SEP. 9-14,McLaughlin & Associates,C/D,1000,LV,0.77,47%,52%,46%,51%,SEP. 9-14 2021,"(datetime.date(2021, 9, 9), datetime.date(2021, 9, 14))",2021-09-09,2021-09-14
+2021,SEP. 8-14,Morning Consult,B,45000,A,1.04,47%,46%,46%,49%,SEP. 8-14 2021,"(datetime.date(2021, 9, 8), datetime.date(2021, 9, 14))",2021-09-08,2021-09-14
+2021,SEP. 11-13,Morning Consult,B,2200,A,0.04,49%,45%,48%,48%,SEP. 11-13 2021,"(datetime.date(2021, 9, 11), datetime.date(2021, 9, 13))",2021-09-11,2021-09-13
+2021,SEP. 10-13,Quinnipiac University,A-,1210,A,1.74,42%,50%,45%,50%,SEP. 10-13 2021,"(datetime.date(2021, 9, 10), datetime.date(2021, 9, 13))",2021-09-10,2021-09-13
+2021,SEP. 10-13,Morning Consult,B,4400,A,0.08,48%,46%,47%,49%,SEP. 10-13 2021,"(datetime.date(2021, 9, 10), datetime.date(2021, 9, 13))",2021-09-10,2021-09-13
+2021,SEP. 10-13,Léger,B/C,1002,A,0.87,48%,50%,48%,50%,SEP. 10-13 2021,"(datetime.date(2021, 9, 10), datetime.date(2021, 9, 13))",2021-09-10,2021-09-13
+2021,SEP. 10-13,Morning Consult,B,1997,RV,0.03,47%,50%,46%,53%,SEP. 10-13 2021,"(datetime.date(2021, 9, 10), datetime.date(2021, 9, 13))",2021-09-10,2021-09-13
+2021,SEP. 9-13,Navigator Research,B/C,995,RV,0.82,49%,49%,48%,48%,SEP. 9-13 2021,"(datetime.date(2021, 9, 9), datetime.date(2021, 9, 13))",2021-09-09,2021-09-13
+2021,SEP. 9-13,Monmouth University,A,802,A,1.52,46%,46%,47%,46%,SEP. 9-13 2021,"(datetime.date(2021, 9, 9), datetime.date(2021, 9, 13))",2021-09-09,2021-09-13
+2021,SEP. 10-12,Morning Consult,B,2200,A,0.04,48%,47%,47%,50%,SEP. 10-12 2021,"(datetime.date(2021, 9, 10), datetime.date(2021, 9, 12))",2021-09-10,2021-09-12
+2021,SEP. 8-12,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,46%,52%,48%,46%,SEP. 8-12 2021,"(datetime.date(2021, 9, 8), datetime.date(2021, 9, 12))",2021-09-08,2021-09-12
+2021,SEP. 10-11,RMG Research,B-,1200,RV,0.67,47%,48%,46%,49%,SEP. 10-11 2021,"(datetime.date(2021, 9, 10), datetime.date(2021, 9, 11))",2021-09-10,2021-09-11
+2021,SEP. 10-11,HarrisX,B+,958,RV,0.76,47%,44%,43%,45%,SEP. 10-11 2021,"(datetime.date(2021, 9, 10), datetime.date(2021, 9, 11))",2021-09-10,2021-09-11
+2021,SEP. 8-11,Morning Consult,B,2200,A,0.04,47%,48%,46%,51%,SEP. 8-11 2021,"(datetime.date(2021, 9, 8), datetime.date(2021, 9, 11))",2021-09-08,2021-09-11
+2021,SEP. 8-9,Ipsos,B-,1005,A,0.65,47%,46%,46%,47%,SEP. 8-9 2021,"(datetime.date(2021, 9, 8), datetime.date(2021, 9, 9))",2021-09-08,2021-09-09
+2021,SEP. 8-9,HarrisX,B+,1803,RV,1.39,55%,45%,51%,46%,SEP. 8-9 2021,"(datetime.date(2021, 9, 8), datetime.date(2021, 9, 9))",2021-09-08,2021-09-09
+2021,SEP. 8-9,Trafalgar Group,A-,1086,LV,1.73,44%,54%,46%,51%,SEP. 8-9 2021,"(datetime.date(2021, 9, 8), datetime.date(2021, 9, 9))",2021-09-08,2021-09-09
+2021,SEP. 6-9,YouGov,B+,2011,A,0.93,50%,50%,51%,51%,SEP. 6-9 2021,"(datetime.date(2021, 9, 6), datetime.date(2021, 9, 9))",2021-09-06,2021-09-09
+2021,SEP. 7-8,Echelon Insights,B/C,1000,A,1.04,48%,46%,47%,46%,SEP. 7-8 2021,"(datetime.date(2021, 9, 7), datetime.date(2021, 9, 8))",2021-09-07,2021-09-08
+2021,SEP. 4-8,The Winston Group,A/B,1000,RV,1.62,46%,44%,45%,47%,SEP. 4-8 2021,"(datetime.date(2021, 9, 4), datetime.date(2021, 9, 8))",2021-09-04,2021-09-08
+2021,SEP. 1-8,Public Opinion Strategies,A-,800,RV,1.39,48%,50%,47%,50%,SEP. 1-8 2021,"(datetime.date(2021, 9, 1), datetime.date(2021, 9, 8))",2021-09-01,2021-09-08
+2021,SEP. 5-7,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,46%,53%,48%,47%,SEP. 5-7 2021,"(datetime.date(2021, 9, 5), datetime.date(2021, 9, 7))",2021-09-05,2021-09-07
+2021,SEP. 4-7,YouGov,B+,1500,A,0.72,39%,50%,40%,51%,SEP. 4-7 2021,"(datetime.date(2021, 9, 4), datetime.date(2021, 9, 7))",2021-09-04,2021-09-07
+2021,SEP. 1-7,Morning Consult,B,45000,A,0.98,46%,45%,45%,48%,SEP. 1-7 2021,"(datetime.date(2021, 9, 1), datetime.date(2021, 9, 7))",2021-09-01,2021-09-07
+2021,AUG. 3-SEP. 7,SSRS,C,2119,A,1.24,52%,48%,51%,48%,AUG. 3-SEP. 7 2021,"(datetime.date(2021, 8, 3), datetime.date(2021, 9, 7))",2021-08-03,2021-09-07
+2021,SEP. 2-6,Morning Consult,B,2200,A,0.03,48%,46%,47%,49%,SEP. 2-6 2021,"(datetime.date(2021, 9, 2), datetime.date(2021, 9, 6))",2021-09-02,2021-09-06
+2021,SEP. 2-6,Morning Consult,B,2200,A,0.03,50%,44%,49%,47%,SEP. 2-6 2021,"(datetime.date(2021, 9, 2), datetime.date(2021, 9, 6))",2021-09-02,2021-09-06
+2021,SEP. 4-5,Redfield & Wilton Strategies,B/C,1500,RV,1.08,46%,36%,48%,41%,SEP. 4-5 2021,"(datetime.date(2021, 9, 4), datetime.date(2021, 9, 5))",2021-09-04,2021-09-05
+2021,SEP. 2-5,RMG Research,B-,1200,RV,0.79,42%,52%,41%,53%,SEP. 2-5 2021,"(datetime.date(2021, 9, 2), datetime.date(2021, 9, 5))",2021-09-02,2021-09-05
+2021,SEP. 1-3,TIPP Insights,A+,1305,A,2.42,44%,43%,45%,48%,SEP. 1-3 2021,"(datetime.date(2021, 9, 1), datetime.date(2021, 9, 3))",2021-09-01,2021-09-03
+2021,SEP. 1-2,Ipsos,B-,1005,A,0.58,46%,48%,45%,50%,SEP. 1-2 2021,"(datetime.date(2021, 9, 1), datetime.date(2021, 9, 2))",2021-09-01,2021-09-02
+2021,AUG. 31-SEP. 2,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,44%,54%,46%,48%,AUG. 31-SEP. 2 2021,"(datetime.date(2021, 8, 31), datetime.date(2021, 9, 2))",2021-08-31,2021-09-02
+2021,AUG. 30-SEP. 2,Morning Consult,B,2200,A,0.03,49%,46%,48%,49%,AUG. 30-SEP. 2 2021,"(datetime.date(2021, 8, 30), datetime.date(2021, 9, 2))",2021-08-30,2021-09-02
+2021,AUG. 30-SEP. 2,Change Research,B-,1775,RV,1.46,46%,54%,46%,52%,AUG. 30-SEP. 2 2021,"(datetime.date(2021, 8, 30), datetime.date(2021, 9, 2))",2021-08-30,2021-09-02
+2021,AUG. 17-SEP. 2,Morning Consult,B,7988,RV,0.13,49%,48%,48%,51%,AUG. 17-SEP. 2 2021,"(datetime.date(2021, 8, 17), datetime.date(2021, 9, 2))",2021-08-17,2021-09-02
+2021,AUG. 30-SEP. 1,YouGov,B+,1605,A,0.79,44%,49%,45%,50%,AUG. 30-SEP. 1 2021,"(datetime.date(2021, 8, 30), datetime.date(2021, 9, 1))",2021-08-30,2021-09-01
+2021,AUG. 30-SEP. 1,Emerson College,A-,1200,RV,1.85,46%,47%,46%,48%,AUG. 30-SEP. 1 2021,"(datetime.date(2021, 8, 30), datetime.date(2021, 9, 1))",2021-08-30,2021-09-01
+2021,AUG. 29-SEP. 1,ABC News/The Washington Post,A+,1006,A,1.99,44%,51%,45%,50%,AUG. 29-SEP. 1 2021,"(datetime.date(2021, 8, 29), datetime.date(2021, 9, 1))",2021-08-29,2021-09-01
+2021,AUG. 28-31,YouGov,B+,1500,A,0.75,45%,44%,46%,45%,AUG. 28-31 2021,"(datetime.date(2021, 8, 28), datetime.date(2021, 8, 31))",2021-08-28,2021-08-31
+2021,AUG. 26-31,Marist College,A,1241,A,2.08,43%,51%,44%,51%,AUG. 26-31 2021,"(datetime.date(2021, 8, 26), datetime.date(2021, 8, 31))",2021-08-26,2021-08-31
+2021,AUG. 25-31,Morning Consult,B,45000,A,1.01,48%,44%,47%,47%,AUG. 25-31 2021,"(datetime.date(2021, 8, 25), datetime.date(2021, 8, 31))",2021-08-25,2021-08-31
+2021,AUG. 28-30,Morning Consult,B,1997,RV,0.03,47%,49%,46%,52%,AUG. 28-30 2021,"(datetime.date(2021, 8, 28), datetime.date(2021, 8, 30))",2021-08-28,2021-08-30
+2021,AUG. 27-30,Léger,B/C,1004,A,0.88,48%,49%,48%,49%,AUG. 27-30 2021,"(datetime.date(2021, 8, 27), datetime.date(2021, 8, 30))",2021-08-27,2021-08-30
+2021,AUG. 26-30,Navigator Research,B/C,1002,RV,0.83,47%,50%,46%,49%,AUG. 26-30 2021,"(datetime.date(2021, 8, 26), datetime.date(2021, 8, 30))",2021-08-26,2021-08-30
+2021,AUG. 26-30,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,44%,54%,46%,48%,AUG. 26-30 2021,"(datetime.date(2021, 8, 26), datetime.date(2021, 8, 30))",2021-08-26,2021-08-30
+2021,AUG. 24-29,Morning Consult,B,2200,A,0.03,48%,45%,47%,48%,AUG. 24-29 2021,"(datetime.date(2021, 8, 24), datetime.date(2021, 8, 29))",2021-08-24,2021-08-29
+2021,AUG. 25-28,Morning Consult,B,2200,A,0.03,53%,44%,52%,47%,AUG. 25-28 2021,"(datetime.date(2021, 8, 25), datetime.date(2021, 8, 28))",2021-08-25,2021-08-28
+2021,AUG. 25-26,Ipsos,B-,1006,A,0.47,49%,46%,48%,47%,AUG. 25-26 2021,"(datetime.date(2021, 8, 25), datetime.date(2021, 8, 26))",2021-08-25,2021-08-26
+2021,AUG. 23-25,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,44%,55%,46%,49%,AUG. 23-25 2021,"(datetime.date(2021, 8, 23), datetime.date(2021, 8, 25))",2021-08-23,2021-08-25
+2021,AUG. 21-25,Morning Consult,B,2200,A,0.04,51%,44%,50%,47%,AUG. 21-25 2021,"(datetime.date(2021, 8, 21), datetime.date(2021, 8, 25))",2021-08-21,2021-08-25
+2021,AUG. 21-24,Morning Consult,B,2200,A,0.04,52%,43%,51%,46%,AUG. 21-24 2021,"(datetime.date(2021, 8, 21), datetime.date(2021, 8, 24))",2021-08-21,2021-08-24
+2021,AUG. 21-24,Morning Consult,B,1996,RV,0.03,50%,48%,49%,51%,AUG. 21-24 2021,"(datetime.date(2021, 8, 21), datetime.date(2021, 8, 24))",2021-08-21,2021-08-24
+2021,AUG. 21-24,YouGov,B+,1500,A,0.72,46%,44%,47%,45%,AUG. 21-24 2021,"(datetime.date(2021, 8, 21), datetime.date(2021, 8, 24))",2021-08-21,2021-08-24
+2021,AUG. 18-24,Morning Consult,B,45000,A,0.78,49%,43%,48%,46%,AUG. 18-24 2021,"(datetime.date(2021, 8, 18), datetime.date(2021, 8, 24))",2021-08-18,2021-08-24
+2021,AUG. 18-24,Cor Services,,618,LV,0.66,40%,50%,42%,49%,AUG. 18-24 2021,"(datetime.date(2021, 8, 18), datetime.date(2021, 8, 24))",2021-08-18,2021-08-24
+2021,AUG. 19-23,Morning Consult,B,2200,A,0.04,52%,43%,51%,46%,AUG. 19-23 2021,"(datetime.date(2021, 8, 19), datetime.date(2021, 8, 23))",2021-08-19,2021-08-23
+2021,AUG. 19-23,Suffolk University,B+,1000,RV,1.56,41%,55%,43%,53%,AUG. 19-23 2021,"(datetime.date(2021, 8, 19), datetime.date(2021, 8, 23))",2021-08-19,2021-08-23
+2021,AUG. 20-22,RMG Research,B-,1200,RV,1.09,46%,46%,45%,47%,AUG. 20-22 2021,"(datetime.date(2021, 8, 20), datetime.date(2021, 8, 22))",2021-08-20,2021-08-22
+2021,AUG. 20-22,HarrisX,B+,2846,RV,1.8,49%,43%,45%,44%,AUG. 20-22 2021,"(datetime.date(2021, 8, 20), datetime.date(2021, 8, 22))",2021-08-20,2021-08-22
+2021,AUG. 19-22,Morning Consult,B,2201,A,0.04,51%,45%,50%,48%,AUG. 19-22 2021,"(datetime.date(2021, 8, 19), datetime.date(2021, 8, 22))",2021-08-19,2021-08-22
+2021,AUG. 18-22,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,46%,53%,48%,47%,AUG. 18-22 2021,"(datetime.date(2021, 8, 18), datetime.date(2021, 8, 22))",2021-08-18,2021-08-22
+2021,AUG. 18-20,YouGov,B+,2142,A,1.0,50%,50%,51%,51%,AUG. 18-20 2021,"(datetime.date(2021, 8, 18), datetime.date(2021, 8, 20))",2021-08-18,2021-08-20
+2021,AUG. 17-20,American Research Group,C+,1100,A,1.11,49%,46%,47%,48%,AUG. 17-20 2021,"(datetime.date(2021, 8, 17), datetime.date(2021, 8, 20))",2021-08-17,2021-08-20
+2021,AUG. 18-19,Ipsos,B-,1002,A,0.29,46%,49%,45%,50%,AUG. 18-19 2021,"(datetime.date(2021, 8, 18), datetime.date(2021, 8, 19))",2021-08-18,2021-08-19
+2021,AUG. 16-19,Morning Consult,B,1999,RV,0.03,50%,47%,49%,50%,AUG. 16-19 2021,"(datetime.date(2021, 8, 16), datetime.date(2021, 8, 19))",2021-08-16,2021-08-19
+2021,AUG. 13-19,Ipsos,B-,4427,A,1.14,50%,44%,49%,45%,AUG. 13-19 2021,"(datetime.date(2021, 8, 13), datetime.date(2021, 8, 19))",2021-08-13,2021-08-19
+2021,AUG. 17-18,SurveyMonkey,C,1066,A,0.98,47%,45%,46%,45%,AUG. 17-18 2021,"(datetime.date(2021, 8, 17), datetime.date(2021, 8, 18))",2021-08-17,2021-08-18
+2021,AUG. 16-18,YouGov,B+,1649,A,0.76,47%,46%,48%,47%,AUG. 16-18 2021,"(datetime.date(2021, 8, 16), datetime.date(2021, 8, 18))",2021-08-16,2021-08-18
+2021,AUG. 13-18,Echelon Insights,B/C,1016,RV,1.17,52%,46%,51%,46%,AUG. 13-18 2021,"(datetime.date(2021, 8, 13), datetime.date(2021, 8, 18))",2021-08-13,2021-08-18
+2021,AUG. 12-18,Susquehanna Polling & Research,B+,800,LV,1.29,49%,45%,50%,45%,AUG. 12-18 2021,"(datetime.date(2021, 8, 12), datetime.date(2021, 8, 18))",2021-08-12,2021-08-18
+2021,AUG. 15-17,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,46%,54%,48%,48%,AUG. 15-17 2021,"(datetime.date(2021, 8, 15), datetime.date(2021, 8, 17))",2021-08-15,2021-08-17
+2021,AUG. 14-17,Hart Research Associates/Public Opinion Strategies,B+,1000,A,1.41,49%,48%,50%,48%,AUG. 14-17 2021,"(datetime.date(2021, 8, 14), datetime.date(2021, 8, 17))",2021-08-14,2021-08-17
+2021,AUG. 14-17,YouGov,B+,1500,A,0.71,44%,44%,45%,45%,AUG. 14-17 2021,"(datetime.date(2021, 8, 14), datetime.date(2021, 8, 17))",2021-08-14,2021-08-17
+2021,AUG. 11-17,Morning Consult,B,45000,A,1.15,52%,40%,51%,43%,AUG. 11-17 2021,"(datetime.date(2021, 8, 11), datetime.date(2021, 8, 17))",2021-08-11,2021-08-17
+2021,AUG. 2-17,Gallup,B+,1006,A,1.51,49%,48%,49%,47%,AUG. 2-17 2021,"(datetime.date(2021, 8, 2), datetime.date(2021, 8, 17))",2021-08-02,2021-08-17
+,08/16/2022,Ipsos,B-,947,A,0.24,46%,47%,45%,48%,,"('', '')",,
+,08/16/2022,John Zogby Strategies,B/C,956,A,1.2,52%,42%,50%,43%,,"('', '')",,
+2021,AUG. 13-16,Morning Consult,B,2200,A,0.04,54%,40%,53%,43%,AUG. 13-16 2021,"(datetime.date(2021, 8, 13), datetime.date(2021, 8, 16))",2021-08-13,2021-08-16
+2021,AUG. 13-16,Morning Consult,B,1999,RV,0.04,51%,46%,50%,49%,AUG. 13-16 2021,"(datetime.date(2021, 8, 13), datetime.date(2021, 8, 16))",2021-08-13,2021-08-16
+2021,AUG. 12-16,Morning Consult,B,2200,A,0.04,54%,42%,53%,45%,AUG. 12-16 2021,"(datetime.date(2021, 8, 12), datetime.date(2021, 8, 16))",2021-08-12,2021-08-16
+2021,AUG. 12-16,AP-NORC,,1729,A,1.87,54%,46%,51%,46%,AUG. 12-16 2021,"(datetime.date(2021, 8, 12), datetime.date(2021, 8, 16))",2021-08-12,2021-08-16
+2021,AUG. 12-16,Navigator Research,B/C,1001,RV,0.83,50%,46%,49%,45%,AUG. 12-16 2021,"(datetime.date(2021, 8, 12), datetime.date(2021, 8, 16))",2021-08-12,2021-08-16
+2021,AUG. 13-15,Léger,B/C,1005,A,0.88,51%,47%,51%,47%,AUG. 13-15 2021,"(datetime.date(2021, 8, 13), datetime.date(2021, 8, 15))",2021-08-13,2021-08-15
+2021,AUG. 13-15,Ipsos,B-,1198,A,0.32,53%,41%,52%,42%,AUG. 13-15 2021,"(datetime.date(2021, 8, 13), datetime.date(2021, 8, 15))",2021-08-13,2021-08-15
+2021,AUG. 11-15,Morning Consult,B,2200,A,0.04,55%,41%,54%,44%,AUG. 11-15 2021,"(datetime.date(2021, 8, 11), datetime.date(2021, 8, 15))",2021-08-11,2021-08-15
+2021,AUG. 9-13,Morning Consult,B,2200,A,0.04,56%,40%,55%,43%,AUG. 9-13 2021,"(datetime.date(2021, 8, 9), datetime.date(2021, 8, 13))",2021-08-09,2021-08-13
+2021,AUG. 11-12,Ipsos,B-,1002,A,0.29,51%,43%,50%,44%,AUG. 11-12 2021,"(datetime.date(2021, 8, 11), datetime.date(2021, 8, 12))",2021-08-11,2021-08-12
+2021,AUG. 10-12,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,47%,52%,49%,46%,AUG. 10-12 2021,"(datetime.date(2021, 8, 10), datetime.date(2021, 8, 12))",2021-08-10,2021-08-12
+2021,AUG. 8-11,Trafalgar Group,A-,1073,LV,1.74,47%,48%,49%,45%,AUG. 8-11 2021,"(datetime.date(2021, 8, 8), datetime.date(2021, 8, 11))",2021-08-08,2021-08-11
+2021,AUG. 7-10,Beacon Research/Shaw & Company Research,A,1002,RV,1.79,53%,46%,51%,45%,AUG. 7-10 2021,"(datetime.date(2021, 8, 7), datetime.date(2021, 8, 10))",2021-08-07,2021-08-10
+2021,AUG. 7-10,YouGov,B+,1500,A,0.85,46%,43%,47%,44%,AUG. 7-10 2021,"(datetime.date(2021, 8, 7), datetime.date(2021, 8, 10))",2021-08-07,2021-08-10
+2021,AUG. 4-10,HarrisX,B+,4918,RV,2.24,54%,40%,50%,41%,AUG. 4-10 2021,"(datetime.date(2021, 8, 4), datetime.date(2021, 8, 10))",2021-08-04,2021-08-10
+2021,AUG. 4-10,Morning Consult,B,45000,A,0.89,51%,41%,50%,44%,AUG. 4-10 2021,"(datetime.date(2021, 8, 4), datetime.date(2021, 8, 10))",2021-08-04,2021-08-10
+2021,AUG. 7-9,Morning Consult,B,1996,RV,0.04,51%,46%,50%,49%,AUG. 7-9 2021,"(datetime.date(2021, 8, 7), datetime.date(2021, 8, 9))",2021-08-07,2021-08-09
+2021,AUG. 6-9,Morning Consult,B,2200,A,0.04,53%,41%,52%,44%,AUG. 6-9 2021,"(datetime.date(2021, 8, 6), datetime.date(2021, 8, 9))",2021-08-06,2021-08-09
+2021,AUG. 5-9,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,48%,51%,50%,45%,AUG. 5-9 2021,"(datetime.date(2021, 8, 5), datetime.date(2021, 8, 9))",2021-08-05,2021-08-09
+2021,AUG. 4-5,HarrisX,B+,1103,RV,0.54,55%,40%,51%,41%,AUG. 4-5 2021,"(datetime.date(2021, 8, 4), datetime.date(2021, 8, 5))",2021-08-04,2021-08-05
+2021,AUG. 4-5,Ipsos,B-,1004,A,0.5,50%,43%,49%,44%,AUG. 4-5 2021,"(datetime.date(2021, 8, 4), datetime.date(2021, 8, 5))",2021-08-04,2021-08-05
+2021,AUG. 2-4,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.79,48%,51%,50%,45%,AUG. 2-4 2021,"(datetime.date(2021, 8, 2), datetime.date(2021, 8, 4))",2021-08-02,2021-08-04
+2021,AUG. 2-3,Redfield & Wilton Strategies,B/C,1500,RV,1.25,48%,36%,50%,41%,AUG. 2-3 2021,"(datetime.date(2021, 8, 2), datetime.date(2021, 8, 3))",2021-08-02,2021-08-03
+2021,JUL. 31-AUG. 3,YouGov,B+,1500,A,0.83,49%,43%,50%,44%,JUL. 31-AUG. 3 2021,"(datetime.date(2021, 7, 31), datetime.date(2021, 8, 3))",2021-07-31,2021-08-03
+2021,JUL. 29-AUG. 3,McLaughlin & Associates,C/D,1000,LV,0.77,54%,45%,53%,44%,JUL. 29-AUG. 3 2021,"(datetime.date(2021, 7, 29), datetime.date(2021, 8, 3))",2021-07-29,2021-08-03
+2021,JUL. 28-AUG. 3,Morning Consult,B,45000,A,0.96,51%,41%,50%,44%,JUL. 28-AUG. 3 2021,"(datetime.date(2021, 7, 28), datetime.date(2021, 8, 3))",2021-07-28,2021-08-03
+2021,JUL. 31-AUG. 2,Morning Consult,B,2200,A,0.05,53%,42%,52%,45%,JUL. 31-AUG. 2 2021,"(datetime.date(2021, 7, 31), datetime.date(2021, 8, 2))",2021-07-31,2021-08-02
+2021,JUL. 30-AUG. 2,YouGov,B+,1552,A,0.86,48%,44%,49%,45%,JUL. 30-AUG. 2 2021,"(datetime.date(2021, 7, 30), datetime.date(2021, 8, 2))",2021-07-30,2021-08-02
+2021,JUL. 30-AUG. 2,Morning Consult,B,2200,A,0.05,51%,43%,50%,46%,JUL. 30-AUG. 2 2021,"(datetime.date(2021, 7, 30), datetime.date(2021, 8, 2))",2021-07-30,2021-08-02
+2021,JUL. 29-AUG. 2,Morning Consult,B,2200,A,0.05,53%,41%,52%,44%,JUL. 29-AUG. 2 2021,"(datetime.date(2021, 7, 29), datetime.date(2021, 8, 2))",2021-07-29,2021-08-02
+2021,JUL. 29-AUG. 2,Navigator Research,B/C,1000,RV,0.83,51%,46%,50%,45%,JUL. 29-AUG. 2 2021,"(datetime.date(2021, 7, 29), datetime.date(2021, 8, 2))",2021-07-29,2021-08-02
+2021,JUL. 27-AUG. 2,Quinnipiac University,A-,1290,A,1.88,46%,43%,49%,43%,JUL. 27-AUG. 2 2021,"(datetime.date(2021, 7, 27), datetime.date(2021, 8, 2))",2021-07-27,2021-08-02
+2021,JUL. 30-AUG. 1,Léger,B/C,1001,A,0.87,53%,45%,53%,45%,JUL. 30-AUG. 1 2021,"(datetime.date(2021, 7, 30), datetime.date(2021, 8, 1))",2021-07-30,2021-08-01
+2021,JUL. 29-AUG. 1,Morning Consult,B,2200,A,0.05,55%,39%,54%,42%,JUL. 29-AUG. 1 2021,"(datetime.date(2021, 7, 29), datetime.date(2021, 8, 1))",2021-07-29,2021-08-01
+2021,JUL. 28-AUG. 1,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,49%,49%,51%,43%,JUL. 28-AUG. 1 2021,"(datetime.date(2021, 7, 28), datetime.date(2021, 8, 1))",2021-07-28,2021-08-01
+2021,JUL. 29-31,Cor Services,,515,LV,0.57,43%,51%,45%,50%,JUL. 29-31 2021,"(datetime.date(2021, 7, 29), datetime.date(2021, 7, 31))",2021-07-29,2021-07-31
+2021,JUL. 28-30,TIPP Insights,A+,1322,A,2.44,52%,34%,53%,39%,JUL. 28-30 2021,"(datetime.date(2021, 7, 28), datetime.date(2021, 7, 30))",2021-07-28,2021-07-30
+2021,JUL. 28-29,Ipsos,B-,1005,A,0.59,54%,42%,52%,43%,JUL. 28-29 2021,"(datetime.date(2021, 7, 28), datetime.date(2021, 7, 29))",2021-07-28,2021-07-29
+2021,JUL. 28-29,Harris Poll,B+,1788,RV,2.0,52%,43%,51%,44%,JUL. 28-29 2021,"(datetime.date(2021, 7, 28), datetime.date(2021, 7, 29))",2021-07-28,2021-07-29
+2021,JUL. 28-29,Morning Consult,B,2000,RV,0.04,51%,47%,50%,50%,JUL. 28-29 2021,"(datetime.date(2021, 7, 28), datetime.date(2021, 7, 29))",2021-07-28,2021-07-29
+2021,JUL. 21-29,Marist College,A,1132,A,1.97,49%,44%,50%,44%,JUL. 21-29 2021,"(datetime.date(2021, 7, 21), datetime.date(2021, 7, 29))",2021-07-21,2021-07-29
+2021,JUL. 24-28,Hart Research Associates/Public Opinion Strategies,B+,802,A,1.21,48%,45%,49%,45%,JUL. 24-28 2021,"(datetime.date(2021, 7, 24), datetime.date(2021, 7, 28))",2021-07-24,2021-07-28
+2021,JUL. 20-28,WPA Intelligence,B/C,1000,RV,1.02,47%,44%,48%,44%,JUL. 20-28 2021,"(datetime.date(2021, 7, 20), datetime.date(2021, 7, 28))",2021-07-20,2021-07-28
+2021,JUL. 25-27,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,46%,52%,48%,46%,JUL. 25-27 2021,"(datetime.date(2021, 7, 25), datetime.date(2021, 7, 27))",2021-07-25,2021-07-27
+2021,JUL. 24-27,YouGov,B+,1500,A,0.87,46%,44%,47%,45%,JUL. 24-27 2021,"(datetime.date(2021, 7, 24), datetime.date(2021, 7, 27))",2021-07-24,2021-07-27
+2021,JUL. 21-27,Morning Consult,B,45000,A,1.01,52%,40%,51%,43%,JUL. 21-27 2021,"(datetime.date(2021, 7, 21), datetime.date(2021, 7, 27))",2021-07-21,2021-07-27
+2021,JUL. 23-26,Morning Consult,B,2200,A,0.05,53%,41%,52%,44%,JUL. 23-26 2021,"(datetime.date(2021, 7, 23), datetime.date(2021, 7, 26))",2021-07-23,2021-07-26
+2021,JUL. 21-26,Monmouth University,A,804,A,1.52,48%,44%,49%,44%,JUL. 21-26 2021,"(datetime.date(2021, 7, 21), datetime.date(2021, 7, 26))",2021-07-21,2021-07-26
+2021,JUL. 16-26,Marquette University Law School,A/B,1010,A,1.93,58%,42%,56%,42%,JUL. 16-26 2021,"(datetime.date(2021, 7, 16), datetime.date(2021, 7, 26))",2021-07-16,2021-07-26
+2021,JUL. 23-25,Morning Consult,B,2201,A,0.05,54%,40%,53%,43%,JUL. 23-25 2021,"(datetime.date(2021, 7, 23), datetime.date(2021, 7, 25))",2021-07-23,2021-07-25
+2021,JUL. 19-23,Echelon Insights,B/C,1143,RV,1.29,55%,43%,54%,43%,JUL. 19-23 2021,"(datetime.date(2021, 7, 19), datetime.date(2021, 7, 23))",2021-07-19,2021-07-23
+2021,JUL. 21-22,Ipsos,B-,1005,A,0.65,54%,40%,53%,42%,JUL. 21-22 2021,"(datetime.date(2021, 7, 21), datetime.date(2021, 7, 22))",2021-07-21,2021-07-22
+2021,JUL. 20-22,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.63,50%,48%,52%,42%,JUL. 20-22 2021,"(datetime.date(2021, 7, 20), datetime.date(2021, 7, 22))",2021-07-20,2021-07-22
+2021,JUL. 20-21,HarrisX,B+,949,RV,0.95,58%,42%,54%,43%,JUL. 20-21 2021,"(datetime.date(2021, 7, 20), datetime.date(2021, 7, 21))",2021-07-20,2021-07-21
+2021,JUL. 6-21,Gallup,B+,1007,A,1.52,50%,45%,50%,44%,JUL. 6-21 2021,"(datetime.date(2021, 7, 6), datetime.date(2021, 7, 21))",2021-07-06,2021-07-21
+2021,JUL. 17-20,American Research Group,C+,1100,A,1.1,53%,43%,51%,45%,JUL. 17-20 2021,"(datetime.date(2021, 7, 17), datetime.date(2021, 7, 20))",2021-07-17,2021-07-20
+2021,JUL. 17-20,YouGov,B+,1500,A,0.75,48%,40%,49%,41%,JUL. 17-20 2021,"(datetime.date(2021, 7, 17), datetime.date(2021, 7, 20))",2021-07-17,2021-07-20
+2021,JUL. 14-20,Morning Consult,B,45000,A,0.97,52%,40%,51%,43%,JUL. 14-20 2021,"(datetime.date(2021, 7, 14), datetime.date(2021, 7, 20))",2021-07-14,2021-07-20
+2021,JUL. 15-19,AP-NORC,,1308,A,1.61,59%,41%,56%,41%,JUL. 15-19 2021,"(datetime.date(2021, 7, 15), datetime.date(2021, 7, 19))",2021-07-15,2021-07-19
+2021,JUL. 15-19,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.72,51%,48%,53%,42%,JUL. 15-19 2021,"(datetime.date(2021, 7, 15), datetime.date(2021, 7, 19))",2021-07-15,2021-07-19
+2021,JUL. 15-19,Navigator Research,B/C,1000,RV,0.89,52%,44%,51%,43%,JUL. 15-19 2021,"(datetime.date(2021, 7, 15), datetime.date(2021, 7, 19))",2021-07-15,2021-07-19
+2021,JUL. 16-18,Léger,B/C,1001,A,0.87,54%,45%,54%,45%,JUL. 16-18 2021,"(datetime.date(2021, 7, 16), datetime.date(2021, 7, 18))",2021-07-16,2021-07-18
+2021,JUL. 16-18,Morning Consult,B,1997,RV,0.05,52%,44%,51%,47%,JUL. 16-18 2021,"(datetime.date(2021, 7, 16), datetime.date(2021, 7, 18))",2021-07-16,2021-07-18
+2021,JUL. 16-18,Morning Consult,B,2199,A,0.05,53%,41%,52%,44%,JUL. 16-18 2021,"(datetime.date(2021, 7, 16), datetime.date(2021, 7, 18))",2021-07-16,2021-07-18
+2021,JUL. 14-17,YouGov,B+,2238,A,1.07,58%,42%,59%,43%,JUL. 14-17 2021,"(datetime.date(2021, 7, 14), datetime.date(2021, 7, 17))",2021-07-14,2021-07-17
+2021,JUL. 15-16,Sacred Heart University,B/C,1500,A,1.34,52%,36%,52%,38%,JUL. 15-16 2021,"(datetime.date(2021, 7, 15), datetime.date(2021, 7, 16))",2021-07-15,2021-07-16
+2021,JUL. 14-15,Ipsos,B-,1005,A,0.68,53%,42%,52%,43%,JUL. 14-15 2021,"(datetime.date(2021, 7, 14), datetime.date(2021, 7, 15))",2021-07-14,2021-07-15
+2021,JUL. 13-15,YouGov,B+,1715,A,0.82,50%,42%,51%,43%,JUL. 13-15 2021,"(datetime.date(2021, 7, 13), datetime.date(2021, 7, 15))",2021-07-13,2021-07-15
+2021,JUL. 12-14,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.81,48%,50%,50%,44%,JUL. 12-14 2021,"(datetime.date(2021, 7, 12), datetime.date(2021, 7, 14))",2021-07-12,2021-07-14
+2021,JUL. 10-13,YouGov,B+,1500,A,0.74,47%,43%,48%,44%,JUL. 10-13 2021,"(datetime.date(2021, 7, 10), datetime.date(2021, 7, 13))",2021-07-10,2021-07-13
+2021,JUL. 9-13,Morning Consult,B,4398,A,0.1,54%,39%,53%,42%,JUL. 9-13 2021,"(datetime.date(2021, 7, 9), datetime.date(2021, 7, 13))",2021-07-09,2021-07-13
+2021,JUL. 7-13,Morning Consult,B,45000,A,1.04,52%,39%,51%,42%,JUL. 7-13 2021,"(datetime.date(2021, 7, 7), datetime.date(2021, 7, 13))",2021-07-07,2021-07-13
+2021,JUL. 9-12,Morning Consult,B,1996,RV,0.04,52%,45%,51%,48%,JUL. 9-12 2021,"(datetime.date(2021, 7, 9), datetime.date(2021, 7, 12))",2021-07-09,2021-07-12
+2021,JUL. 7-11,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.95,49%,49%,51%,43%,JUL. 7-11 2021,"(datetime.date(2021, 7, 7), datetime.date(2021, 7, 11))",2021-07-07,2021-07-11
+2021,JUL. 8-10,RMG Research,B-,1200,RV,1.31,51%,41%,50%,42%,JUL. 8-10 2021,"(datetime.date(2021, 7, 8), datetime.date(2021, 7, 10))",2021-07-08,2021-07-10
+2021,JUL. 7-10,Cor Services,,518,LV,0.6,46%,46%,48%,45%,JUL. 7-10 2021,"(datetime.date(2021, 7, 7), datetime.date(2021, 7, 10))",2021-07-07,2021-07-10
+2021,JUL. 6-10,Morning Consult,B,3995,RV,0.09,53%,45%,52%,48%,JUL. 6-10 2021,"(datetime.date(2021, 7, 6), datetime.date(2021, 7, 10))",2021-07-06,2021-07-10
+2021,JUL. 8-9,HarrisX,B+,938,RV,1.05,59%,41%,55%,42%,JUL. 8-9 2021,"(datetime.date(2021, 7, 8), datetime.date(2021, 7, 9))",2021-07-08,2021-07-09
+2021,JUL. 7-8,Ipsos,B-,1004,A,0.66,52%,43%,51%,44%,JUL. 7-8 2021,"(datetime.date(2021, 7, 7), datetime.date(2021, 7, 8))",2021-07-07,2021-07-08
+2021,JUL. 5-6,Zogby Analytics,B-,681,LV,0.94,60%,39%,57%,41%,JUL. 5-6 2021,"(datetime.date(2021, 7, 5), datetime.date(2021, 7, 6))",2021-07-05,2021-07-06
+2021,JUL. 3-6,YouGov,B+,1500,A,0.93,51%,40%,52%,41%,JUL. 3-6 2021,"(datetime.date(2021, 7, 3), datetime.date(2021, 7, 6))",2021-07-03,2021-07-06
+2021,JUN. 30-JUL. 6,Morning Consult,B,23596,A,0.99,54%,39%,53%,42%,JUN. 30-JUL. 6 2021,"(datetime.date(2021, 6, 30), datetime.date(2021, 7, 6))",2021-06-30,2021-07-06
+2021,JUN. 30-JUL. 6,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,49%,50%,51%,44%,JUN. 30-JUL. 6 2021,"(datetime.date(2021, 6, 30), datetime.date(2021, 7, 6))",2021-06-30,2021-07-06
+2021,JUL. 2-4,Léger,B/C,1003,A,0.87,56%,43%,56%,43%,JUL. 2-4 2021,"(datetime.date(2021, 7, 2), datetime.date(2021, 7, 4))",2021-07-02,2021-07-04
+2021,JUN. 30-JUL. 2,TIPP Insights,A+,1424,A,2.59,50%,37%,51%,42%,JUN. 30-JUL. 2 2021,"(datetime.date(2021, 6, 30), datetime.date(2021, 7, 2))",2021-06-30,2021-07-02
+2021,JUN. 30-JUL. 1,Ipsos,B-,1004,A,0.6,52%,42%,50%,43%,JUN. 30-JUL. 1 2021,"(datetime.date(2021, 6, 30), datetime.date(2021, 7, 1))",2021-06-30,2021-07-01
+2021,JUN. 29-30,HarrisX,B+,950,RV,1.12,60%,40%,56%,41%,JUN. 29-30 2021,"(datetime.date(2021, 6, 29), datetime.date(2021, 6, 30))",2021-06-29,2021-06-30
+2021,JUN. 27-30,ABC News/The Washington Post,A+,907,A,1.82,50%,42%,51%,41%,JUN. 27-30 2021,"(datetime.date(2021, 6, 27), datetime.date(2021, 6, 30))",2021-06-27,2021-06-30
+2021,JUN. 27-29,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.73,48%,50%,50%,44%,JUN. 27-29 2021,"(datetime.date(2021, 6, 27), datetime.date(2021, 6, 29))",2021-06-27,2021-06-29
+2021,JUN. 26-29,YouGov,B+,1500,A,0.9,48%,43%,49%,44%,JUN. 26-29 2021,"(datetime.date(2021, 6, 26), datetime.date(2021, 6, 29))",2021-06-26,2021-06-29
+2021,JUN. 23-29,Morning Consult,B,45000,A,1.02,53%,39%,52%,42%,JUN. 23-29 2021,"(datetime.date(2021, 6, 23), datetime.date(2021, 6, 29))",2021-06-23,2021-06-29
+2021,JUN. 22-29,Marist College,A,1115,A,1.94,50%,43%,51%,43%,JUN. 22-29 2021,"(datetime.date(2021, 6, 22), datetime.date(2021, 6, 29))",2021-06-22,2021-06-29
+2021,JUN. 25-28,Morning Consult,B,1989,RV,0.05,54%,43%,53%,46%,JUN. 25-28 2021,"(datetime.date(2021, 6, 25), datetime.date(2021, 6, 28))",2021-06-25,2021-06-28
+2021,JUN. 24-28,Navigator Research,B/C,1000,RV,0.9,54%,43%,53%,42%,JUN. 24-28 2021,"(datetime.date(2021, 6, 24), datetime.date(2021, 6, 28))",2021-06-24,2021-06-28
+2021,JUN. 23-24,Ipsos,B-,1005,A,0.51,53%,40%,51%,42%,JUN. 23-24 2021,"(datetime.date(2021, 6, 23), datetime.date(2021, 6, 24))",2021-06-23,2021-06-24
+2021,JUN. 22-24,Morning Consult,B,2200,A,0.05,58%,38%,57%,41%,JUN. 22-24 2021,"(datetime.date(2021, 6, 22), datetime.date(2021, 6, 24))",2021-06-22,2021-06-24
+2021,JUN. 22-24,YouGov,B+,1592,A,0.9,50%,43%,51%,44%,JUN. 22-24 2021,"(datetime.date(2021, 6, 22), datetime.date(2021, 6, 24))",2021-06-22,2021-06-24
+2021,JUN. 22-24,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.63,51%,47%,53%,41%,JUN. 22-24 2021,"(datetime.date(2021, 6, 22), datetime.date(2021, 6, 24))",2021-06-22,2021-06-24
+2021,JUN. 21-23,Morning Consult,B,2082,A,0.05,58%,38%,57%,41%,JUN. 21-23 2021,"(datetime.date(2021, 6, 21), datetime.date(2021, 6, 23))",2021-06-21,2021-06-23
+2021,JUN. 4-23,YouGov,B+,1753,RV,0.96,51%,47%,52%,47%,JUN. 4-23 2021,"(datetime.date(2021, 6, 4), datetime.date(2021, 6, 23))",2021-06-04,2021-06-23
+2021,JUN. 20-22,YouGov,B+,1500,A,0.83,50%,40%,51%,41%,JUN. 20-22 2021,"(datetime.date(2021, 6, 20), datetime.date(2021, 6, 22))",2021-06-20,2021-06-22
+2021,JUN. 19-22,Beacon Research/Shaw & Company Research,A,1001,RV,1.77,56%,43%,54%,42%,JUN. 19-22 2021,"(datetime.date(2021, 6, 19), datetime.date(2021, 6, 22))",2021-06-19,2021-06-22
+2021,JUN. 18-22,Echelon Insights,B/C,1001,RV,1.23,55%,42%,54%,42%,JUN. 18-22 2021,"(datetime.date(2021, 6, 18), datetime.date(2021, 6, 22))",2021-06-18,2021-06-22
+2021,JUN. 16-22,Morning Consult,B,45000,A,1.01,54%,39%,53%,42%,JUN. 16-22 2021,"(datetime.date(2021, 6, 16), datetime.date(2021, 6, 22))",2021-06-16,2021-06-22
+2021,JUN. 17-21,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.71,51%,47%,53%,41%,JUN. 17-21 2021,"(datetime.date(2021, 6, 17), datetime.date(2021, 6, 21))",2021-06-17,2021-06-21
+2021,JUN. 14-21,Greenberg Research,B,2000,RV,2.03,57%,43%,56%,43%,JUN. 14-21 2021,"(datetime.date(2021, 6, 14), datetime.date(2021, 6, 21))",2021-06-14,2021-06-21
+2021,JUN. 18-20,Morning Consult,B,2041,RV,0.05,54%,43%,53%,46%,JUN. 18-20 2021,"(datetime.date(2021, 6, 18), datetime.date(2021, 6, 20))",2021-06-18,2021-06-20
+2021,JUN. 18-20,Morning Consult,B,1995,RV,0.04,58%,40%,57%,43%,JUN. 18-20 2021,"(datetime.date(2021, 6, 18), datetime.date(2021, 6, 20))",2021-06-18,2021-06-20
+2021,JUN. 18-20,Léger,B/C,1001,A,0.87,49%,40%,49%,40%,JUN. 18-20 2021,"(datetime.date(2021, 6, 18), datetime.date(2021, 6, 20))",2021-06-18,2021-06-20
+2021,JUN. 17-20,American Research Group,C+,1100,A,1.1,52%,43%,50%,45%,JUN. 17-20 2021,"(datetime.date(2021, 6, 17), datetime.date(2021, 6, 20))",2021-06-17,2021-06-20
+2021,JUN. 16-20,McLaughlin & Associates,C/D,1000,LV,0.77,55%,44%,54%,43%,JUN. 16-20 2021,"(datetime.date(2021, 6, 16), datetime.date(2021, 6, 20))",2021-06-16,2021-06-20
+2021,JUN. 15-19,Morning Consult,B,2200,A,0.05,56%,38%,55%,41%,JUN. 15-19 2021,"(datetime.date(2021, 6, 15), datetime.date(2021, 6, 19))",2021-06-15,2021-06-19
+2021,JUN. 14-19,East Carolina University,B/C,1105,A,1.32,48%,41%,49%,41%,JUN. 14-19 2021,"(datetime.date(2021, 6, 14), datetime.date(2021, 6, 19))",2021-06-14,2021-06-19
+2021,JUN. 1-18,Gallup,B+,1012,A,1.54,56%,42%,56%,41%,JUN. 1-18 2021,"(datetime.date(2021, 6, 1), datetime.date(2021, 6, 18))",2021-06-01,2021-06-18
+2021,JUN. 16-17,Ipsos,B-,1002,A,0.35,52%,42%,50%,44%,JUN. 16-17 2021,"(datetime.date(2021, 6, 16), datetime.date(2021, 6, 17))",2021-06-16,2021-06-17
+2021,JUN. 15-17,Harris Poll,B+,2006,RV,2.09,59%,34%,58%,35%,JUN. 15-17 2021,"(datetime.date(2021, 6, 15), datetime.date(2021, 6, 17))",2021-06-15,2021-06-17
+2021,JUN. 11-17,Ipsos,B-,4420,A,1.41,55%,41%,54%,42%,JUN. 11-17 2021,"(datetime.date(2021, 6, 11), datetime.date(2021, 6, 17))",2021-06-11,2021-06-17
+2021,JUN. 14-16,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.79,50%,48%,52%,42%,JUN. 14-16 2021,"(datetime.date(2021, 6, 14), datetime.date(2021, 6, 16))",2021-06-14,2021-06-16
+2021,JUN. 13-15,YouGov,B+,1500,A,0.82,48%,43%,49%,44%,JUN. 13-15 2021,"(datetime.date(2021, 6, 13), datetime.date(2021, 6, 15))",2021-06-13,2021-06-15
+2021,JUN. 11-15,Climate Nexus,,1525,RV,0.96,56%,39%,55%,40%,JUN. 11-15 2021,"(datetime.date(2021, 6, 11), datetime.date(2021, 6, 15))",2021-06-11,2021-06-15
+2021,JUN. 11-15,Momentive/SurveyMonkey,C,2309,A,1.24,53%,42%,52%,42%,JUN. 11-15 2021,"(datetime.date(2021, 6, 11), datetime.date(2021, 6, 15))",2021-06-11,2021-06-15
+2021,JUN. 9-15,Morning Consult,B,45000,A,1.02,53%,39%,52%,42%,JUN. 9-15 2021,"(datetime.date(2021, 6, 9), datetime.date(2021, 6, 15))",2021-06-09,2021-06-15
+2021,JUN. 10-14,AP-NORC,,1125,A,1.51,55%,44%,52%,44%,JUN. 10-14 2021,"(datetime.date(2021, 6, 10), datetime.date(2021, 6, 14))",2021-06-10,2021-06-14
+2021,JUN. 10-14,Navigator Research,B/C,1001,RV,0.89,52%,44%,51%,43%,JUN. 10-14 2021,"(datetime.date(2021, 6, 10), datetime.date(2021, 6, 14))",2021-06-10,2021-06-14
+2021,JUN. 9-14,Monmouth University,A,810,A,1.53,48%,43%,49%,43%,JUN. 9-14 2021,"(datetime.date(2021, 6, 9), datetime.date(2021, 6, 14))",2021-06-09,2021-06-14
+2021,JUN. 11-13,Morning Consult,B,1994,RV,0.05,53%,44%,52%,47%,JUN. 11-13 2021,"(datetime.date(2021, 6, 11), datetime.date(2021, 6, 13))",2021-06-11,2021-06-13
+2021,JUN. 9-13,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,49%,50%,51%,44%,JUN. 9-13 2021,"(datetime.date(2021, 6, 9), datetime.date(2021, 6, 13))",2021-06-09,2021-06-13
+2021,JUN. 9-10,Ipsos,B-,1004,A,0.37,55%,40%,54%,42%,JUN. 9-10 2021,"(datetime.date(2021, 6, 9), datetime.date(2021, 6, 10))",2021-06-09,2021-06-10
+2021,JUN. 7-10,The Winston Group,A/B,1000,RV,1.62,54%,38%,53%,41%,JUN. 7-10 2021,"(datetime.date(2021, 6, 7), datetime.date(2021, 6, 10))",2021-06-07,2021-06-10
+2021,JUN. 5-10,Lake Research Partners/The Tarrance Group,A/B,1000,RV,1.44,52%,45%,52%,44%,JUN. 5-10 2021,"(datetime.date(2021, 6, 5), datetime.date(2021, 6, 10))",2021-06-05,2021-06-10
+2021,JUN. 7-9,HarrisX,B+,1885,RV,1.53,61%,39%,57%,40%,JUN. 7-9 2021,"(datetime.date(2021, 6, 7), datetime.date(2021, 6, 9))",2021-06-07,2021-06-09
+2021,JUN. 6-8,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,51%,48%,53%,42%,JUN. 6-8 2021,"(datetime.date(2021, 6, 6), datetime.date(2021, 6, 8))",2021-06-06,2021-06-08
+2021,JUN. 6-8,YouGov,B+,1500,A,0.94,50%,40%,51%,41%,JUN. 6-8 2021,"(datetime.date(2021, 6, 6), datetime.date(2021, 6, 8))",2021-06-06,2021-06-08
+2021,JUN. 4-8,Morning Consult,B,2200,A,0.05,51%,41%,50%,44%,JUN. 4-8 2021,"(datetime.date(2021, 6, 4), datetime.date(2021, 6, 8))",2021-06-04,2021-06-08
+2021,JUN. 2-8,Morning Consult,B,45000,A,1.03,52%,39%,51%,42%,JUN. 2-8 2021,"(datetime.date(2021, 6, 2), datetime.date(2021, 6, 8))",2021-06-02,2021-06-08
+2021,JUN. 4-7,Morning Consult,B,1990,RV,0.05,52%,43%,51%,46%,JUN. 4-7 2021,"(datetime.date(2021, 6, 4), datetime.date(2021, 6, 7))",2021-06-04,2021-06-07
+2021,JUN. 4-7,Morning Consult,B,2200,A,0.05,54%,40%,53%,43%,JUN. 4-7 2021,"(datetime.date(2021, 6, 4), datetime.date(2021, 6, 7))",2021-06-04,2021-06-07
+2021,JUN. 3-7,The Bullfinch Group,,1200,A,1.07,54%,41%,53%,42%,JUN. 3-7 2021,"(datetime.date(2021, 6, 3), datetime.date(2021, 6, 7))",2021-06-03,2021-06-07
+2021,JUN. 4-6,Léger,B/C,1004,A,0.87,51%,38%,51%,38%,JUN. 4-6 2021,"(datetime.date(2021, 6, 4), datetime.date(2021, 6, 6))",2021-06-04,2021-06-06
+2021,JUN. 3-5,RMG Research,B-,1200,RV,1.31,55%,39%,54%,40%,JUN. 3-5 2021,"(datetime.date(2021, 6, 3), datetime.date(2021, 6, 5))",2021-06-03,2021-06-05
+2021,JUN. 2-5,Cor Services,,519,LV,0.54,50%,42%,52%,41%,JUN. 2-5 2021,"(datetime.date(2021, 6, 2), datetime.date(2021, 6, 5))",2021-06-02,2021-06-05
+2021,JUN. 2-3,Ipsos,B-,1005,A,0.56,54%,42%,52%,44%,JUN. 2-3 2021,"(datetime.date(2021, 6, 2), datetime.date(2021, 6, 3))",2021-06-02,2021-06-03
+2021,JUN. 1-3,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,49%,49%,51%,43%,JUN. 1-3 2021,"(datetime.date(2021, 6, 1), datetime.date(2021, 6, 3))",2021-06-01,2021-06-03
+2021,MAY 30-JUN. 1,HarrisX,B+,1893,RV,1.44,61%,39%,57%,40%,MAY 30-JUN. 1 2021,"(datetime.date(2021, 5, 30), datetime.date(2021, 6, 1))",2021-05-30,2021-06-01
+2021,MAY 29-JUN. 1,YouGov,B+,1500,A,0.94,50%,40%,51%,41%,MAY 29-JUN. 1 2021,"(datetime.date(2021, 5, 29), datetime.date(2021, 6, 1))",2021-05-29,2021-06-01
+2021,MAY 26-JUN. 1,Morning Consult,B,45000,A,1.0,53%,38%,52%,41%,MAY 26-JUN. 1 2021,"(datetime.date(2021, 5, 26), datetime.date(2021, 6, 1))",2021-05-26,2021-06-01
+2021,MAY 27-31,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,53%,45%,55%,39%,MAY 27-31 2021,"(datetime.date(2021, 5, 27), datetime.date(2021, 5, 31))",2021-05-27,2021-05-31
+2021,MAY 25-29,Morning Consult,B,2199,A,0.05,56%,37%,55%,40%,MAY 25-29 2021,"(datetime.date(2021, 5, 25), datetime.date(2021, 5, 29))",2021-05-25,2021-05-29
+2021,MAY 26-28,TIPP Insights,A+,1305,A,2.42,53%,32%,54%,37%,MAY 26-28 2021,"(datetime.date(2021, 5, 26), datetime.date(2021, 5, 28))",2021-05-26,2021-05-28
+2021,MAY 26-27,Ipsos,B-,1005,A,0.62,52%,44%,50%,45%,MAY 26-27 2021,"(datetime.date(2021, 5, 26), datetime.date(2021, 5, 27))",2021-05-26,2021-05-27
+2021,MAY 26-27,Zogby Analytics,B-,868,LV,1.08,60%,37%,57%,39%,MAY 26-27 2021,"(datetime.date(2021, 5, 26), datetime.date(2021, 5, 27))",2021-05-26,2021-05-27
+2021,MAY 24-26,YouGov,B+,1588,A,0.93,49%,41%,50%,42%,MAY 24-26 2021,"(datetime.date(2021, 5, 24), datetime.date(2021, 5, 26))",2021-05-24,2021-05-26
+2021,MAY 24-26,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,53%,45%,55%,39%,MAY 24-26 2021,"(datetime.date(2021, 5, 24), datetime.date(2021, 5, 26))",2021-05-24,2021-05-26
+2021,MAY 22-26,Cor Services,,519,LV,0.54,51%,42%,53%,41%,MAY 22-26 2021,"(datetime.date(2021, 5, 22), datetime.date(2021, 5, 26))",2021-05-22,2021-05-26
+2021,MAY 22-25,YouGov,B+,1500,A,0.88,52%,39%,53%,40%,MAY 22-25 2021,"(datetime.date(2021, 5, 22), datetime.date(2021, 5, 25))",2021-05-22,2021-05-25
+2021,MAY 22-25,Beacon Research/Shaw & Company Research,A,1003,RV,1.78,54%,42%,52%,41%,MAY 22-25 2021,"(datetime.date(2021, 5, 22), datetime.date(2021, 5, 25))",2021-05-22,2021-05-25
+2021,MAY 19-25,Morning Consult,B,45000,A,0.95,54%,38%,53%,41%,MAY 19-25 2021,"(datetime.date(2021, 5, 19), datetime.date(2021, 5, 25))",2021-05-19,2021-05-25
+2021,MAY 21-24,Morning Consult,B,2200,A,0.05,54%,39%,53%,42%,MAY 21-24 2021,"(datetime.date(2021, 5, 21), datetime.date(2021, 5, 24))",2021-05-21,2021-05-24
+2021,MAY 21-24,Morning Consult,B,2200,A,0.05,55%,40%,54%,43%,MAY 21-24 2021,"(datetime.date(2021, 5, 21), datetime.date(2021, 5, 24))",2021-05-21,2021-05-24
+2021,MAY 20-24,Navigator Research,B/C,1204,RV,0.98,53%,44%,52%,43%,MAY 20-24 2021,"(datetime.date(2021, 5, 20), datetime.date(2021, 5, 24))",2021-05-20,2021-05-24
+2021,MAY 18-24,Quinnipiac University,A-,1316,A,1.9,49%,41%,52%,41%,MAY 18-24 2021,"(datetime.date(2021, 5, 18), datetime.date(2021, 5, 24))",2021-05-18,2021-05-24
+2021,MAY 21-23,Léger,B/C,1002,A,0.87,51%,38%,51%,38%,MAY 21-23 2021,"(datetime.date(2021, 5, 21), datetime.date(2021, 5, 23))",2021-05-21,2021-05-23
+2021,MAY 19-23,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,54%,43%,56%,37%,MAY 19-23 2021,"(datetime.date(2021, 5, 19), datetime.date(2021, 5, 23))",2021-05-19,2021-05-23
+2021,MAY 19-22,Morning Consult,B,2200,A,0.05,56%,38%,55%,41%,MAY 19-22 2021,"(datetime.date(2021, 5, 19), datetime.date(2021, 5, 22))",2021-05-19,2021-05-22
+,05/20/2022,John Zogby Strategies,B/C,1011,LV,1.24,59%,40%,57%,41%,,"('', '')",,
+2021,MAY 19-20,Harris Poll,B+,973,RV,1.34,62%,37%,60%,38%,MAY 19-20 2021,"(datetime.date(2021, 5, 19), datetime.date(2021, 5, 20))",2021-05-19,2021-05-20
+2021,MAY 19-20,Ipsos,B-,1004,A,0.68,56%,39%,54%,40%,MAY 19-20 2021,"(datetime.date(2021, 5, 19), datetime.date(2021, 5, 20))",2021-05-19,2021-05-20
+2021,MAY 18-20,Morning Consult,B,1994,RV,0.04,59%,38%,58%,41%,MAY 18-20 2021,"(datetime.date(2021, 5, 18), datetime.date(2021, 5, 20))",2021-05-18,2021-05-20
+2021,MAY 17-20,American Research Group,C+,1100,A,1.1,57%,37%,55%,39%,MAY 17-20 2021,"(datetime.date(2021, 5, 17), datetime.date(2021, 5, 20))",2021-05-17,2021-05-20
+2021,MAY 17-19,Morning Consult,B,2200,A,0.05,57%,38%,56%,41%,MAY 17-19 2021,"(datetime.date(2021, 5, 17), datetime.date(2021, 5, 19))",2021-05-17,2021-05-19
+2021,MAY 17-19,HarrisX,B+,1889,RV,1.58,60%,40%,56%,41%,MAY 17-19 2021,"(datetime.date(2021, 5, 17), datetime.date(2021, 5, 19))",2021-05-17,2021-05-19
+2021,MAY 16-18,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,51%,48%,53%,42%,MAY 16-18 2021,"(datetime.date(2021, 5, 16), datetime.date(2021, 5, 18))",2021-05-16,2021-05-18
+2021,MAY 15-18,YouGov,B+,1500,A,0.87,51%,41%,52%,42%,MAY 15-18 2021,"(datetime.date(2021, 5, 15), datetime.date(2021, 5, 18))",2021-05-15,2021-05-18
+2021,MAY 12-18,McLaughlin & Associates,C/D,1000,LV,0.77,56%,43%,55%,42%,MAY 12-18 2021,"(datetime.date(2021, 5, 12), datetime.date(2021, 5, 18))",2021-05-12,2021-05-18
+2021,MAY 12-18,Morning Consult,B,45000,A,0.94,54%,38%,53%,41%,MAY 12-18 2021,"(datetime.date(2021, 5, 12), datetime.date(2021, 5, 18))",2021-05-12,2021-05-18
+2021,MAY 3-18,Gallup,B+,1016,A,1.54,54%,40%,54%,39%,MAY 3-18 2021,"(datetime.date(2021, 5, 3), datetime.date(2021, 5, 18))",2021-05-03,2021-05-18
+2021,MAY 14-17,Morning Consult,B,1992,RV,0.04,54%,42%,53%,45%,MAY 14-17 2021,"(datetime.date(2021, 5, 14), datetime.date(2021, 5, 17))",2021-05-14,2021-05-17
+2021,MAY 14-17,Morning Consult,B,2200,A,0.05,56%,38%,55%,41%,MAY 14-17 2021,"(datetime.date(2021, 5, 14), datetime.date(2021, 5, 17))",2021-05-14,2021-05-17
+2021,MAY 14-17,Echelon Insights,B/C,1132,RV,1.28,56%,42%,55%,42%,MAY 14-17 2021,"(datetime.date(2021, 5, 14), datetime.date(2021, 5, 17))",2021-05-14,2021-05-17
+2021,MAY 14-16,Morning Consult,B,2200,A,0.05,56%,36%,55%,39%,MAY 14-16 2021,"(datetime.date(2021, 5, 14), datetime.date(2021, 5, 16))",2021-05-14,2021-05-16
+2021,MAY 12-15,Morning Consult,B,2200,A,0.05,56%,39%,55%,42%,MAY 12-15 2021,"(datetime.date(2021, 5, 12), datetime.date(2021, 5, 15))",2021-05-12,2021-05-15
+2021,MAY 11-13,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,49%,50%,51%,44%,MAY 11-13 2021,"(datetime.date(2021, 5, 11), datetime.date(2021, 5, 13))",2021-05-11,2021-05-13
+2021,MAY 11-13,YouGov,B+,1561,A,0.88,49%,40%,50%,41%,MAY 11-13 2021,"(datetime.date(2021, 5, 11), datetime.date(2021, 5, 13))",2021-05-11,2021-05-13
+2021,MAY 11-12,Ipsos,B-,1005,A,0.67,56%,38%,54%,40%,MAY 11-12 2021,"(datetime.date(2021, 5, 11), datetime.date(2021, 5, 12))",2021-05-11,2021-05-12
+2021,MAY 8-11,Civiqs,B-,1464,RV,1.48,48%,46%,50%,44%,MAY 8-11 2021,"(datetime.date(2021, 5, 8), datetime.date(2021, 5, 11))",2021-05-08,2021-05-11
+2021,MAY 8-11,YouGov,B+,1500,A,0.84,51%,39%,52%,40%,MAY 8-11 2021,"(datetime.date(2021, 5, 8), datetime.date(2021, 5, 11))",2021-05-08,2021-05-11
+2021,MAY 5-11,Morning Consult,B,45000,A,0.9,55%,37%,54%,40%,MAY 5-11 2021,"(datetime.date(2021, 5, 5), datetime.date(2021, 5, 11))",2021-05-05,2021-05-11
+2021,MAY 6-10,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,50%,48%,52%,42%,MAY 6-10 2021,"(datetime.date(2021, 5, 6), datetime.date(2021, 5, 10))",2021-05-06,2021-05-10
+2021,MAY 6-10,Navigator Research,B/C,1000,RV,0.82,55%,41%,54%,40%,MAY 6-10 2021,"(datetime.date(2021, 5, 6), datetime.date(2021, 5, 10))",2021-05-06,2021-05-10
+2021,MAY 8-9,Redfield & Wilton Strategies,B/C,1500,RV,1.25,52%,36%,54%,41%,MAY 8-9 2021,"(datetime.date(2021, 5, 8), datetime.date(2021, 5, 9))",2021-05-08,2021-05-09
+2021,MAY 7-9,Morning Consult,B,2200,A,0.05,55%,39%,54%,42%,MAY 7-9 2021,"(datetime.date(2021, 5, 7), datetime.date(2021, 5, 9))",2021-05-07,2021-05-09
+2021,MAY 7-9,Léger,B/C,1003,A,0.88,52%,38%,52%,38%,MAY 7-9 2021,"(datetime.date(2021, 5, 7), datetime.date(2021, 5, 9))",2021-05-07,2021-05-09
+2021,MAY 6-9,Morning Consult,B,2200,A,0.05,55%,39%,54%,42%,MAY 6-9 2021,"(datetime.date(2021, 5, 6), datetime.date(2021, 5, 9))",2021-05-06,2021-05-09
+2021,MAY 4-7,Marist College,A,1249,A,1.94,53%,41%,54%,41%,MAY 4-7 2021,"(datetime.date(2021, 5, 4), datetime.date(2021, 5, 7))",2021-05-04,2021-05-07
+2021,MAY 4-6,Morning Consult,B,2200,A,0.04,56%,38%,55%,41%,MAY 4-6 2021,"(datetime.date(2021, 5, 4), datetime.date(2021, 5, 6))",2021-05-04,2021-05-06
+2021,APR. 30-MAY 6,Trafalgar Group,A-,1574,LV,2.26,48%,48%,50%,45%,APR. 30-MAY 6 2021,"(datetime.date(2021, 4, 30), datetime.date(2021, 5, 6))",2021-04-30,2021-05-06
+2021,MAY 4-5,Ipsos,B-,1005,A,0.63,55%,38%,53%,39%,MAY 4-5 2021,"(datetime.date(2021, 5, 4), datetime.date(2021, 5, 5))",2021-05-04,2021-05-05
+2021,MAY 3-5,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,51%,47%,53%,41%,MAY 3-5 2021,"(datetime.date(2021, 5, 3), datetime.date(2021, 5, 5))",2021-05-03,2021-05-05
+2021,MAY 3-4,HarrisX,B+,939,RV,0.69,60%,40%,56%,41%,MAY 3-4 2021,"(datetime.date(2021, 5, 3), datetime.date(2021, 5, 4))",2021-05-03,2021-05-04
+2021,MAY 1-4,YouGov,B+,1500,A,0.81,48%,42%,49%,43%,MAY 1-4 2021,"(datetime.date(2021, 5, 1), datetime.date(2021, 5, 4))",2021-05-01,2021-05-04
+2021,APR. 28-MAY 4,Morning Consult,B,45000,A,0.79,56%,36%,55%,39%,APR. 28-MAY 4 2021,"(datetime.date(2021, 4, 28), datetime.date(2021, 5, 4))",2021-04-28,2021-05-04
+2021,MAY 1-3,Morning Consult,B,2200,A,0.04,57%,36%,56%,39%,MAY 1-3 2021,"(datetime.date(2021, 5, 1), datetime.date(2021, 5, 3))",2021-05-01,2021-05-03
+2021,APR. 30-MAY 3,Morning Consult,B,2200,A,0.04,55%,37%,54%,40%,APR. 30-MAY 3 2021,"(datetime.date(2021, 4, 30), datetime.date(2021, 5, 3))",2021-04-30,2021-05-03
+2021,APR. 29-MAY 3,AP-NORC,,1842,A,1.95,63%,36%,60%,36%,APR. 29-MAY 3 2021,"(datetime.date(2021, 4, 29), datetime.date(2021, 5, 3))",2021-04-29,2021-05-03
+2021,APR. 30-MAY 2,Morning Consult,B,2200,A,0.04,53%,39%,52%,42%,APR. 30-MAY 2 2021,"(datetime.date(2021, 4, 30), datetime.date(2021, 5, 2))",2021-04-30,2021-05-02
+2021,APR. 29-MAY 2,Morning Consult,B,2200,A,0.04,55%,38%,54%,41%,APR. 29-MAY 2 2021,"(datetime.date(2021, 4, 29), datetime.date(2021, 5, 2))",2021-04-29,2021-05-02
+2021,APR. 28-MAY 2,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,48%,49%,50%,43%,APR. 28-MAY 2 2021,"(datetime.date(2021, 4, 28), datetime.date(2021, 5, 2))",2021-04-28,2021-05-02
+2021,APR. 28-30,TIPP Insights,A+,1300,A,2.39,51%,32%,52%,37%,APR. 28-30 2021,"(datetime.date(2021, 4, 28), datetime.date(2021, 4, 30))",2021-04-28,2021-04-30
+2021,APR. 27-29,Harris Poll,B+,932,RV,1.34,60%,39%,58%,40%,APR. 27-29 2021,"(datetime.date(2021, 4, 27), datetime.date(2021, 4, 29))",2021-04-27,2021-04-29
+2021,APR. 27-29,YouGov,B+,1558,A,0.72,54%,37%,55%,38%,APR. 27-29 2021,"(datetime.date(2021, 4, 27), datetime.date(2021, 4, 29))",2021-04-27,2021-04-29
+2021,APR. 27-28,Morning Consult,B,2200,A,0.04,60%,33%,59%,36%,APR. 27-28 2021,"(datetime.date(2021, 4, 27), datetime.date(2021, 4, 28))",2021-04-27,2021-04-28
+2021,APR. 27-28,Ipsos,B-,1005,A,0.51,55%,38%,54%,39%,APR. 27-28 2021,"(datetime.date(2021, 4, 27), datetime.date(2021, 4, 28))",2021-04-27,2021-04-28
+2021,APR. 26-28,HarrisX,B+,2819,RV,1.51,60%,40%,56%,41%,APR. 26-28 2021,"(datetime.date(2021, 4, 26), datetime.date(2021, 4, 28))",2021-04-26,2021-04-28
+2021,APR. 25-27,YouGov,B+,1500,A,0.67,51%,39%,52%,40%,APR. 25-27 2021,"(datetime.date(2021, 4, 25), datetime.date(2021, 4, 27))",2021-04-25,2021-04-27
+2021,APR. 25-27,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,48%,50%,50%,44%,APR. 25-27 2021,"(datetime.date(2021, 4, 25), datetime.date(2021, 4, 27))",2021-04-25,2021-04-27
+2021,APR. 21-27,Morning Consult,B,45000,A,1.07,55%,36%,54%,39%,APR. 21-27 2021,"(datetime.date(2021, 4, 21), datetime.date(2021, 4, 27))",2021-04-21,2021-04-27
+2021,APR. 19-27,Morning Consult,B,22000,A,0.35,57%,36%,56%,39%,APR. 19-27 2021,"(datetime.date(2021, 4, 19), datetime.date(2021, 4, 27))",2021-04-19,2021-04-27
+2021,APR. 24-26,Morning Consult,B,1991,RV,0.03,60%,37%,59%,40%,APR. 24-26 2021,"(datetime.date(2021, 4, 24), datetime.date(2021, 4, 26))",2021-04-24,2021-04-26
+2021,APR. 22-26,Navigator Research,B/C,989,RV,0.8,53%,44%,52%,43%,APR. 22-26 2021,"(datetime.date(2021, 4, 22), datetime.date(2021, 4, 26))",2021-04-22,2021-04-26
+2021,APR. 21-26,SSRS,C,1004,A,0.97,53%,43%,52%,43%,APR. 21-26 2021,"(datetime.date(2021, 4, 21), datetime.date(2021, 4, 26))",2021-04-21,2021-04-26
+2021,APR. 23-25,Léger,B/C,1003,A,0.97,51%,39%,51%,39%,APR. 23-25 2021,"(datetime.date(2021, 4, 23), datetime.date(2021, 4, 25))",2021-04-23,2021-04-25
+2021,APR. 23-25,Research Co.,B-,1000,A,1.17,53%,42%,53%,42%,APR. 23-25 2021,"(datetime.date(2021, 4, 23), datetime.date(2021, 4, 25))",2021-04-23,2021-04-25
+2021,APR. 21-25,Morning Consult,B,1986,RV,0.03,57%,37%,56%,40%,APR. 21-25 2021,"(datetime.date(2021, 4, 21), datetime.date(2021, 4, 25))",2021-04-21,2021-04-25
+2021,APR. 21-24,YouGov,B+,2527,A,1.11,58%,42%,59%,43%,APR. 21-24 2021,"(datetime.date(2021, 4, 21), datetime.date(2021, 4, 24))",2021-04-21,2021-04-24
+2021,APR. 21-23,YouGov,B+,1000,A,0.45,51%,44%,52%,45%,APR. 21-23 2021,"(datetime.date(2021, 4, 21), datetime.date(2021, 4, 23))",2021-04-21,2021-04-23
+2021,APR. 16-23,Echelon Insights,B/C,1043,RV,1.22,54%,43%,53%,43%,APR. 16-23 2021,"(datetime.date(2021, 4, 16), datetime.date(2021, 4, 23))",2021-04-16,2021-04-23
+2021,APR. 21-22,Ipsos,B-,1004,A,0.33,54%,39%,53%,40%,APR. 21-22 2021,"(datetime.date(2021, 4, 21), datetime.date(2021, 4, 22))",2021-04-21,2021-04-22
+2021,APR. 20-22,Morning Consult,B,2200,A,0.04,58%,35%,57%,38%,APR. 20-22 2021,"(datetime.date(2021, 4, 20), datetime.date(2021, 4, 22))",2021-04-20,2021-04-22
+2021,APR. 20-22,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,52%,46%,54%,40%,APR. 20-22 2021,"(datetime.date(2021, 4, 20), datetime.date(2021, 4, 22))",2021-04-20,2021-04-22
+2021,APR. 19-21,Marist College,A,1809,A,2.39,54%,44%,55%,44%,APR. 19-21 2021,"(datetime.date(2021, 4, 19), datetime.date(2021, 4, 21))",2021-04-19,2021-04-21
+2021,APR. 18-21,Beacon Research/Shaw & Company Research,A,1002,RV,1.79,54%,43%,52%,42%,APR. 18-21 2021,"(datetime.date(2021, 4, 18), datetime.date(2021, 4, 21))",2021-04-18,2021-04-21
+2021,APR. 18-21,ABC News/The Washington Post,A+,1007,A,1.99,52%,42%,53%,42%,APR. 18-21 2021,"(datetime.date(2021, 4, 18), datetime.date(2021, 4, 21))",2021-04-18,2021-04-21
+2021,APR. 1-21,Gallup,B+,961,A,1.48,57%,40%,57%,39%,APR. 1-21 2021,"(datetime.date(2021, 4, 1), datetime.date(2021, 4, 21))",2021-04-01,2021-04-21
+2021,APR. 17-20,Hart Research Associates/Public Opinion Strategies,B+,1000,A,1.27,53%,39%,54%,39%,APR. 17-20 2021,"(datetime.date(2021, 4, 17), datetime.date(2021, 4, 20))",2021-04-17,2021-04-20
+2021,APR. 17-20,YouGov,B+,1500,A,0.72,49%,38%,50%,39%,APR. 17-20 2021,"(datetime.date(2021, 4, 17), datetime.date(2021, 4, 20))",2021-04-17,2021-04-20
+2021,APR. 17-20,American Research Group,C+,1100,A,1.1,59%,35%,57%,37%,APR. 17-20 2021,"(datetime.date(2021, 4, 17), datetime.date(2021, 4, 20))",2021-04-17,2021-04-20
+2021,APR. 15-20,Change Research,B-,1025,RV,1.15,51%,49%,51%,47%,APR. 15-20 2021,"(datetime.date(2021, 4, 15), datetime.date(2021, 4, 20))",2021-04-15,2021-04-20
+2021,APR. 14-20,Morning Consult,B,45000,A,0.92,53%,38%,52%,41%,APR. 14-20 2021,"(datetime.date(2021, 4, 14), datetime.date(2021, 4, 20))",2021-04-14,2021-04-20
+2021,APR. 16-19,HarrisX,B+,2881,RV,1.27,61%,39%,57%,40%,APR. 16-19 2021,"(datetime.date(2021, 4, 16), datetime.date(2021, 4, 19))",2021-04-16,2021-04-19
+2021,APR. 16-19,Morning Consult,B,2200,A,0.04,57%,36%,56%,39%,APR. 16-19 2021,"(datetime.date(2021, 4, 16), datetime.date(2021, 4, 19))",2021-04-16,2021-04-19
+2021,APR. 15-19,Morning Consult,B,2200,A,0.04,58%,35%,57%,38%,APR. 15-19 2021,"(datetime.date(2021, 4, 15), datetime.date(2021, 4, 19))",2021-04-15,2021-04-19
+2021,APR. 15-19,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,50%,49%,52%,43%,APR. 15-19 2021,"(datetime.date(2021, 4, 15), datetime.date(2021, 4, 19))",2021-04-15,2021-04-19
+2021,APR. 14-18,Hart Research Associates,B-,1200,RV,1.36,57%,43%,56%,42%,APR. 14-18 2021,"(datetime.date(2021, 4, 14), datetime.date(2021, 4, 18))",2021-04-14,2021-04-18
+2021,APR. 12-16,Ipsos,B-,4423,A,0.91,55%,40%,54%,41%,APR. 12-16 2021,"(datetime.date(2021, 4, 12), datetime.date(2021, 4, 16))",2021-04-12,2021-04-16
+2021,APR. 12-16,Ipsos,B-,4423,A,0.91,55%,40%,54%,41%,APR. 12-16 2021,"(datetime.date(2021, 4, 12), datetime.date(2021, 4, 16))",2021-04-12,2021-04-16
+2021,APR. 14-15,Ipsos,B-,1005,A,0.21,54%,38%,53%,39%,APR. 14-15 2021,"(datetime.date(2021, 4, 14), datetime.date(2021, 4, 15))",2021-04-14,2021-04-15
+2021,APR. 12-14,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,50%,48%,52%,42%,APR. 12-14 2021,"(datetime.date(2021, 4, 12), datetime.date(2021, 4, 14))",2021-04-12,2021-04-14
+2021,APR. 10-13,YouGov,B+,1500,A,0.85,49%,42%,50%,43%,APR. 10-13 2021,"(datetime.date(2021, 4, 10), datetime.date(2021, 4, 13))",2021-04-10,2021-04-13
+2021,APR. 9-13,HarrisX,B+,3766,RV,1.5,61%,39%,57%,40%,APR. 9-13 2021,"(datetime.date(2021, 4, 9), datetime.date(2021, 4, 13))",2021-04-09,2021-04-13
+2021,APR. 8-13,McLaughlin & Associates,C/D,1000,LV,0.77,58%,41%,57%,39%,APR. 8-13 2021,"(datetime.date(2021, 4, 8), datetime.date(2021, 4, 13))",2021-04-08,2021-04-13
+2021,APR. 7-13,Marist College,A,1266,A,1.77,53%,39%,54%,39%,APR. 7-13 2021,"(datetime.date(2021, 4, 7), datetime.date(2021, 4, 13))",2021-04-07,2021-04-13
+2021,APR. 7-13,Morning Consult,B,45000,A,0.99,55%,36%,54%,39%,APR. 7-13 2021,"(datetime.date(2021, 4, 7), datetime.date(2021, 4, 13))",2021-04-07,2021-04-13
+2021,APR. 9-12,Civiqs,B-,1541,RV,1.49,48%,47%,50%,45%,APR. 9-12 2021,"(datetime.date(2021, 4, 9), datetime.date(2021, 4, 12))",2021-04-09,2021-04-12
+2021,APR. 9-12,Morning Consult,B,1992,RV,0.04,59%,37%,58%,40%,APR. 9-12 2021,"(datetime.date(2021, 4, 9), datetime.date(2021, 4, 12))",2021-04-09,2021-04-12
+2021,APR. 8-12,Navigator Research,B/C,1256,RV,0.94,55%,42%,54%,41%,APR. 8-12 2021,"(datetime.date(2021, 4, 8), datetime.date(2021, 4, 12))",2021-04-08,2021-04-12
+2021,APR. 8-12,Monmouth University,A,800,A,1.52,54%,41%,55%,41%,APR. 8-12 2021,"(datetime.date(2021, 4, 8), datetime.date(2021, 4, 12))",2021-04-08,2021-04-12
+2021,APR. 8-12,Quinnipiac University,A-,1237,A,1.83,48%,42%,51%,42%,APR. 8-12 2021,"(datetime.date(2021, 4, 8), datetime.date(2021, 4, 12))",2021-04-08,2021-04-12
+2021,APR. 8-11,Hart Research Associates/Public Opinion Strategies,B+,802,A,1.06,47%,41%,48%,41%,APR. 8-11 2021,"(datetime.date(2021, 4, 8), datetime.date(2021, 4, 11))",2021-04-08,2021-04-11
+2021,APR. 7-11,The Winston Group,A/B,1000,RV,1.62,54%,35%,53%,38%,APR. 7-11 2021,"(datetime.date(2021, 4, 7), datetime.date(2021, 4, 11))",2021-04-07,2021-04-11
+2021,APR. 7-11,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,50%,48%,52%,42%,APR. 7-11 2021,"(datetime.date(2021, 4, 7), datetime.date(2021, 4, 11))",2021-04-07,2021-04-11
+2021,APR. 5-11,Pew Research Center,B/C,5109,A,2.78,59%,39%,59%,38%,APR. 5-11 2021,"(datetime.date(2021, 4, 5), datetime.date(2021, 4, 11))",2021-04-05,2021-04-11
+2021,APR. 7-8,Ipsos,B-,1005,A,0.28,56%,37%,55%,39%,APR. 7-8 2021,"(datetime.date(2021, 4, 7), datetime.date(2021, 4, 8))",2021-04-07,2021-04-08
+2021,APR. 6-8,YouGov,B+,1649,A,0.91,52%,38%,53%,39%,APR. 6-8 2021,"(datetime.date(2021, 4, 6), datetime.date(2021, 4, 8))",2021-04-06,2021-04-08
+2021,APR. 4-6,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,49%,50%,51%,44%,APR. 4-6 2021,"(datetime.date(2021, 4, 4), datetime.date(2021, 4, 6))",2021-04-04,2021-04-06
+2021,APR. 3-6,YouGov,B+,1500,A,0.84,49%,41%,50%,42%,APR. 3-6 2021,"(datetime.date(2021, 4, 3), datetime.date(2021, 4, 6))",2021-04-03,2021-04-06
+2021,MAR. 31-APR. 6,Morning Consult,B,45000,A,0.98,55%,36%,54%,39%,MAR. 31-APR. 6 2021,"(datetime.date(2021, 3, 31), datetime.date(2021, 4, 6))",2021-03-31,2021-04-06
+2021,APR. 2-5,HarrisX,B+,2732,RV,1.22,61%,39%,57%,40%,APR. 2-5 2021,"(datetime.date(2021, 4, 2), datetime.date(2021, 4, 5))",2021-04-02,2021-04-05
+2021,APR. 2-4,Morning Consult,B,2200,A,0.05,57%,37%,56%,40%,APR. 2-4 2021,"(datetime.date(2021, 4, 2), datetime.date(2021, 4, 4))",2021-04-02,2021-04-04
+2021,APR. 2-4,Morning Consult,B,2200,A,0.05,54%,39%,53%,42%,APR. 2-4 2021,"(datetime.date(2021, 4, 2), datetime.date(2021, 4, 4))",2021-04-02,2021-04-04
+2021,MAR. 31-APR. 3,TIPP Insights,A+,1436,A,2.61,53%,33%,54%,38%,MAR. 31-APR. 3 2021,"(datetime.date(2021, 3, 31), datetime.date(2021, 4, 3))",2021-03-31,2021-04-03
+2021,MAR. 30-APR. 2,Morning Consult,B,2200,A,0.05,57%,36%,56%,39%,MAR. 30-APR. 2 2021,"(datetime.date(2021, 3, 30), datetime.date(2021, 4, 2))",2021-03-30,2021-04-02
+2021,MAR. 31-APR. 1,Ipsos,B-,1005,A,0.51,54%,41%,53%,42%,MAR. 31-APR. 1 2021,"(datetime.date(2021, 3, 31), datetime.date(2021, 4, 1))",2021-03-31,2021-04-01
+2021,MAR. 30-APR. 1,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.61,48%,50%,50%,44%,MAR. 30-APR. 1 2021,"(datetime.date(2021, 3, 30), datetime.date(2021, 4, 1))",2021-03-30,2021-04-01
+2021,MAR. 27-30,YouGov,B+,1500,A,0.86,48%,40%,49%,41%,MAR. 27-30 2021,"(datetime.date(2021, 3, 27), datetime.date(2021, 3, 30))",2021-03-27,2021-03-30
+2021,MAR. 24-30,Morning Consult,B,45000,A,0.97,54%,36%,53%,39%,MAR. 24-30 2021,"(datetime.date(2021, 3, 24), datetime.date(2021, 3, 30))",2021-03-24,2021-03-30
+2021,MAR. 26-29,Morning Consult,B,2043,RV,0.04,58%,39%,57%,42%,MAR. 26-29 2021,"(datetime.date(2021, 3, 26), datetime.date(2021, 3, 29))",2021-03-26,2021-03-29
+2021,MAR. 26-29,AP-NORC,,1166,A,1.52,61%,38%,58%,38%,MAR. 26-29 2021,"(datetime.date(2021, 3, 26), datetime.date(2021, 3, 29))",2021-03-26,2021-03-29
+2021,MAR. 25-29,Navigator Research,B/C,1002,RV,0.81,55%,41%,54%,40%,MAR. 25-29 2021,"(datetime.date(2021, 3, 25), datetime.date(2021, 3, 29))",2021-03-25,2021-03-29
+2021,MAR. 25-29,Morning Consult,B,2041,A,0.04,55%,38%,54%,41%,MAR. 25-29 2021,"(datetime.date(2021, 3, 25), datetime.date(2021, 3, 29))",2021-03-25,2021-03-29
+2021,MAR. 25-29,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.77,48%,50%,50%,44%,MAR. 25-29 2021,"(datetime.date(2021, 3, 25), datetime.date(2021, 3, 29))",2021-03-25,2021-03-29
+2021,MAR. 24-29,GBAO,B/C,2000,RV,1.8,54%,43%,54%,42%,MAR. 24-29 2021,"(datetime.date(2021, 3, 24), datetime.date(2021, 3, 29))",2021-03-24,2021-03-29
+2021,MAR. 24-28,Morning Consult,B,2200,A,0.05,57%,36%,56%,39%,MAR. 24-28 2021,"(datetime.date(2021, 3, 24), datetime.date(2021, 3, 28))",2021-03-24,2021-03-28
+2021,MAR. 24-26,HarrisX,B+,1882,RV,0.87,61%,39%,57%,40%,MAR. 24-26 2021,"(datetime.date(2021, 3, 24), datetime.date(2021, 3, 26))",2021-03-24,2021-03-26
+2021,MAR. 23-26,Morning Consult,B,2140,A,0.05,57%,37%,56%,40%,MAR. 23-26 2021,"(datetime.date(2021, 3, 23), datetime.date(2021, 3, 26))",2021-03-23,2021-03-26
+2021,MAR. 18-26,SurveyMonkey,C,16336,A,1.56,56%,42%,55%,42%,MAR. 18-26 2021,"(datetime.date(2021, 3, 18), datetime.date(2021, 3, 26))",2021-03-18,2021-03-26
+2021,MAR. 24-25,Harris Poll,B+,1945,RV,2.06,61%,39%,60%,40%,MAR. 24-25 2021,"(datetime.date(2021, 3, 24), datetime.date(2021, 3, 25))",2021-03-24,2021-03-25
+2021,MAR. 24-25,Ipsos,B-,1005,A,0.6,53%,41%,52%,42%,MAR. 24-25 2021,"(datetime.date(2021, 3, 24), datetime.date(2021, 3, 25))",2021-03-24,2021-03-25
+2021,MAR. 23-25,YouGov,B+,1606,A,0.88,53%,36%,54%,37%,MAR. 23-25 2021,"(datetime.date(2021, 3, 23), datetime.date(2021, 3, 25))",2021-03-23,2021-03-25
+2021,MAR. 22-25,Marist College,A,1309,A,1.98,52%,40%,53%,40%,MAR. 22-25 2021,"(datetime.date(2021, 3, 22), datetime.date(2021, 3, 25))",2021-03-22,2021-03-25
+2021,MAR. 22-24,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.76,47%,51%,49%,45%,MAR. 22-24 2021,"(datetime.date(2021, 3, 22), datetime.date(2021, 3, 24))",2021-03-22,2021-03-24
+2021,MAR. 20-23,YouGov,B+,1500,A,0.81,50%,41%,51%,42%,MAR. 20-23 2021,"(datetime.date(2021, 3, 20), datetime.date(2021, 3, 23))",2021-03-20,2021-03-23
+2021,MAR. 17-23,Morning Consult,B,45000,A,1.0,55%,36%,54%,39%,MAR. 17-23 2021,"(datetime.date(2021, 3, 17), datetime.date(2021, 3, 23))",2021-03-17,2021-03-23
+2021,MAR. 21-22,Redfield & Wilton Strategies,B/C,1500,RV,1.25,53%,35%,55%,40%,MAR. 21-22 2021,"(datetime.date(2021, 3, 21), datetime.date(2021, 3, 22))",2021-03-21,2021-03-22
+2021,MAR. 19-22,HarrisX,B+,2858,RV,1.23,60%,40%,56%,41%,MAR. 19-22 2021,"(datetime.date(2021, 3, 19), datetime.date(2021, 3, 22))",2021-03-19,2021-03-22
+2021,MAR. 19-22,Morning Consult,B,1994,RV,0.04,57%,40%,56%,43%,MAR. 19-22 2021,"(datetime.date(2021, 3, 19), datetime.date(2021, 3, 22))",2021-03-19,2021-03-22
+2021,MAR. 18-22,Morning Consult,B,2200,A,0.05,59%,35%,58%,38%,MAR. 18-22 2021,"(datetime.date(2021, 3, 18), datetime.date(2021, 3, 22))",2021-03-18,2021-03-22
+2021,MAR. 17-22,Climate Nexus,,1310,RV,0.79,54%,40%,53%,41%,MAR. 17-22 2021,"(datetime.date(2021, 3, 17), datetime.date(2021, 3, 22))",2021-03-17,2021-03-22
+2021,MAR. 17-22,Morning Consult,B,2200,A,0.05,56%,37%,55%,40%,MAR. 17-22 2021,"(datetime.date(2021, 3, 17), datetime.date(2021, 3, 22))",2021-03-17,2021-03-22
+2021,MAR. 17-21,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.53,49%,49%,51%,43%,MAR. 17-21 2021,"(datetime.date(2021, 3, 17), datetime.date(2021, 3, 21))",2021-03-17,2021-03-21
+2021,MAR. 15-21,Echelon Insights,B/C,1008,RV,1.23,51%,44%,50%,44%,MAR. 15-21 2021,"(datetime.date(2021, 3, 15), datetime.date(2021, 3, 21))",2021-03-15,2021-03-21
+2021,MAR. 18-20,RMG Research,B-,1200,RV,0.88,60%,34%,59%,35%,MAR. 18-20 2021,"(datetime.date(2021, 3, 18), datetime.date(2021, 3, 20))",2021-03-18,2021-03-20
+2021,MAR. 17-20,American Research Group,C+,1100,A,1.09,60%,34%,58%,36%,MAR. 17-20 2021,"(datetime.date(2021, 3, 17), datetime.date(2021, 3, 20))",2021-03-17,2021-03-20
+2021,MAR. 15-19,Morning Consult,B,2200,A,0.05,60%,33%,59%,36%,MAR. 15-19 2021,"(datetime.date(2021, 3, 15), datetime.date(2021, 3, 19))",2021-03-15,2021-03-19
+2021,MAR. 17-18,Ipsos,B-,1005,A,0.65,59%,35%,57%,37%,MAR. 17-18 2021,"(datetime.date(2021, 3, 17), datetime.date(2021, 3, 18))",2021-03-17,2021-03-18
+2021,MAR. 13-17,YouGov,B+,1500,A,0.74,53%,37%,54%,38%,MAR. 13-17 2021,"(datetime.date(2021, 3, 13), datetime.date(2021, 3, 17))",2021-03-13,2021-03-17
+2021,MAR. 14-16,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,52%,46%,54%,40%,MAR. 14-16 2021,"(datetime.date(2021, 3, 14), datetime.date(2021, 3, 16))",2021-03-14,2021-03-16
+2021,MAR. 12-16,Civiqs,B-,1673,RV,1.56,51%,44%,53%,42%,MAR. 12-16 2021,"(datetime.date(2021, 3, 12), datetime.date(2021, 3, 16))",2021-03-12,2021-03-16
+2021,MAR. 10-16,Morning Consult,B,45000,A,1.03,56%,35%,55%,38%,MAR. 10-16 2021,"(datetime.date(2021, 3, 10), datetime.date(2021, 3, 16))",2021-03-10,2021-03-16
+2021,MAR. 12-15,Morning Consult,B,1993,RV,0.05,62%,34%,61%,37%,MAR. 12-15 2021,"(datetime.date(2021, 3, 12), datetime.date(2021, 3, 15))",2021-03-12,2021-03-15
+2021,MAR. 11-15,Navigator Research,B/C,1001,RV,0.82,56%,40%,55%,39%,MAR. 11-15 2021,"(datetime.date(2021, 3, 11), datetime.date(2021, 3, 15))",2021-03-11,2021-03-15
+2021,MAR. 1-15,Gallup,B+,1010,A,1.51,54%,42%,54%,41%,MAR. 1-15 2021,"(datetime.date(2021, 3, 1), datetime.date(2021, 3, 15))",2021-03-01,2021-03-15
+2021,MAR. 12-14,HarrisX,B+,2839,RV,1.22,59%,41%,55%,42%,MAR. 12-14 2021,"(datetime.date(2021, 3, 12), datetime.date(2021, 3, 14))",2021-03-12,2021-03-14
+2021,MAR. 11-13,RMG Research,B-,1200,RV,0.74,57%,37%,56%,38%,MAR. 11-13 2021,"(datetime.date(2021, 3, 11), datetime.date(2021, 3, 13))",2021-03-11,2021-03-13
+2021,MAR. 10-13,YouGov,B+,2382,A,1.13,62%,38%,63%,39%,MAR. 10-13 2021,"(datetime.date(2021, 3, 10), datetime.date(2021, 3, 13))",2021-03-10,2021-03-13
+2021,MAR. 10-11,Ipsos,B-,1001,A,0.68,54%,39%,52%,40%,MAR. 10-11 2021,"(datetime.date(2021, 3, 10), datetime.date(2021, 3, 11))",2021-03-10,2021-03-11
+2021,MAR. 9-11,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,51%,47%,53%,41%,MAR. 9-11 2021,"(datetime.date(2021, 3, 9), datetime.date(2021, 3, 11))",2021-03-09,2021-03-11
+2021,MAR. 9-10,YouGov,B+,1306,A,0.63,60%,40%,61%,41%,MAR. 9-10 2021,"(datetime.date(2021, 3, 9), datetime.date(2021, 3, 10))",2021-03-09,2021-03-10
+2021,MAR. 6-9,YouGov,B+,1500,A,0.75,50%,40%,51%,41%,MAR. 6-9 2021,"(datetime.date(2021, 3, 6), datetime.date(2021, 3, 9))",2021-03-06,2021-03-09
+2021,MAR. 3-9,Morning Consult,B,45000,A,1.06,55%,36%,54%,39%,MAR. 3-9 2021,"(datetime.date(2021, 3, 3), datetime.date(2021, 3, 9))",2021-03-03,2021-03-09
+2021,MAR. 6-8,Morning Consult,B,1990,RV,0.05,59%,37%,58%,40%,MAR. 6-8 2021,"(datetime.date(2021, 3, 6), datetime.date(2021, 3, 8))",2021-03-06,2021-03-08
+2021,MAR. 5-8,HarrisX,B+,2839,RV,1.31,58%,42%,54%,43%,MAR. 5-8 2021,"(datetime.date(2021, 3, 5), datetime.date(2021, 3, 8))",2021-03-05,2021-03-08
+2021,MAR. 4-8,Morning Consult,B,2201,A,0.05,58%,34%,57%,37%,MAR. 4-8 2021,"(datetime.date(2021, 3, 4), datetime.date(2021, 3, 8))",2021-03-04,2021-03-08
+2021,MAR. 4-8,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,50%,48%,52%,42%,MAR. 4-8 2021,"(datetime.date(2021, 3, 4), datetime.date(2021, 3, 8))",2021-03-04,2021-03-08
+2021,MAR. 4-8,The Bullfinch Group,,1200,A,1.07,56%,36%,55%,37%,MAR. 4-8 2021,"(datetime.date(2021, 3, 4), datetime.date(2021, 3, 8))",2021-03-04,2021-03-08
+2021,MAR. 3-8,SSRS,C,1009,A,0.97,51%,41%,50%,41%,MAR. 3-8 2021,"(datetime.date(2021, 3, 3), datetime.date(2021, 3, 8))",2021-03-03,2021-03-08
+2021,MAR. 3-8,Marist College,A,1227,A,1.85,49%,42%,50%,42%,MAR. 3-8 2021,"(datetime.date(2021, 3, 3), datetime.date(2021, 3, 8))",2021-03-03,2021-03-08
+2021,MAR. 1-7,Pew Research Center,B/C,6011,A,2.88,54%,42%,54%,41%,MAR. 1-7 2021,"(datetime.date(2021, 3, 1), datetime.date(2021, 3, 7))",2021-03-01,2021-03-07
+2021,FEB. 26-MAR. 7,Climate Nexus,,1624,RV,0.87,53%,39%,52%,40%,FEB. 26-MAR. 7 2021,"(datetime.date(2021, 2, 26), datetime.date(2021, 3, 7))",2021-02-26,2021-03-07
+2021,MAR. 4-6,RMG Research,B-,1200,RV,0.7,53%,39%,52%,40%,MAR. 4-6 2021,"(datetime.date(2021, 3, 4), datetime.date(2021, 3, 6))",2021-03-04,2021-03-06
+2021,MAR. 3-4,Ipsos,B-,1005,A,0.68,58%,35%,56%,36%,MAR. 3-4 2021,"(datetime.date(2021, 3, 3), datetime.date(2021, 3, 4))",2021-03-03,2021-03-04
+2021,MAR. 1-3,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.78,49%,48%,51%,42%,MAR. 1-3 2021,"(datetime.date(2021, 3, 1), datetime.date(2021, 3, 3))",2021-03-01,2021-03-03
+2021,FEB. 28-MAR. 2,Morning Consult,B,15000,A,0.24,54%,36%,53%,39%,FEB. 28-MAR. 2 2021,"(datetime.date(2021, 2, 28), datetime.date(2021, 3, 2))",2021-02-28,2021-03-02
+2021,FEB. 27-MAR. 2,YouGov,B+,1500,A,0.91,50%,39%,51%,40%,FEB. 27-MAR. 2 2021,"(datetime.date(2021, 2, 27), datetime.date(2021, 3, 2))",2021-02-27,2021-03-02
+2021,FEB. 26-MAR. 1,Morning Consult,B,1992,RV,0.05,57%,37%,56%,40%,FEB. 26-MAR. 1 2021,"(datetime.date(2021, 2, 26), datetime.date(2021, 3, 1))",2021-02-26,2021-03-01
+2021,FEB. 26-MAR. 1,Morning Consult,B,2200,A,0.05,56%,37%,55%,40%,FEB. 26-MAR. 1 2021,"(datetime.date(2021, 2, 26), datetime.date(2021, 3, 1))",2021-02-26,2021-03-01
+2021,FEB. 25-MAR. 1,Navigator Research,B/C,1007,RV,0.83,53%,41%,52%,40%,FEB. 25-MAR. 1 2021,"(datetime.date(2021, 2, 25), datetime.date(2021, 3, 1))",2021-02-25,2021-03-01
+2021,FEB. 25-MAR. 1,AP-NORC,,1434,A,1.69,60%,40%,57%,40%,FEB. 25-MAR. 1 2021,"(datetime.date(2021, 2, 25), datetime.date(2021, 3, 1))",2021-02-25,2021-03-01
+2021,FEB. 25-MAR. 1,Monmouth University,A,802,A,1.52,51%,42%,52%,42%,FEB. 25-MAR. 1 2021,"(datetime.date(2021, 2, 25), datetime.date(2021, 3, 1))",2021-02-25,2021-03-01
+2021,FEB. 26-28,Léger,B/C,1002,A,1.12,48%,38%,48%,38%,FEB. 26-28 2021,"(datetime.date(2021, 2, 26), datetime.date(2021, 2, 28))",2021-02-26,2021-02-28
+2021,FEB. 24-28,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.54,49%,48%,51%,42%,FEB. 24-28 2021,"(datetime.date(2021, 2, 24), datetime.date(2021, 2, 28))",2021-02-24,2021-02-28
+2021,FEB. 24-28,McLaughlin & Associates,C/D,1000,LV,0.77,55%,40%,54%,39%,FEB. 24-28 2021,"(datetime.date(2021, 2, 24), datetime.date(2021, 2, 28))",2021-02-24,2021-02-28
+2021,FEB. 26-27,Public Policy Polling,A-,1390,RV,2.04,47%,43%,48%,43%,FEB. 26-27 2021,"(datetime.date(2021, 2, 26), datetime.date(2021, 2, 27))",2021-02-26,2021-02-27
+2021,FEB. 25-27,RMG Research,B-,1200,RV,0.69,54%,40%,53%,41%,FEB. 25-27 2021,"(datetime.date(2021, 2, 25), datetime.date(2021, 2, 27))",2021-02-25,2021-02-27
+2021,FEB. 25-27,Morning Consult,B,15000,A,0.38,54%,35%,53%,38%,FEB. 25-27 2021,"(datetime.date(2021, 2, 25), datetime.date(2021, 2, 27))",2021-02-25,2021-02-27
+2021,FEB. 24-27,TIPP Insights,A+,1280,A,2.38,53%,30%,54%,35%,FEB. 24-27 2021,"(datetime.date(2021, 2, 24), datetime.date(2021, 2, 27))",2021-02-24,2021-02-27
+2021,FEB. 24-26,HarrisX,B+,1909,RV,1.05,58%,42%,54%,43%,FEB. 24-26 2021,"(datetime.date(2021, 2, 24), datetime.date(2021, 2, 26))",2021-02-24,2021-02-26
+2021,FEB. 24-25,Ipsos,B-,1004,A,0.69,57%,37%,55%,39%,FEB. 24-25 2021,"(datetime.date(2021, 2, 24), datetime.date(2021, 2, 25))",2021-02-24,2021-02-25
+2021,FEB. 23-25,Harris Poll,B+,1778,RV,1.97,61%,39%,60%,40%,FEB. 23-25 2021,"(datetime.date(2021, 2, 23), datetime.date(2021, 2, 25))",2021-02-23,2021-02-25
+2021,FEB. 23-24,HarrisX,B+,949,RV,0.53,59%,41%,55%,42%,FEB. 23-24 2021,"(datetime.date(2021, 2, 23), datetime.date(2021, 2, 24))",2021-02-23,2021-02-24
+2021,FEB. 22-24,Marist College,A,1275,A,1.96,51%,38%,52%,38%,FEB. 22-24 2021,"(datetime.date(2021, 2, 22), datetime.date(2021, 2, 24))",2021-02-22,2021-02-24
+2021,FEB. 22-24,Morning Consult,B,15000,A,0.39,54%,35%,53%,38%,FEB. 22-24 2021,"(datetime.date(2021, 2, 22), datetime.date(2021, 2, 24))",2021-02-22,2021-02-24
+2021,FEB. 21-23,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.7,49%,49%,51%,43%,FEB. 21-23 2021,"(datetime.date(2021, 2, 21), datetime.date(2021, 2, 23))",2021-02-21,2021-02-23
+2021,FEB. 18-23,Greenberg Research,B,1000,RV,1.41,52%,38%,51%,38%,FEB. 18-23 2021,"(datetime.date(2021, 2, 18), datetime.date(2021, 2, 23))",2021-02-18,2021-02-23
+2021,FEB. 20-22,YouGov,B+,1556,A,0.86,50%,38%,51%,39%,FEB. 20-22 2021,"(datetime.date(2021, 2, 20), datetime.date(2021, 2, 22))",2021-02-20,2021-02-22
+2021,FEB. 19-22,YouGov,B+,1500,A,0.83,51%,36%,52%,37%,FEB. 19-22 2021,"(datetime.date(2021, 2, 19), datetime.date(2021, 2, 22))",2021-02-19,2021-02-22
+2021,FEB. 19-22,Morning Consult,B,2013,RV,0.05,58%,36%,57%,39%,FEB. 19-22 2021,"(datetime.date(2021, 2, 19), datetime.date(2021, 2, 22))",2021-02-19,2021-02-22
+2021,FEB. 19-21,Morning Consult,B,15000,A,0.4,54%,35%,53%,38%,FEB. 19-21 2021,"(datetime.date(2021, 2, 19), datetime.date(2021, 2, 21))",2021-02-19,2021-02-21
+2021,FEB. 18-21,Morning Consult,B,2200,A,0.06,57%,33%,56%,36%,FEB. 18-21 2021,"(datetime.date(2021, 2, 18), datetime.date(2021, 2, 21))",2021-02-18,2021-02-21
+2021,FEB. 17-21,Hart Research Associates,B-,1000,V,1.24,58%,42%,57%,41%,FEB. 17-21 2021,"(datetime.date(2021, 2, 17), datetime.date(2021, 2, 21))",2021-02-17,2021-02-21
+2021,FEB. 18-20,RMG Research,B-,1200,RV,0.68,56%,37%,55%,38%,FEB. 18-20 2021,"(datetime.date(2021, 2, 18), datetime.date(2021, 2, 20))",2021-02-18,2021-02-20
+2021,FEB. 17-20,American Research Group,C+,1100,A,1.09,58%,34%,56%,36%,FEB. 17-20 2021,"(datetime.date(2021, 2, 17), datetime.date(2021, 2, 20))",2021-02-17,2021-02-20
+2021,FEB. 17-18,Ipsos,B-,1005,A,0.71,56%,36%,54%,37%,FEB. 17-18 2021,"(datetime.date(2021, 2, 17), datetime.date(2021, 2, 18))",2021-02-17,2021-02-18
+2021,FEB. 16-18,Morning Consult,B,15000,A,0.41,54%,35%,53%,38%,FEB. 16-18 2021,"(datetime.date(2021, 2, 16), datetime.date(2021, 2, 18))",2021-02-16,2021-02-18
+2021,FEB. 16-18,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.62,49%,49%,51%,43%,FEB. 16-18 2021,"(datetime.date(2021, 2, 16), datetime.date(2021, 2, 18))",2021-02-16,2021-02-18
+2021,FEB. 12-18,Echelon Insights,B/C,1005,RV,1.19,51%,42%,50%,42%,FEB. 12-18 2021,"(datetime.date(2021, 2, 12), datetime.date(2021, 2, 18))",2021-02-12,2021-02-18
+2021,FEB. 3-18,Gallup,B+,1021,A,1.42,56%,40%,56%,39%,FEB. 3-18 2021,"(datetime.date(2021, 2, 3), datetime.date(2021, 2, 18))",2021-02-03,2021-02-18
+2021,FEB. 13-16,YouGov,B+,1500,A,0.84,54%,37%,55%,38%,FEB. 13-16 2021,"(datetime.date(2021, 2, 13), datetime.date(2021, 2, 16))",2021-02-13,2021-02-16
+2021,FEB. 14-15,Morning Consult,B,1984,RV,0.05,62%,33%,61%,36%,FEB. 14-15 2021,"(datetime.date(2021, 2, 14), datetime.date(2021, 2, 15))",2021-02-14,2021-02-15
+2021,FEB. 13-15,Morning Consult,B,15000,A,0.42,54%,34%,53%,37%,FEB. 13-15 2021,"(datetime.date(2021, 2, 13), datetime.date(2021, 2, 15))",2021-02-13,2021-02-15
+2021,FEB. 12-15,Morning Consult,B,3300,A,0.09,56%,35%,55%,38%,FEB. 12-15 2021,"(datetime.date(2021, 2, 12), datetime.date(2021, 2, 15))",2021-02-12,2021-02-15
+2021,FEB. 12-15,Morning Consult,B,1987,RV,0.05,56%,38%,55%,41%,FEB. 12-15 2021,"(datetime.date(2021, 2, 12), datetime.date(2021, 2, 15))",2021-02-12,2021-02-15
+2021,FEB. 12-15,HarrisX,B+,2835,RV,1.66,59%,41%,55%,42%,FEB. 12-15 2021,"(datetime.date(2021, 2, 12), datetime.date(2021, 2, 15))",2021-02-12,2021-02-15
+2021,FEB. 11-15,Navigator Research,B/C,1067,RV,0.86,56%,38%,55%,37%,FEB. 11-15 2021,"(datetime.date(2021, 2, 11), datetime.date(2021, 2, 15))",2021-02-11,2021-02-15
+2021,FEB. 11-15,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.71,53%,44%,55%,38%,FEB. 11-15 2021,"(datetime.date(2021, 2, 11), datetime.date(2021, 2, 15))",2021-02-11,2021-02-15
+2021,FEB. 11-14,Quinnipiac University,A-,1056,A,1.51,50%,38%,53%,38%,FEB. 11-14 2021,"(datetime.date(2021, 2, 11), datetime.date(2021, 2, 14))",2021-02-11,2021-02-14
+2021,FEB. 7-14,Saint Leo University,C/D,1000,A,0.81,61%,32%,58%,34%,FEB. 7-14 2021,"(datetime.date(2021, 2, 7), datetime.date(2021, 2, 14))",2021-02-07,2021-02-14
+2021,FEB. 11-13,RMG Research,B-,1200,RV,0.69,57%,35%,56%,36%,FEB. 11-13 2021,"(datetime.date(2021, 2, 11), datetime.date(2021, 2, 13))",2021-02-11,2021-02-13
+2021,FEB. 10-12,Morning Consult,B,15000,A,0.43,55%,33%,54%,36%,FEB. 10-12 2021,"(datetime.date(2021, 2, 10), datetime.date(2021, 2, 12))",2021-02-10,2021-02-12
+2021,FEB. 9-10,Ipsos,B-,1001,A,0.73,57%,35%,56%,36%,FEB. 9-10 2021,"(datetime.date(2021, 2, 9), datetime.date(2021, 2, 10))",2021-02-09,2021-02-10
+2021,FEB. 8-10,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.8,50%,47%,52%,41%,FEB. 8-10 2021,"(datetime.date(2021, 2, 8), datetime.date(2021, 2, 10))",2021-02-08,2021-02-10
+2021,FEB. 8-9,HarrisX,B+,938,RV,0.65,60%,40%,56%,41%,FEB. 8-9 2021,"(datetime.date(2021, 2, 8), datetime.date(2021, 2, 9))",2021-02-08,2021-02-09
+2021,FEB. 7-9,Morning Consult,B,15000,A,0.44,55%,33%,54%,36%,FEB. 7-9 2021,"(datetime.date(2021, 2, 7), datetime.date(2021, 2, 9))",2021-02-07,2021-02-09
+2021,FEB. 6-9,YouGov,B+,1500,A,0.8,50%,37%,51%,38%,FEB. 6-9 2021,"(datetime.date(2021, 2, 6), datetime.date(2021, 2, 9))",2021-02-06,2021-02-09
+2021,FEB. 5-8,YouGov,B+,2508,A,1.33,61%,39%,62%,40%,FEB. 5-8 2021,"(datetime.date(2021, 2, 5), datetime.date(2021, 2, 8))",2021-02-05,2021-02-08
+2021,FEB. 5-7,Morning Consult,B,1986,RV,0.06,59%,35%,58%,38%,FEB. 5-7 2021,"(datetime.date(2021, 2, 5), datetime.date(2021, 2, 7))",2021-02-05,2021-02-07
+2021,FEB. 3-7,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.56,50%,47%,52%,41%,FEB. 3-7 2021,"(datetime.date(2021, 2, 3), datetime.date(2021, 2, 7))",2021-02-03,2021-02-07
+2021,FEB. 4-6,RMG Research,B-,1200,RV,0.7,60%,32%,59%,33%,FEB. 4-6 2021,"(datetime.date(2021, 2, 4), datetime.date(2021, 2, 6))",2021-02-04,2021-02-06
+2021,FEB. 4-6,Morning Consult,B,15000,A,0.45,54%,34%,53%,37%,FEB. 4-6 2021,"(datetime.date(2021, 2, 4), datetime.date(2021, 2, 6))",2021-02-04,2021-02-06
+2021,FEB. 2-3,Emerson College,A-,1429,A,2.08,49%,39%,50%,40%,FEB. 2-3 2021,"(datetime.date(2021, 2, 2), datetime.date(2021, 2, 3))",2021-02-02,2021-02-03
+2021,FEB. 2-3,Ipsos,B-,1005,A,0.81,57%,34%,56%,36%,FEB. 2-3 2021,"(datetime.date(2021, 2, 2), datetime.date(2021, 2, 3))",2021-02-02,2021-02-03
+2021,FEB. 1-3,Morning Consult,B,15000,A,0.46,54%,33%,53%,36%,FEB. 1-3 2021,"(datetime.date(2021, 2, 1), datetime.date(2021, 2, 3))",2021-02-01,2021-02-03
+2021,JAN. 31-FEB. 2,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.76,51%,47%,53%,41%,JAN. 31-FEB. 2 2021,"(datetime.date(2021, 1, 31), datetime.date(2021, 2, 2))",2021-01-31,2021-02-02
+2021,JAN. 31-FEB. 2,YouGov,B+,1500,A,0.92,46%,38%,47%,39%,JAN. 31-FEB. 2 2021,"(datetime.date(2021, 1, 31), datetime.date(2021, 2, 2))",2021-01-31,2021-02-02
+2021,JAN. 21-FEB. 2,Gallup,B+,906,A,1.31,57%,37%,57%,36%,JAN. 21-FEB. 2 2021,"(datetime.date(2021, 1, 21), datetime.date(2021, 2, 2))",2021-01-21,2021-02-02
+2021,JAN. 29-FEB. 1,Morning Consult,B,1986,RV,0.06,58%,35%,57%,38%,JAN. 29-FEB. 1 2021,"(datetime.date(2021, 1, 29), datetime.date(2021, 2, 1))",2021-01-29,2021-02-01
+2021,JAN. 29-FEB. 1,Morning Consult,B,2200,A,0.07,57%,33%,56%,36%,JAN. 29-FEB. 1 2021,"(datetime.date(2021, 1, 29), datetime.date(2021, 2, 1))",2021-01-29,2021-02-01
+2021,JAN. 28-FEB. 1,AP-NORC,,1055,A,1.43,61%,38%,58%,38%,JAN. 28-FEB. 1 2021,"(datetime.date(2021, 1, 28), datetime.date(2021, 2, 1))",2021-01-28,2021-02-01
+2021,JAN. 28-FEB. 1,Quinnipiac University,A-,1075,A,1.53,49%,36%,52%,36%,JAN. 28-FEB. 1 2021,"(datetime.date(2021, 1, 28), datetime.date(2021, 2, 1))",2021-01-28,2021-02-01
+2021,JAN. 27-FEB. 1,Navigator Research,B/C,1005,RV,0.92,53%,39%,52%,38%,JAN. 27-FEB. 1 2021,"(datetime.date(2021, 1, 27), datetime.date(2021, 2, 1))",2021-01-27,2021-02-01
+2021,JAN. 29-31,Morning Consult,B,15000,A,0.39,54%,33%,53%,36%,JAN. 29-31 2021,"(datetime.date(2021, 1, 29), datetime.date(2021, 1, 31))",2021-01-29,2021-01-31
+2021,JAN. 28-30,RMG Research,B-,1200,RV,0.74,58%,35%,57%,36%,JAN. 28-30 2021,"(datetime.date(2021, 1, 28), datetime.date(2021, 1, 30))",2021-01-28,2021-01-30
+,01/29/2022,John Zogby Strategies,B/C,841,LV,1.12,56%,36%,55%,37%,,"('', '')",,
+2021,JAN. 28-29,HarrisX,B+,945,RV,0.9,61%,39%,57%,40%,JAN. 28-29 2021,"(datetime.date(2021, 1, 28), datetime.date(2021, 1, 29))",2021-01-28,2021-01-29
+2021,JAN. 27-29,TIPP Insights,A+,1261,A,2.36,53%,29%,54%,34%,JAN. 27-29 2021,"(datetime.date(2021, 1, 27), datetime.date(2021, 1, 29))",2021-01-27,2021-01-29
+2021,JAN. 27-28,Morning Consult,B,2200,A,0.07,56%,33%,55%,36%,JAN. 27-28 2021,"(datetime.date(2021, 1, 27), datetime.date(2021, 1, 28))",2021-01-27,2021-01-28
+2021,JAN. 26-28,Morning Consult,B,9211,A,0.46,55%,32%,54%,35%,JAN. 26-28 2021,"(datetime.date(2021, 1, 26), datetime.date(2021, 1, 28))",2021-01-26,2021-01-28
+2021,JAN. 26-28,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,0.74,50%,45%,52%,39%,JAN. 26-28 2021,"(datetime.date(2021, 1, 26), datetime.date(2021, 1, 28))",2021-01-26,2021-01-28
+2021,JAN. 24-27,Marist College,A,1313,A,2.19,49%,35%,50%,35%,JAN. 24-27 2021,"(datetime.date(2021, 1, 24), datetime.date(2021, 1, 27))",2021-01-24,2021-01-27
+2021,JAN. 25-26,Morning Consult,B,2200,A,0.08,58%,32%,57%,35%,JAN. 25-26 2021,"(datetime.date(2021, 1, 25), datetime.date(2021, 1, 26))",2021-01-25,2021-01-26
+2021,JAN. 24-26,YouGov,B+,1500,A,1.08,51%,33%,52%,34%,JAN. 24-26 2021,"(datetime.date(2021, 1, 24), datetime.date(2021, 1, 26))",2021-01-24,2021-01-26
+2021,JAN. 20-26,Echelon Insights,B/C,1006,RV,1.19,55%,33%,54%,33%,JAN. 20-26 2021,"(datetime.date(2021, 1, 20), datetime.date(2021, 1, 26))",2021-01-20,2021-01-26
+2021,JAN. 23-25,Morning Consult,B,15000,A,0.6,53%,30%,52%,33%,JAN. 23-25 2021,"(datetime.date(2021, 1, 23), datetime.date(2021, 1, 25))",2021-01-23,2021-01-25
+2021,JAN. 22-25,Data for Progress,B,1164,LV,1.46,57%,36%,56%,36%,JAN. 22-25 2021,"(datetime.date(2021, 1, 22), datetime.date(2021, 1, 25))",2021-01-22,2021-01-25
+2021,JAN. 22-25,Morning Consult,B,1990,RV,0.07,59%,32%,58%,35%,JAN. 22-25 2021,"(datetime.date(2021, 1, 22), datetime.date(2021, 1, 25))",2021-01-22,2021-01-25
+2021,JAN. 22-25,Morning Consult,B,2200,A,0.08,56%,32%,55%,35%,JAN. 22-25 2021,"(datetime.date(2021, 1, 22), datetime.date(2021, 1, 25))",2021-01-22,2021-01-25
+2021,JAN. 21-25,Rasmussen Reports/Pulse Opinion Research,B,1500,LV,1.02,48%,47%,50%,41%,JAN. 21-25 2021,"(datetime.date(2021, 1, 21), datetime.date(2021, 1, 25))",2021-01-21,2021-01-25
+2021,JAN. 21-24,Monmouth University,A,809,A,1.53,54%,30%,55%,30%,JAN. 21-24 2021,"(datetime.date(2021, 1, 21), datetime.date(2021, 1, 24))",2021-01-21,2021-01-24
+2021,JAN. 21-23,RMG Research,B-,1200,RV,0.88,58%,32%,57%,33%,JAN. 21-23 2021,"(datetime.date(2021, 1, 21), datetime.date(2021, 1, 23))",2021-01-21,2021-01-23
+2021,JAN. 21-22,HarrisX,B+,941,RV,1.04,63%,37%,59%,38%,JAN. 21-22 2021,"(datetime.date(2021, 1, 21), datetime.date(2021, 1, 22))",2021-01-21,2021-01-22
+2021,JAN. 20-22,Morning Consult,B,15000,A,0.49,51%,28%,50%,31%,JAN. 20-22 2021,"(datetime.date(2021, 1, 20), datetime.date(2021, 1, 22))",2021-01-20,2021-01-22
+2021,JAN. 20-21,Ipsos,B-,1115,A,1.1,55%,32%,54%,33%,JAN. 20-21 2021,"(datetime.date(2021, 1, 20), datetime.date(2021, 1, 21))",2021-01-20,2021-01-21
+2021,JAN. 20-21,Morning Consult,B,1993,RV,0.09,56%,31%,55%,34%,JAN. 20-21 2021,"(datetime.date(2021, 1, 20), datetime.date(2021, 1, 21))",2021-01-20,2021-01-21
+2021,JAN. 20-21,YouGov,B+,1516,A,1.25,45%,28%,46%,29%,JAN. 20-21 2021,"(datetime.date(2021, 1, 20), datetime.date(2021, 1, 21))",2021-01-20,2021-01-21
