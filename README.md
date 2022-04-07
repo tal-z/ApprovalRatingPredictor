@@ -22,14 +22,15 @@ Jupyter Lab/Jupyter Notebook
 Scraped from https://projects.fivethirtyeight.com/biden-approval-rating/
 
 
-#### How a Decision Tree Classifier Works
+## How a Decision Tree Classifier Works:
 
 A decision tree classifier is a binary tree structure, 
-which divides a labeled dataset at each node so as to
-maximize information gain.
+which divides a labeled dataset at each node, 
+to maximize information gain at each point of division. 
+It is a "greedy" algorithm.
 
 ###### Example 1:
-Consider a 2D labeled dataset, where each row is a data point:
+Consider a 2D labeled dataset, where each row is an observation:
 
 | x   | y   | label |
 |-----|-----|-------|
@@ -73,7 +74,7 @@ In this example, we have two nodes eminating from the first decision.
 We can see that one of these nodes (represented by the space above the red line) is "pure."
 The other of our two nodes, below the red  line, is "impure," containing an equal number of green and blue labels. 
 While we can say with a relatively high degree of confidence 
-that anything hypothetical point above the red line should be labeled "blue," 
+that any hypothetical point above the red line should be labeled "blue," 
 it's not yet clear how we should deal with hypothetical points below the line. 
 To answer this question, we will have to keep adding lines until we have pure partitions. 
 It turns out, we only need one more line to satisfy this objective:
@@ -81,3 +82,11 @@ It turns out, we only need one more line to satisfy this objective:
 
 And our pure partitions look like this:
 ![img5.2.png](img5.2.png)
+
+You may notice that there are multiple ways to optimally classify this data. 
+Here's another example, which would provide different predictions in some cases: 
+![img5.3.png](img5.3.png)
+![img5.4.png](img5.4.png)
+
+So, we could say that this dataset does not really provide enough information to disambiguate between these two options. 
+We would probably be best off if we collected more observations for our data before making a prediction.
